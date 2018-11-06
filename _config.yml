@@ -1,0 +1,4 @@
+baseurl: "//ycpcs.github.io/cs497-spring2019"
+markdown: kramdown
+highlighter: rouge
+coursename: "CS 497"
