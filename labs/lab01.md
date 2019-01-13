@@ -5,4 +5,4 @@ title: "Day 1 lab"
 
 # Day 1 lab
 
-TODO: add content
+Getting acquainted with our [Lab Resources](resources/index.html) 
