@@ -8,6 +8,7 @@ title: "Lecture 2: User Authentication"
 - Passwords: Approaches and defensive techniques
 - Guessing strategies and metrics
 - Biometrics (overview and metrics for evaluation)
+- Direct Attacks & Computer Forensics
 
 # Reading 
 
