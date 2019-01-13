@@ -2,8 +2,10 @@
 
 courseInfo.classPeriods = [
 	{
-		topic: new Topic("Lecture 1: TODO", "lectures/lecture01.html"),
-		lab: new NumberedLabNoFile(1, "Day 1 lab topic")
+		topic: new Topic("Intro to Cybersecurity", "lectures/lecture01.html")
+	},
+	{
+		topic: new Topic("Intro to Cybersecurity", "lectures/lecture02.html")
 	},
 ];
 
