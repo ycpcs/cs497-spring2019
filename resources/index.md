@@ -11,6 +11,8 @@ This page contains links to useful resources.
 
 - [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/) is a suite of more than 70 freeware utilities used to monitor, manage and troubleshoot the Windows operating system.
 
+- [Wireshark](https://www.wireshark.org/#download) is the world’s foremost and widely-used network protocol analyzer.
+
 SEED Labs
 ----------------------------------
 Hands-on [Labs](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/) for Security Education 
