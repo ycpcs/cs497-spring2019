@@ -2,11 +2,61 @@
 
 courseInfo.classPeriods = [
 	{
-		topic: new Topic("Intro to Cybersecurity", "lectures/lecture01.html")
+		topic: new Topic("Course Overview", "lectures/lecture01.html")
+	},{
+		topic: new Topic("User Authentication", "lectures/lecture02.html")
+	},{
+		topic: new Topic("User Authentication", "lectures/lecture02.html")
+	},{
+		topic: new Topic("User Authentication", "lectures/lecture03.html")
+	},{
+		topic: new Topic("User Authentication", "lectures/lecture03.html")
+	},{
+		topic: new Topic("Tools from Applied Cryptography", "lectures/lecture04.html")
+	},{
+		topic: new Topic("Tools from Applied Cryptography", "lectures/lecture04.html")
+	},{
+		topic: new Topic("Tools from Applied Cryptography", "lectures/lecture05.html")
+	},{
+		topic: new Topic("Tools from Applied Cryptography", "lectures/lecture05.html")
+	},{
+		topic: new Topic("Authentication Protocols", "lectures/lecture06.html")
+	},{
+		topic: new Topic("Authentication Protocols", "lectures/lecture06.html")
+	},{
+		topic: new Topic("System Security", "lectures/lecture07.html")
+	},{
+		topic: new Topic("System Security", "lectures/lecture07.html")
+	},{
+		topic: new Topic("System Security", "lectures/lecture08.html")
+	},{
+		topic: new Topic("System Security", "lectures/lecture08.html")
+	},{
+		topic: new Topic("Software Security", "lectures/lecture09.html")
+	},{
+		topic: new Topic("Software Security", "lectures/lecture09.html")
+	},{
+		topic: new Topic("Web Security", "lectures/lecture10.html")
+	},{
+		topic: new Topic("Web Security", "lectures/lecture10.html")
+	},{
+		topic: new Topic("Authentication Protocols and Authenticated Key Management", "lectures/lecture11.html")
+	},{
+		topic: new Topic("Authentication Protocols and Authenticated Key Management", "lectures/lecture11.html")
+	},{
+		topic: new Topic("Realtime Protocols", "lectures/lecture12.html")
+	},{
+		topic: new Topic("Realtime Protocols", "lectures/lecture12.html")
+	},{
+		topic: new Topic("Malicious software", "lectures/lecture13.html")
+	},{
+		topic: new Topic("Malicious software", "lectures/lecture13.html")
+	},{
+		topic: new Topic("Firewalls, Perimeter Security and Network Attacks", "lectures/lecture14.html")
+	},{
+		topic: new Topic("Firewalls, Perimeter Security and Network Attacks", "lectures/lecture14.html")
 	},
-	{
-		topic: new Topic("Intro to Cybersecurity", "lectures/lecture02.html")
-	},
+	
 ];
 
 // The following is for the college-scheduled final exam.
