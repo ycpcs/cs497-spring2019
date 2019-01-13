@@ -3,47 +3,66 @@
 courseInfo.classPeriods = [
 	{
 		topic: new Topic("Course Overview", "lectures/lecture01.html"),
-		lab: new Lab("Labs Overview ", "labs/lab01.html")
+		reading: new Reading("Goodrich: Chapter 1"),
+		lab: new Lab("Labs Overview ", "labs/lab01.html")		
 	},{
 		topic: new Topic("Physical Security", "lectures/lecture02.html"),
+		reading: new Reading("Goodrich: Chapter 2"),
 		lab: new Lab("Lab Module 1", "labs/lab02.html")
 	},{
-		topic: new Topic(" Locks, smart cards, computer forensics", "lectures/lecture02.html"),
+		topic: new Topic("Locks, smart cards, computer forensics", "lectures/lecture02.html"),
+		reading: new Reading("Goodrich: Chapter 2"),
 		lab: new Lab("Lab Module 1", "labs/lab02.html")
 	},{
 		topic: new Topic("Operating Systems Security", "lectures/lecture03.html"),
+		reading: new Reading("Goodrich: Chapter 3"),
 		lab: new Lab("Lab Module 2", "labs/lab03.html")
 	},{
 		topic: new Topic("Monitoring, filesystem security, buffer-overflow attacks", "lectures/lecture03.html"),
+		reading: new Reading("Goodrich: Chapter 3"),
 		lab: new Lab("Lab Module 2", "labs/lab03.html")
 	},{
-		topic: new Topic("Malware. Logic bombs", "lectures/lecture04.html")
+		topic: new Topic("Malware. Logic bombs", "lectures/lecture04.html"),
+		reading: new Reading("Goodrich: Chapter 4"),
 	},{
-		topic: new Topic("Trojan horses, viruses, worms, rootkits, adware, spyware", "lectures/lecture04.html")
+		topic: new Topic("Trojan horses, viruses, worms, rootkits, adware, spyware", "lectures/lecture04.html"),
+		reading: new Reading("Goodrich: Chapter 4"),
 	},{
-		topic: new Topic("Network Security I", "lectures/lecture05.html")
+		topic: new Topic("Network Security I", "lectures/lecture05.html"),
+		reading: new Reading("Goodrich: Chapter 5"),
 	},{
-		topic: new Topic("Network Security I", "lectures/lecture05.html")
+		topic: new Topic("Network Security I", "lectures/lecture05.html"),
+		reading: new Reading("Goodrich: Chapter 5"),
 	},{
-		topic: new Topic("Network Security II", "lectures/lecture06.html")
+		topic: new Topic("Network Security II", "lectures/lecture06.html"),
+		reading: new Reading("Goodrich: Chapter 6"),
 	},{
-		topic: new Topic("Network Security II", "lectures/lecture06.html")
+		topic: new Topic("Network Security II", "lectures/lecture06.html"),
+		reading: new Reading("Goodrich: Chapter 6"),
 	},{
-		topic: new Topic("Web Browser Security", "lectures/lecture07.html")
+		topic: new Topic("Web Browser Security", "lectures/lecture07.html"),
+		reading: new Reading("Goodrich: Chapter 7"),
 	},{
-		topic: new Topic("Web Browser Security", "lectures/lecture07.html")
+		topic: new Topic("Web Browser Security", "lectures/lecture07.html"),
+		reading: new Reading("Goodrich: Chapter 7"),
 	},{
-		topic: new Topic("Cryptography", "lectures/lecture08.html")
+		topic: new Topic("Cryptography", "lectures/lecture08.html"),
+		reading: new Reading("Goodrich: Chapter 8"),
 	},{
-		topic: new Topic("Cryptography", "lectures/lecture08.html")
+		topic: new Topic("Cryptography", "lectures/lecture08.html"),
+		reading: new Reading("Goodrich: Chapter 8"),
 	},{
-		topic: new Topic("Applications I, Email", "lectures/lecture09.html")
+		topic: new Topic("Applications - Email", "lectures/lecture09.html"),
+		reading: new Reading("Goodrich: Chapter 10"),
 	},{
-		topic: new Topic("Applications I, Payment Systems", "lectures/lecture09.html")
+		topic: new Topic("Applications - Payment Systems", "lectures/lecture09.html"),
+		reading: new Reading("Goodrich: Chapter 10"),
 	},{
-		topic: new Topic("Applications II", "lectures/lecture10.html")
+		topic: new Topic("Applications - Voting systems", "lectures/lecture10.html"),
+		reading: new Reading("Goodrich: Chapter 10"),
 	},{
-		topic: new Topic("Applications II", "lectures/lecture10.html")
+		topic: new Topic("Applications - Social Networking", "lectures/lecture10.html"),
+		reading: new Reading("Goodrich: Chapter 10"),
 	},{
 		topic: new Topic("TBD", "lectures/lecture11.html")
 	},{
