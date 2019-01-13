@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lecture 1: Course Overview "
+title: "Lecture 2: User Authentication"
 ---
 
 # Lecture 2
