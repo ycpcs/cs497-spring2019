@@ -5,12 +5,13 @@ title: "Lecture 4: Malware "
 
 # Lecture 4
 
-- Malware Introduction
+- Malicious software
 - Logic bombs
 - Trojan horses
 - Viruses & worms
 - Rootkits
-- Adware & spyware.
+- Adware & spyware
+- Propagation strategies and some defense mechanisms
 
 # Reading 
 
