@@ -5,65 +5,64 @@ courseInfo.classPeriods = [
 		topic: new Topic("Course Overview", "lectures/lecture01.html"),
 		lab: new Lab("Labs Overview ", "labs/lab01.html")
 	},{
-		topic: new Topic("User Authentication", "lectures/lecture02.html"),
+		topic: new Topic("Physical Security", "lectures/lecture02.html"),
 		lab: new Lab("Lab Module 1", "labs/lab02.html")
 	},{
-		topic: new Topic("User Authentication", "lectures/lecture02.html"),
+		topic: new Topic(" Locks, smart cards, computer forensics", "lectures/lecture02.html"),
 		lab: new Lab("Lab Module 1", "labs/lab02.html")
 	},{
-		topic: new Topic("User Authentication", "lectures/lecture03.html"),
+		topic: new Topic("Operating Systems Security", "lectures/lecture03.html"),
 		lab: new Lab("Lab Module 2", "labs/lab03.html")
 	},{
-		topic: new Topic("User Authentication", "lectures/lecture03.html"),
+		topic: new Topic("Monitoring, filesystem security, buffer-overflow attacks", "lectures/lecture03.html"),
 		lab: new Lab("Lab Module 2", "labs/lab03.html")
 	},{
-		topic: new Topic("Tools from Applied Cryptography", "lectures/lecture04.html")
+		topic: new Topic("Malware. Logic bombs", "lectures/lecture04.html")
 	},{
-		topic: new Topic("Tools from Applied Cryptography", "lectures/lecture04.html")
+		topic: new Topic("Trojan horses, viruses, worms, rootkits, adware, spyware", "lectures/lecture04.html")
 	},{
-		topic: new Topic("Tools from Applied Cryptography", "lectures/lecture05.html")
+		topic: new Topic("Network Security I", "lectures/lecture05.html")
 	},{
-		topic: new Topic("Tools from Applied Cryptography", "lectures/lecture05.html")
+		topic: new Topic("Network Security I", "lectures/lecture05.html")
 	},{
-		topic: new Topic("Authentication Protocols", "lectures/lecture06.html")
+		topic: new Topic("Network Security II", "lectures/lecture06.html")
 	},{
-		topic: new Topic("Authentication Protocols", "lectures/lecture06.html")
+		topic: new Topic("Network Security II", "lectures/lecture06.html")
 	},{
-		topic: new Topic("System Security", "lectures/lecture07.html")
+		topic: new Topic("Web Browser Security", "lectures/lecture07.html")
 	},{
-		topic: new Topic("System Security", "lectures/lecture07.html")
+		topic: new Topic("Web Browser Security", "lectures/lecture07.html")
 	},{
-		topic: new Topic("System Security", "lectures/lecture08.html")
+		topic: new Topic("Cryptography", "lectures/lecture08.html")
 	},{
-		topic: new Topic("System Security", "lectures/lecture08.html")
+		topic: new Topic("Cryptography", "lectures/lecture08.html")
 	},{
-		topic: new Topic("Software Security", "lectures/lecture09.html")
+		topic: new Topic("Applications I, Email", "lectures/lecture09.html")
 	},{
-		topic: new Topic("Software Security", "lectures/lecture09.html")
+		topic: new Topic("Applications I, Payment Systems", "lectures/lecture09.html")
 	},{
-		topic: new Topic("Web Security", "lectures/lecture10.html")
+		topic: new Topic("Applications II", "lectures/lecture10.html")
 	},{
-		topic: new Topic("Web Security", "lectures/lecture10.html")
+		topic: new Topic("Applications II", "lectures/lecture10.html")
 	},{
-		topic: new Topic("Authentication Protocols and Authenticated Key Management", "lectures/lecture11.html")
+		topic: new Topic("TBD", "lectures/lecture11.html")
 	},{
-		topic: new Topic("Authentication Protocols and Authenticated Key Management", "lectures/lecture11.html")
+		topic: new Topic("TBD", "lectures/lecture11.html")
 	},{
-		topic: new Topic("Realtime Protocols", "lectures/lecture12.html")
+		topic: new Topic("TBD", "lectures/lecture12.html")
 	},{
-		topic: new Topic("Realtime Protocols", "lectures/lecture12.html")
+		topic: new Topic("TBD", "lectures/lecture12.html")
 	},{
-		topic: new Topic("Malicious software", "lectures/lecture13.html")
+		topic: new Topic("TBD", "lectures/lecture13.html")
 	},{
-		topic: new Topic("Malicious software", "lectures/lecture13.html")
+		topic: new Topic("TBD", "lectures/lecture13.html")
 	},{
-		topic: new Topic("Firewalls, Perimeter Security and Network Attacks", "lectures/lecture14.html")
+		topic: new Topic("TBD", "lectures/lecture14.html")
 	},{
-		topic: new Topic("Firewalls, Perimeter Security and Network Attacks", "lectures/lecture14.html")
+		topic: new Topic("TBD", "lectures/lecture14.html")
 	},{
-		topic: new Topic("Course wrap up")
+		topic: new Topic("Course wrap up", null)
 	},
-	
 ];
 
 // The following is for the college-scheduled final exam.
