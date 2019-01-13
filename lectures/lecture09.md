@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lecture 9: Applications"
+title: "Lecture 9: Applications I"
 ---
 
 # Lecture 9
