@@ -3,10 +3,10 @@
 courseInfo.classPeriods = [
 	{
 		topic: new Topic("Course Overview", "lectures/lecture01.html"),
-		lab: new NumberedLab("1", "labs/lab01.html")
+		lab: new NumberedLab("1", "labs/lab01.html", null)
 	},{
 		topic: new Topic("User Authentication", "lectures/lecture02.html"),
-		lab: new NumberedLab("2", "Day 2 lab topic")
+		lab: new Lab("2", "labs/lab02.html")
 	},{
 		topic: new Topic("User Authentication", "lectures/lecture02.html")
 	},{
