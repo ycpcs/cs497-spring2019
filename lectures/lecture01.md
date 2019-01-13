@@ -1,8 +1,13 @@
 ---
 layout: default
-title: "Lecture 1: TODO"
+title: "Lecture 1: Course Overview "
 ---
 
 # Lecture 1
 
-TODO: add content
+- Introduction and basic concepts
+- Attack surface and risk assessment
+
+# Reading 
+
+Introduction to Computer Security: Chapter 1
