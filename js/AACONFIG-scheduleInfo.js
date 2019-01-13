@@ -3,16 +3,19 @@
 courseInfo.classPeriods = [
 	{
 		topic: new Topic("Course Overview", "lectures/lecture01.html"),
-		lab: new NumberedLab("1", "labs/lab01.html", null)
+		lab: new Lab("Labs Overview ", "labs/lab01.html")
 	},{
 		topic: new Topic("User Authentication", "lectures/lecture02.html"),
-		lab: new Lab("2", "labs/lab02.html")
+		lab: new Lab("Lab Module 1", "labs/lab02.html")
 	},{
-		topic: new Topic("User Authentication", "lectures/lecture02.html")
+		topic: new Topic("User Authentication", "lectures/lecture02.html"),
+		lab: new Lab("Lab Module 1", "labs/lab02.html")
 	},{
-		topic: new Topic("User Authentication", "lectures/lecture03.html")
+		topic: new Topic("User Authentication", "lectures/lecture03.html"),
+		lab: new Lab("Lab Module 2", "labs/lab03.html")
 	},{
-		topic: new Topic("User Authentication", "lectures/lecture03.html")
+		topic: new Topic("User Authentication", "lectures/lecture03.html"),
+		lab: new Lab("Lab Module 2", "labs/lab03.html")
 	},{
 		topic: new Topic("Tools from Applied Cryptography", "lectures/lecture04.html")
 	},{
