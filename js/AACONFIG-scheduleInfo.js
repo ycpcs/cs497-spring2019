@@ -4,23 +4,23 @@ courseInfo.classPeriods = [
 	{
 		topic: new Topic("Course Overview", "lectures/lecture01.html"),
 		reading: new Reading("Goodrich: Chapter 1"),
-		lab: new Lab("Labs Overview ", "labs/lab01.html")		
+		lab: new Lab("Labs Overview ", "lab01.html")		
 	},{
 		topic: new Topic("Physical Security", "lectures/lecture02.html"),
 		reading: new Reading("Goodrich: Chapter 2"),
-		lab: new Lab("Lab Module 1", "labs/lab02.html")
+		lab: new Lab("Lab Module 1", "lab02.html")
 	},{
 		topic: new Topic("Locks, smart cards, computer forensics", "lectures/lecture02.html"),
 		reading: new Reading("Goodrich: Chapter 2"),
-		lab: new Lab("Lab Module 1", "labs/lab02.html")
+		lab: new Lab("Lab Module 1", "lab02.html")
 	},{
 		topic: new Topic("Operating Systems Security", "lectures/lecture03.html"),
 		reading: new Reading("Goodrich: Chapter 3"),
-		lab: new Lab("Lab Module 2", "labs/lab03.html")
+		lab: new Lab("Lab Module 2", "lab03.html")
 	},{
 		topic: new Topic("Monitoring, filesystem security, buffer-overflow attacks", "lectures/lecture03.html"),
 		reading: new Reading("Goodrich: Chapter 3"),
-		lab: new Lab("Lab Module 2", "labs/lab03.html")
+		lab: new Lab("Lab Module 2", "lab03.html")
 	},{
 		topic: new Topic("Malware. Logic bombs", "lectures/lecture04.html"),
 		reading: new Reading("Goodrich: Chapter 4"),
