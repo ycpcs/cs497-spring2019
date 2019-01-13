@@ -1,6 +1,6 @@
 ---
 layout: schedule
-title: "Schedule"
+title: "CS497 Course Schedule - Spring 2019"
 ---
 
 This page lists the schedule for the course.  Note that there may be minor changes: any changes will be announced in class and posted here.
