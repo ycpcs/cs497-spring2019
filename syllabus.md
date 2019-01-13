@@ -78,9 +78,10 @@ Grades are assigned on a 100-point scale:
 Your overall grade for the course will be determined as follows:
 
 -   Homework assignments: 25%
--   Labs: 35%
+-   Labs: 30%
 -   Quizes: 15%
 -   Final project: 25%
+-   Participation and attendance: 5%
 
 ### Course website
 
