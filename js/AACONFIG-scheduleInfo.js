@@ -64,9 +64,9 @@ courseInfo.classPeriods = [
 		topic: new Topic("Applications - Social Networking", "lectures/lecture10.html"),
 		reading: new Reading("Goodrich: Chapter 10"),
 	},{
-		topic: new Topic("TBD", "lectures/lecture11.html")
+		topic: new Topic("Web Security", "lectures/lecture11.html")
 	},{
-		topic: new Topic("TBD", "lectures/lecture11.html")
+		topic: new Topic("Privacy and Anonymity on the Internet", "lectures/lecture11.html")
 	},{
 		topic: new Topic("TBD", "lectures/lecture12.html")
 	},{
