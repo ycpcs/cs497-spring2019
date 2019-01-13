@@ -86,7 +86,7 @@ Please check the course web page, <https://ycpcs.github.io/cs497-spring2019/>, r
 
 ### Reading Assignments
 
-TODO: reading assignment policy
+Reading assignments are posted on the [course schedule](schedule/index.html). The class format will consist of a brief discussions of the day's topic, such that the majority of the time can focus on completing the corresponding lab.
 
 ### Homework Assignments
 
