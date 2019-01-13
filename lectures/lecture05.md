@@ -7,7 +7,7 @@ title: "Lecture 5: Course Overview "
 
 - Network Security
 - Basic Internet technology
-- sSoofing, sniffing, session hijacking
+- Spoofing, sniffing, session hijacking
 - Denial-of-service botnets
 
 # Reading 
