@@ -55,6 +55,8 @@ courseInfo.classPeriods = [
 		topic: new Topic("Firewalls, Perimeter Security and Network Attacks", "lectures/lecture14.html")
 	},{
 		topic: new Topic("Firewalls, Perimeter Security and Network Attacks", "lectures/lecture14.html")
+	},{
+		topic: new Topic("Course wrap up")
 	},
 	
 ];
