@@ -3,7 +3,7 @@ layout: default
 title: "Syllabus"
 ---
 
-CS 497 - Cyber Security
+Cyber Security
 ====================================
 
 **Spring 2019**
