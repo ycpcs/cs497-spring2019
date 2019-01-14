@@ -81,7 +81,7 @@ courseInfo.classPeriods = [
 	},{
 		topic: new Topic("TBD", "lectures/lecture14.html")
 	},{
-		topic: new Topic("Course wrap up", null)
+		topic: new Topic("Course wrap up", "lectures/lecture15.html")
 	},
 ];
 
