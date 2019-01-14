@@ -69,7 +69,7 @@ function populateCalendar() {
     for (var calendarIndex=0, topicIndex=0; calendarIndex < regularSemesterDays; calendarIndex++) {
         if ((calendar[calendarIndex].topic === undefined) && (courseInfo.classPeriods[topicIndex] !== undefined)) {
             calendar[calendarIndex].topic = courseInfo.classPeriods[topicIndex].topic;
-            calendar[calendarIndex].reading = courseInfo.classPeriods[topicIndex].reading;
+            // calendar[calendarIndex].reading = courseInfo.classPeriods[topicIndex].reading;
             calendar[calendarIndex].lab = courseInfo.classPeriods[topicIndex].lab;
             calendar[calendarIndex].assign = courseInfo.classPeriods[topicIndex].assign;
             calendar[calendarIndex].reading = courseInfo.classPeriods[topicIndex].reading;
@@ -149,7 +149,7 @@ function getTopicString(topic) {
 
 
 function getReadingString(reading) {
-    return (reading !== undefined) ? reading : "";
+    return (reading !== undefined) ? reading.title : "";
 }
 
 
