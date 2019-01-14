@@ -40,40 +40,51 @@ courseInfo.classPeriods = [
 	},{
 		topic: new Topic("Network Security II", "lectures/lecture06.html"),
 		reading: new Reading("Chapter 6"),
-		lab: new Lab(null)
+		lab: new Lab("Lab Module 6", "lab06.html")
 	},{
 		topic: new Topic("Network Security II", "lectures/lecture06.html"),
 		reading: new Reading("Chapter 6"),
+		lab: new Lab("Lab Module 6", "lab06.html")
 	},{
 		topic: new Topic("Web Browser Security", "lectures/lecture07.html"),
 		reading: new Reading("Chapter 7"),
+		lab: new Lab("Lab Module 7", "lab07.html")
 	},{
 		topic: new Topic("Web Browser Security", "lectures/lecture07.html"),
 		reading: new Reading("Chapter 7"),
+		lab: new Lab("Lab Module 7", "lab07.html")
 	},{
 		topic: new Topic("Cryptography", "lectures/lecture08.html"),
 		reading: new Reading("Chapter 8"),
+		lab: new Lab("Lab Module 8", "lab08.html")
 	},{
 		topic: new Topic("Cryptography", "lectures/lecture08.html"),
 		reading: new Reading("Chapter 8"),
+		lab: new Lab("Lab Module 8", "lab08.html")
 	},{
 		topic: new Topic("Applications - Email", "lectures/lecture09.html"),
 		reading: new Reading("Chapter 10"),
+		lab: new Lab("Lab Module 9", "lab09.html")
 	},{
 		topic: new Topic("Applications - Payment Systems", "lectures/lecture09.html"),
 		reading: new Reading("Chapter 10"),
+		lab: new Lab("Lab Module 9", "lab09.html")
 	},{
 		topic: new Topic("Applications - Voting systems", "lectures/lecture10.html"),
 		reading: new Reading("Chapter 10"),
+		lab: new Lab("Lab Module 10", "lab10.html")
 	},{
 		topic: new Topic("Applications - Social Networking", "lectures/lecture10.html"),
 		reading: new Reading("Chapter 10"),
+		lab: new Lab("Lab Module 10", "lab10.html")
 	},{
 		topic: new Topic("Web Security", "lectures/lecture11.html"),
 		reading: new Reading("In class discussion"),
+		lab: new Lab("Lab Module 11", "lab11.html")
 	},{
 		topic: new Topic("Privacy and Anonymity on the Internet", "lectures/lecture11.html"),
 		reading: new Reading("In class discussion"),
+		lab: new Lab("Lab Module 11", "lab11.html")
 	},{
 		topic: new Topic("TBD", "lectures/lecture12.html")
 	},{
