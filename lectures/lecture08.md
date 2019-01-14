@@ -12,4 +12,5 @@ title: "Lecture 8: Cryptography"
 
 # Reading 
 
-Introduction to Computer Security: Chapter 8
+- Introduction to Computer Security: Chapter 8
+- W. Diffie, [New Directions in Cryptography](https://cs.unc.edu/~fabian/course_papers/diffie.hellman.pdf)
