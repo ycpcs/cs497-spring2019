@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Day 1 lab"
+title: "Lab 1"
 ---
 
-# Day 1 lab
+# Lab 1
 
 Getting acquainted with our [Lab Resources](../resources/index.html) 
