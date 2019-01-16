@@ -8,7 +8,7 @@ courseInfo.classPeriods = [
 	},{
 		topic: new Topic("Physical Security", "lectures/lecture02.html"),
 		reading: new Reading("Chapter 2"),
-		lab: new Lab("Lab Module 2", "lab02.html")
+		lab: new Lab("Lab Module 2 - Password", "lab02.html")
 	},{
 		topic: new Topic("Locks, smart cards, computer forensics", "lectures/lecture02.html"),
 		reading: new Reading("Chapter 2"),
