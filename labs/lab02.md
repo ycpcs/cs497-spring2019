@@ -26,8 +26,8 @@ character
 
 # Task 2 - Cracking the passwords
 1. Open up John the Ripper program
-2. Introduction to [password racking with John the Ripper](https://www.youtube.com/watch?v=pNedfUt0F8k)
-3. Type john –format=raw-md5 then the location of the hash file. This will brute force to
+2. Go over the provided examples. Alternatively, short introduction to password racking with John the Ripper acn be found [here](https://www.youtube.com/watch?v=pNedfUt0F8k)
+3. Type john –format=md5 then the location of the hash file. This will brute force to
 find the password. 
 4. Measure the time it takes to fine all the passwords. Wait at least 15-20 minutes.
 5. Identify if not all passwords are found immediately.
