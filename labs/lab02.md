@@ -9,7 +9,7 @@ In this lab you will be using a password cracking tool called John the Ripper. [
 
 # Task 1 - Create hash file 
 
-1. Go to [md5hashgenerator] (https://www.md5hashgenerator.com/) and create six (6) different hashes to break.
+1. Go to [md5hashgenerator](https://www.md5hashgenerator.com/) and create six (6) different hashes to break.
 2. Create one for each of the following:
     - just numbers
     - lower case name
