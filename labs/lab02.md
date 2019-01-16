@@ -5,7 +5,7 @@ title: "Lab 2"
 
 # Lab 2
 
-In this lab you will be using a password cracking tool called [John the Ripper](https://github.com/magnumripper/JohnTheRipper).
+In this lab you will be using a password cracking tool called [John the Ripper](https://www.openwall.com/john/) or the [repo](https://github.com/magnumripper/JohnTheRipper).
 
 # Task 1 - Create hash file 
 
@@ -20,7 +20,7 @@ In this lab you will be using a password cracking tool called [John the Ripper](
 character
 
 3. Examples: 12345, password, pass123, Password, Pass23, P@ss23
-4. Open a text editor and save the hashes generated. Identify them as user 1:, user2:, etc.
+4. Open a text editor and save the hashes generated. Identify them as user 1:, user 2:, etc.
     - Save file to the desktop.
 5. Take a screen shot of the user names and passwords for your report.
 
