@@ -3,7 +3,7 @@ layout: default
 title: "Lab 2"
 ---
 
-# Lab 2 - Password CRacking 
+# Lab 2 - Password Cracking 
 
 In this lab you will be using a password cracking tool called John the Ripper. [Binary](https://www.openwall.com/john/) or the [repo](https://github.com/magnumripper/JohnTheRipper).
 
