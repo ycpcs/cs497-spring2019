@@ -3,7 +3,7 @@ layout: default
 title: "Lab 2"
 ---
 
-# Lab 2
+# Lab 2 - Password CRacking 
 
 In this lab you will be using a password cracking tool called [John the Ripper](https://www.openwall.com/john/) or the [repo](https://github.com/magnumripper/JohnTheRipper).
 
@@ -26,13 +26,14 @@ character
 
 # Task 2 - Cracking the passwords
 1. Open up John the Ripper program
-2. Type john –format=raw-md5 then the location of the hash file. This will brute force to
-find the password.
-3. Measure the time it takes to fine all the passwords. Wait at least 15-20 minutes.
-4. Identify if not all passwords are found immediately.
-5. Take a screen shot of your results for the report. Be sure to include the time it took to
+2. Introduction to [password racking with John the Ripper](https://www.youtube.com/watch?v=pNedfUt0F8k)
+3. Type john –format=raw-md5 then the location of the hash file. This will brute force to
+find the password. 
+4. Measure the time it takes to fine all the passwords. Wait at least 15-20 minutes.
+5. Identify if not all passwords are found immediately.
+6. Take a screen shot of your results for the report. Be sure to include the time it took to
 break the password hashes and the order they were broken in.
-6. Once done create your report.
+7. Once done create your report.
 
 # Task 3 - Report
 
