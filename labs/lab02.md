@@ -5,7 +5,7 @@ title: "Lab 2"
 
 # Lab 2 - Password CRacking 
 
-In this lab you will be using a password cracking tool called [John the Ripper](https://www.openwall.com/john/) or the [repo](https://github.com/magnumripper/JohnTheRipper).
+In this lab you will be using a password cracking tool called John the Ripper. [Binary](https://www.openwall.com/john/) or the [repo](https://github.com/magnumripper/JohnTheRipper).
 
 # Task 1 - Create hash file 
 
