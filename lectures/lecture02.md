@@ -1,5 +1,6 @@
 ---
 layout: default
+course_number: CS497
 title: "Lecture 2: Physical Security"
 ---
 
