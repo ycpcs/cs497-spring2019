@@ -1,9 +1,11 @@
 ---
 layout: schedule
+course_number: CS497
 title: "Course Schedule - Spring 2019"
 ---
 
-This page lists the schedule for the course.  Note that there may be minor changes: any changes will be announced in class and posted here.
+The following schedule is subject to change.
+Additional content will be added as it becomes available throughout the semester.<br>
 
 <script>autogenCalendar({ omitLabs: true, omitFinalExams: true });</script>
 
