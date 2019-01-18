@@ -14,7 +14,7 @@ var courseInfo = {
 
 	// The following is for the college-scheduled final exam.
 	// It is not used if final is on last day of class
-	finalExamDates = [
+	finalExamDates: [
 		new FinalExamDay("801", new Date("05/13/2018 19:00:00")),
 	],
 
