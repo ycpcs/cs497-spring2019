@@ -175,4 +175,7 @@ If you had an IEP or 504 plan in high school or if you have a disability or heal
 
 ### Disclaimer
 
-This syllabus is subject to change by the instructor.
+The instructor reserves the right to modify all policies within this syllabus including, but not limited to, number of 
+assignments, weighting of assignments, and homework policies. Any significant changes will be announced to all students 
+via email.
+
