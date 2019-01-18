@@ -6,9 +6,10 @@ title: "Lecture 3: Operating Systems Security"
 
 # Lecture 3
 
-- Terms and definitions
-- Monitoring, filesystem security.
-- Buffer-overflow attacks
+- OS Concepts
+- OS Security
+- Filesystem Security
+- Buffer Overflow Attacks
 
 # Reading 
 
