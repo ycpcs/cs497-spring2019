@@ -1,33 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
-		<meta charset="UTF-8">
-		<title>{{site.coursename}}: {{page.title}}</title>
-		<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/site.css">
-		<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/syntax.css">
-		<script type="text/javascript" src="{{site.baseurl}}/js/AACONFIG-courseInfo.js"></script>
-		<script type="text/javascript" src="{{site.baseurl}}/js/header.js"></script>
-		<script type="text/javascript" src="{{site.baseurl}}/js/AACONFIG-semesterInfo.js"></script>
-		<script type="text/javascript" src="{{site.baseurl}}/js/AACONFIG-scheduleInfo.js"></script>
-		<script type="text/javascript" src="{{site.baseurl}}/js/calendarGenerator.js"></script>
-	</head>
+		<meta charset="utf-8" />
+		<title>{{ page.course_number }} - {{ page.title }}</title>
+
+		<link rel="stylesheet" href="{{ site.url }}/css/site.css" />
+		<link rel="stylesheet" href="{{ site.url }}/css/syntax.css" />
+
+        <script type="text/javascript" src="./js/header.js"></script>
+        <script type="text/javascript" src="./js/AACONFIG-semesterInfo.js"></script>
+        <script type="text/javascript" src="./js/AACONFIG-courseInfo.js"></script>
+        <script type="text/javascript" src="./js/calendarGenerator.js"></script>
+    </head>
+
 	<body>
-		<div id="wrap">
-			<div id="content">
-				<div id="header"><a href="{{site.baseurl}}/">{{site.coursename}}</a>: {{page.title}}</div>
-				<div style="text-align: center; font-style: italic;">Preliminary content &mdash; not official yet</div>
-				{{content}}
-				<div id="footer">
-					<a href="{{site.baseurl}}/README.html">Copyright (c) 2019</a> |
-					Unless indicated otherwise, content is freely redistributable |
-					<a class="cc-img" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="{{site.baseurl}}/img/cc-by-sa-80x15.png" /></a>
-				</div>
-				<div id="footer-pad"></div>
-			</div>
+		<div class="pageheader">
+			<h1><a href="{{ site.url }}">{{ page.course_number }}</a>: {{ page.title }}</h1>
+		</div>
+		<div class="content">
+		{{ content }}
+		</div>
+
+		<div class="footer">
+			<a href="{{ site.url }}/README.html">Copyright (c) 2005-2019</a> | Unless indicated otherwise, content is freely-redistributable |
+			<a class="cc-img" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 		</div>
 	</body>
 </html>
-
-<!--
-vim:ts=2:
--->
