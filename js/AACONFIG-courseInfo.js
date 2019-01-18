@@ -118,8 +118,8 @@ var courseInfo = {
 		topic: new Topic("TBD", "lectures/lecture14.html")
 	},{
 		topic: new Topic("Course wrap up", "lectures/lecture15.html")
-	},
-];
+	}
+	]
 };
 
 // Final exam days and class periods are added in AACONFIG-scheduleInfo.js
