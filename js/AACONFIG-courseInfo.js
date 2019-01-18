@@ -19,7 +19,7 @@ var courseInfo = {
 	],
 
 	// This file defines the class periods and final exam days.
-	classPeriods = [{
+	classPeriods: [{
 		topic: new Topic("Course Overview", "lectures/lecture01.html"),
 		reading: new Reading("Chapter 1"),
 		lab: new Lab("Lab Module 1 - Overview", "lab01.html")
