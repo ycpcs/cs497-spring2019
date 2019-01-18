@@ -10,7 +10,7 @@ Additional content will be added as it becomes available throughout the semester
 
 **Week**       | **Lab**                                                                |  **Due**                                                                                                                   
 :--------------|:-----------------------------------------------------------------------|:--------------------------    
-Week of Jan 28 |  [Lab 1](lab1.html)                                                    | N/A
+Week of Jan 28 |  [Lab 01](lab1.html)                                                    | N/A
 Week of Feb 4  |  |
 Week of Feb 11 |  |
 Week of Feb 18 |  |
