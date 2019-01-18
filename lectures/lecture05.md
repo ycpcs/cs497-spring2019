@@ -9,7 +9,7 @@ title: "Lecture 5: Course Overview "
 - Network Security
 - Basic Internet technology
 - TCP/IP
-- Network models and ARP security.
+- Network models and ARP security
 - Spoofing, sniffing, session hijacking
 - Denial-of-service botnets
 
