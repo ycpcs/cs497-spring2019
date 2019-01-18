@@ -1,4 +1,12 @@
-baseurl: "//ycpcs.github.io/cs497-spring2019"
-markdown: kramdown
-highlighter: rouge
-coursename: "CS 497"
+name: ""
+description: ""
+
+url: "//ycpcs.github.io/cs497-spring2019"
+
+
+kramdown:
+    input: GFM
+    hard_wrap: false
+gems:
+    - jekyll-coffeescript
+    - jekyll-paginate
