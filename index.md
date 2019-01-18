@@ -1,5 +1,6 @@
 ---
 layout: default
+course_number: CS497
 title: "Home page"
 ---
 
@@ -7,7 +8,8 @@ title: "Home page"
 
 <div id="subtitle">Cybersecurity</div>
 
-This is the website for CS 497, Spring 2019 at York College.  All information about the course will be posted here.
+This is the website for CS 497, Spring 2019 at [York College of Pennsylvania](http://www.ycp.edu).
+All information related to the course will be posted here.
 
 ## Links
 
