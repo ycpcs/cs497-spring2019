@@ -120,8 +120,6 @@ Programs will be graded based on the following criteria:
 
 ### Final Project
 
-### Final Project
-
 The project will be on a topic of interest not covered in class. The intent is to provide an opportunity for the student to investigate current research. There will be periodic milestones throughout the semester to encourage you to start early and make continuous progress as new material is covered. The project will consist of a short written report and an oral presentation. Further details will be provided later in the semester.
 
 ### Posting and submission of assignments and labs
