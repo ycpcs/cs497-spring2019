@@ -10,8 +10,8 @@ Additional content will be added as it becomes available throughout the semester
 
 **Week**       | **Lab**                                                                |  **Due**                                                                                                                   
 :--------------|:-----------------------------------------------------------------------|:--------------------------    
-Week of Jan 28 |  [Lab 1](lab01.html)                                                    | N/A
-Week of Feb 4  |  |
+Week of Jan 28 |  Labs [Setup](lab01.html)                                              | N/A
+Week of Feb 4  |  Set-UID Program Vulnerability [Lab](Set-UID.pdf)                      |
 Week of Feb 11 |  |
 Week of Feb 18 |  |
 Week of Feb 25 |  |
