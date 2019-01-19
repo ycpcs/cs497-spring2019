@@ -83,11 +83,12 @@ Grades are assigned on a 100-point scale:
 
 Your overall grade for the course will be determined as follows:
 
--   Homework assignments: 25%
--   Labs: 30%
--   Quizes: 15%
+-   Labs and assignments: 50% (†)
+-   Comprehensive exam: 20%
 -   Final project: 25%
--   Participation and attendance: 5%
+-   Attendance and participation: 5%
+
+(†) You must make a good faith effort to complete all of the labs and assignments in order to pass the course. Failure to complete all labs and assignments is grounds for receiving a reduced or failing grade for the course.
 
 ### Course website
 
