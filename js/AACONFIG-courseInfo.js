@@ -96,6 +96,10 @@ var courseInfo = {
 		reading: new Reading("Chapter 10"),
 		lab: new Lab("Lab Module 10", "lab10.html")
 	}, {
+		topic: new Topic( "** Comprehensive Exam", "" )
+	}, {
+		topic: new Topic("Review of Exam")
+	}, {
 		topic: new Topic("Web Security", "lectures/lecture11.html"),
 		reading: new Reading("In class discussion"),
 		lab: new Lab("Lab Module 11", "lab11.html")
@@ -104,19 +108,15 @@ var courseInfo = {
 		reading: new Reading("In class discussion"),
 		lab: new Lab("Lab Module 11", "lab11.html")
 	}, {
-		topic: new Topic("TBD", "lectures/lecture12.html")
+		topic: new Topic("TBD", "lectures/lecture11.html")
+	}, {
+		topic: new Topic("TBD", "lectures/lecture11.html")
 	}, {
 		topic: new Topic("TBD", "lectures/lecture12.html")
 	}, {
-		topic: new Topic("TBD", "lectures/lecture13.html")
+		topic: new Topic("TBD", "lectures/lecture12.html")
 	}, {
-		topic: new Topic("TBD", "lectures/lecture13.html")
-	}, {
-		topic: new Topic("TBD", "lectures/lecture14.html")
-	}, {
-		topic: new Topic("TBD", "lectures/lecture14.html")
-	}, {
-		topic: new Topic("Course wrap up", "lectures/lecture15.html")
+		topic: new Topic("Course wrap up", "lectures/lecture13.html")
 	}]
 };
 
