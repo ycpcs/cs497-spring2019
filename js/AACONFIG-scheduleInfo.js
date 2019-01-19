@@ -79,7 +79,7 @@ courseInfo.classPeriods = [
 		lab: new Lab("Lab Module 10", "lab10.html")
 	},{
 		topic: new Topic( "** Comprehensive Exam", "" )
-	},
+	},{
 		topic: new Topic("Review of Exam")
 	},{
 		topic: new Topic("Web Security", "lectures/lecture11.html"),
