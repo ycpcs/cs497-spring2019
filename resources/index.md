@@ -14,6 +14,8 @@ This page contains links to useful resources.
 
 - [Wireshark](https://www.wireshark.org/#download) is the world’s foremost and widely-used network protocol analyzer.
 
+- [Hash Suite](https://hashsuite.openwall.net/) is a Windows program to test security of password hashes. 
+
 SEED Labs
 ----------------------------------
 Hands-on [Labs](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/) for Security Education 
