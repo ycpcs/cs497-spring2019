@@ -177,6 +177,14 @@ York College recognizes the importance of effective communication in all discipl
 
 If you had an IEP or 504 plan in high school or if you have a disability or health condition that impacts you in the classroom, please contact Linda Miller, Director of Disability Support Services, at 815-1785 or <lmille18@ycp.edu> to discuss obtaining the accommodations for which you may be eligible. If you already have an accommodation memo and wish to access your accommodations in this class, please see me confidentially to discuss.
 
+### Advice
+
+- Don't wait until the last minute to start projects! The projects can be time-consuming. Pace yourself. Students who procrastinate generally suffer.
+
+- Ask the questions you have.
+
+- Participate actively in discussions! 
+
 ### Disclaimer
 
 The instructor reserves the right to modify all policies within this syllabus including, but not limited to, number of 
