@@ -9,8 +9,17 @@ Cyber Security Ethics
 
 **Spring 2019**
 
-In this class, you will be exposed to knowledge and techniques that can be used for hacking, penetrating and attacking computer systems.
+Even though this is an introductory course in Computer Security, you will be exposed to knowledge and techniques that can be used for hacking, penetrating and attacking various computer systems.
 
-While these are an integral part of a course on Computer Security, applying them **in the real world** can lead to violation of local and international laws and/or of institutional policies. This may have very serious consequences: do not take it lightly. 
+We will be discussing several attacks, explorations and implementations in this class, some of them quite nasty. 
 
-We will be discussing attacks in this class, some of them quite nasty. None of this is in any way an invitation to undertake these attacks in any fashion other than with informed consent of all involved and affected parties. The existence of a security hole is no excuse. These issues concern not only professional ethics, but also YCP policy and state and federal law. If there is any question in your mind about what conduct is allowable, contact the instructors first.
+While these are an integral part of a course on Computer Security, applying them in the real world can lead to violation of local and international laws and/or of institutional policies, and it may be unethical. This will have very serious consequences: do not take it lightly. Under some circumstances, even probing for weaknesses may result in severe penalties, up to and including expulsion, civil fines, and jail time.
+
+The existence of a security hole is no excuse. These issues concern not only professional ethics, but also YCP policy and state and federal law. If there is any question in your mind about what conduct is allowable, contact the instructors first.
+
+Acting lawfully and ethically is your responsibility. Carefully read the Computer Fraud and Abuse Act [CFAA]( http://uscode.house.gov/view.xhtml?req=(title:18%20section:1030%20edition:prelim)), a federal statute that broadly criminalizes computer intrusion. This is one of several laws that govern “hacking.” Understand what the law prohibits — you don’t want to end up like [this guy]( https://blogs.wsj.com/law/2008/10/08/say-it-aint-so-rubico-palins-alleged-email-hacker-indicted). 
+
+Please review the college’s policy on [Acceptable Use]( https://catalog.ycp.edu/content.php?catoid=25&navoid=974#Acceptable_Use) for guidelines concerning proper use of information technology.
+
+As a member of the College, you are required to abide by these policies.
+
