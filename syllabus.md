@@ -34,12 +34,17 @@ Prerequisites
 
 CS 330 with a grade of 2.0 or higher
 
-Textbook
---------
+Required Textbook
+-----------------
 
 Michael T. Goodrich and Roberto Tamassia. [Introduction to Computer Security](https://www.pearson.com/us/higher-education/program/Goodrich-Introduction-to-Computer-Security/PGM218035.html) Pearson, 2011
 
 Companion [Website](https://sites.google.com/site/securitybook1/home) for Introduction to Computer Security
+
+Supplemental Resources
+----------------------
+ 
+ Wenliang Du. [Computer Security: A Hands-on Approach](https://www.handsonsecurity.net/)
 
 Course Structure and Expectations
 ---------------------------------
