@@ -10,9 +10,9 @@ Additional content will be added as it becomes available throughout the semester
 
 **Week**       | **Lab**                                                                |  **Due**                                                                                                                   
 :--------------|:-----------------------------------------------------------------------|:--------------------------    
-Week of Jan 21 |  [Labs Setup](lab01.html)                                               | N/A
+Week of Jan 21 |  [Labs Setup](lab01.html)                                              | N/A
 Week of Jan 28 |  [Password Cracking Lab](lab02.html)                                   | Feb 3
-Week of Feb 4  |  [Set-UID Program Vulnerability Lab](Environment_Variable_and_SetUID.pdf)|                     
+Week of Feb 4  |  [Set-UID Lab](lab03.html)                                             |                     
 Week of Feb 11 |  |
 Week of Feb 18 |  |
 Week of Feb 25 |  |
