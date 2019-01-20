@@ -29,3 +29,4 @@ All information related to the course will be posted here.
 ## News
 
 * **Jan 23** &mdash; Welcome back!
+* **Jan 28** &mdash; Assignment 1 Due
