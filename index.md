@@ -24,6 +24,7 @@ All information related to the course will be posted here.
 * [Assignments](assign/index.html)
 * [Labs](labs/index.html)
 * [Resources](resources/index.html)
+* [Ethics](ethics.html)
 
 ## News
 
