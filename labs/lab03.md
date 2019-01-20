@@ -19,9 +19,19 @@ Tips
 ----
 
 - How to Switch Users in a terminal 
-```su [username]```
+```su [username]``` or ```su - [username]```
 
-- Create a Text File ```cat > sample.txt```
+- Create a Text File ```cat > sample.txt```:
   - After pressing Enter, you are not returned to the terminal prompt and you can start entering text directly into your file.
   - Type your lines of text, pressing Enter after each line.
-  - When you are done, press Ctrl+D to exit 
+  - When you are done, press Ctrl+D to exit.
+  
+- To create a user account from a terminal:
+  - Open a terminal window.
+  - If you are not logged in as root, type the command ```su -``` and enter the root password.
+  - Type ```useradd``` followed by a space and the username for the new account.
+  - Type ```passwd``` followed by a space and the username again.
+  - At the New password: prompt enter a password for the new user and press enter.
+  - At the Retype new password: prompt, enter the same password to confirm your selection.
+
+- To displays the username of the current user: ```whoami```. 
