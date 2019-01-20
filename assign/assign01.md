@@ -6,7 +6,7 @@ title: "Assignment 1: Ethics"
 
 # Assignment 1
 
-Read and sign the ethics portion of the syllabus. 
+Read and sign the [ethics](../ethics.html) portion of the syllabus. 
 
 # Submit #
 
