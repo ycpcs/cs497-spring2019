@@ -4,7 +4,7 @@ course_number: CS497
 title: "Assignment 1: Ethics"
 ---
 
-**Due: Monday, Jan 28h by 11:59 PM**
+**Due: Monday, Jan 28h by 7:15 PM**
 
 # Assignment 1
 
