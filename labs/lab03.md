@@ -22,10 +22,10 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 Tips
 ----
 
-- How to Switch Users in a terminal 
+- How to Switch Users in a terminal: 
 ```su [username]``` or ```su - [username]```
 
-- Create a Text File ```cat > sample.txt```:
+- Create a Text File using cat: ```cat > sample.txt```:
   - After pressing Enter, you are not returned to the terminal prompt and you can start entering text directly into your file.
   - Type your lines of text, pressing Enter after each line.
   - When you are done, press Ctrl+D to exit.
