@@ -16,6 +16,8 @@ This page contains links to useful resources.
 
 - [Hash Suite](https://hashsuite.openwall.net/) is a Windows program to test security of password hashes. 
 
+- [Nmap](https://nmap.org/) is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
+
 SEED Labs
 ----------------------------------
 Hands-on [Labs](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/) for Security Education 
