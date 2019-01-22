@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS497
-title: "Lab 3"
+title: "Lab 3 - Set-UID"
 ---
 
 # Set UID lab
