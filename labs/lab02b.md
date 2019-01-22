@@ -13,7 +13,7 @@ This lab exercise will provide the students hands on experience working with bas
 ```nslookup``` is a network administration command-line tool available for many computer operating systems for querying the Domain Name System to obtain domain name or IP address mapping or for any other specific DNS record.
 
 1. In Windows, open a command prompt.
-2. Type ```nslookup``` and then enter ```www.ycp.edu```.
+2. Type ```nslookup www.ycp.edu``` and then press Enter.
 3. What information is displayed? Take a screenshot for your report.
 4. Now type in the IP address and see what is displayed. Record your findings.
 5. Repeat steps 1-3 for the following URLs: <br/>
@@ -27,7 +27,7 @@ This lab exercise will provide the students hands on experience working with bas
 ```ping``` is a computer network administration software utility used to test the reachability of a host on an Internet Protocol network. 
 
 1. In Windows, open a command prompt.
-2. Type ```ping``` and then enter ```www.ycp.edu```.
+2. Type ```ping www.ycp.edu``` and then press Enter..
 3. Note the responses back. Make sure the IP address or URL is reachable by getting a
 response. Note the response provides information on the number of packets generated
 and received, along with the time expired between the transmission and reception of
