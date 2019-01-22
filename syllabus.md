@@ -129,7 +129,7 @@ The project will be on a topic of interest not covered in class. The intent is t
 
 ### Posting and submission of assignments and labs
 
-Assignments and labs will be posted on the course web page, <https://ycpcs.github.io/cs497-fall2018/>.
+Assignments and labs will be posted on the course web page, <https://ycpcs.github.io/cs497-sprint2019/>.
 
 Assignments will be submitted using the server <https://cs.ycp.edu/marmoset>. You will receive an email containing the username and password you should use for this server.
 
