@@ -26,21 +26,14 @@ character
 
 - Example of the password file
 
-> user1:5f4dcc3b5aa765d61d8327deb882cf99
-
-> user2:90f2c9c53f66540e67349e0ab83d8cd0
-
-> user3:49838126dd6edf2153ff9d9b56b43d25
-
-> user4:827ccb0eea8a706c4c34a16891f84e7b
-
-> user5:32250170a0dca92d53ec9624f336ca24
-
-> user6:dc647eb65e6711e155375218212b3964
-
-> user7:52c9fe74da4f0eab42dd1b75216c9843
-
-> user8:0ff032e2957c88f72f5e5031c50fa52b
+> user1:5f4dcc3b5aa765d61d8327deb882cf99 <br/>
+> user2:90f2c9c53f66540e67349e0ab83d8cd0 <br/>
+> user3:49838126dd6edf2153ff9d9b56b43d25 <br/>
+> user4:827ccb0eea8a706c4c34a16891f84e7b <br/>
+> user5:32250170a0dca92d53ec9624f336ca24 <br/>
+> user6:dc647eb65e6711e155375218212b3964 <br/>
+> user7:52c9fe74da4f0eab42dd1b75216c9843 <br/>
+> user8:0ff032e2957c88f72f5e5031c50fa52b <br/>
 
 # Task 2 - Cracking the passwords
 1. Open up Hash Suite program
