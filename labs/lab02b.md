@@ -40,7 +40,7 @@ times.
     c. www.facebook.com</br>
 6. How useful is this tool?
 
-### Task 3: tracert
+# Task 3: tracert
 
 ```traceroute``` is a computer network diagnostic tool for displaying the route and measuring transit delays of packets across an Internet Protocol network.
 
@@ -50,7 +50,7 @@ times.
 4. Record your findings and take a screenshot for your report.
 5. How useful is this tool?
 
-### Task 4: whois
+# Task 4: whois
 
 ```whois``` performs the registration record for the domain name or IP address that you specify. Microsoft makes a WHOIS tool available as part of the Windows Sysinternals toolkit, a suite of tools for server and network administrators. You can find ```whois``` [here](https://docs.microsoft.com/en-us/sysinternals/downloads/whois).
 
@@ -60,7 +60,7 @@ times.
 4. Record your findings and take a screenshot for your report.
 5. How useful is this tool?
 
-### Questions
+# Questions
 - What was the most interesting task you did?
 - What was the least interesting task?
 - How useful can these tasks be to a hacker?
