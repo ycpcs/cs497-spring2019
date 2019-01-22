@@ -4,7 +4,7 @@ course_number: CS497
 title: "Lab 2 - Footprint"
 ---
 
-# Lab 2 - Footprint  
+### Lab 2 - Footprint  
 
 This lab exercise will provide the students hands on experience working with basic tools to carryout network reconnaissance (called footprinting). A short report will be prepared describing the results of exercise and what the student learned from the lab.
 
