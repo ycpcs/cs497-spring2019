@@ -12,15 +12,13 @@ Set-UID is an important security mechanism in Unix operating systems. When a Set
 1. Appreciate its good side: understand why Set-UID is needed and how it is implemented.
 2. Be aware of its bad side: understand its potential security problems.
 
-Lab Description and Tasks
--------------------------
+### Lab Description and Tasks
 
 [Set-UID Program Vulnerability Lab](Environment_Variable_and_SetUID.pdf)
 
 Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Software/Environment_Variable_and_SetUID/). 
 
-Tips
-----
+### Tips
 
 - How to Switch Users in a terminal: 
 ```su [username]``` or ```su - [username]```
