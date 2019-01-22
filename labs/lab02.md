@@ -8,7 +8,7 @@ title: "Lab 2 - Password"
 
 In this lab you will be using a password cracking tool called  [Hash Suite](https://hashsuite.openwall.net/).
 
-# Task 1 - Create hash file 
+### Task 1 - Create hash file 
 
 1. Go to [md5hashgenerator](https://www.md5hashgenerator.com/) and create eight (8) different hashes to break.
 2. Create one for each of the following:
@@ -35,7 +35,7 @@ character
 > user7:52c9fe74da4f0eab42dd1b75216c9843 <br/>
 > user8:0ff032e2957c88f72f5e5031c50fa52b <br/>
 
-# Task 2 - Cracking the passwords
+### Task 2 - Cracking the passwords
 1. Open up Hash Suite program
 2. Sample tutorial can be found [here](https://hashsuite.openwall.net/tutorial).
 3. Click on the Hash_Suite icon then File -&gt; Import -&gt; import a file. Locate and use the has
@@ -46,7 +46,7 @@ file you created earlier. This will brute force to find the password.
 break the password hashes and the order they were broken in.
 7. Once done create your report.
 
-# Task 3 - Report
+### Task 3 - Report
 
 Submit the answers to the following questions in a lab report into Moodle. Be sure to put you
 name and class information on the paper.
@@ -56,7 +56,7 @@ Explain why in both cases.
 - Which one makes the best password? Explain why.
 - What are two things you learned from this lab?
 
-# Grading
+### Grading
 
 Post your report in Moodle by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
 - 70% - Answering the questions
