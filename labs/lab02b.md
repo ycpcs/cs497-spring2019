@@ -59,11 +59,12 @@ times.
 3. Note the level of information provided. Note the domain name servers and other information.
 4. Record your findings and take a screenshot for your report.
 5. How useful is this tool?
+6. Open your favorite browser and go to [https://whois.icann.org/en](https://whois.icann.org/en). Enter the domain you entered earlier. Did you get any additional information? 
 
 # Questions
 - What was the most interesting task you did?
 - What was the least interesting task?
-- How useful can these tasks be to a hacker?
+- How useful can these tasks be to an attacker?
 - What did you learn from this lab?
 
 
