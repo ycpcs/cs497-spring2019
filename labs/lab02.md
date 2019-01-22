@@ -37,7 +37,7 @@ character
 
 # Task 2 - Cracking the passwords
 1. Open up Hash Suite program
-2. Sample tutorial can be found [here](https://hashsuite.openwall.net/tutorial)
+2. Sample tutorial can be found [here](https://hashsuite.openwall.net/tutorial).
 3. Click on the Hash_Suite icon then File -&gt; Import -&gt; import a file. Locate and use the has
 file you created earlier. This will brute force to find the password.
 4. Measure the time it takes to fine all the passwords. Wait at least 15-20 minutes.
