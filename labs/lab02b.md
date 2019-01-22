@@ -4,11 +4,11 @@ course_number: CS497
 title: "Lab 2 - Footprint"
 ---
 
-### Lab 2 - Footprint  
+# Lab 2 - Footprint  
 
 This lab exercise will provide the students hands on experience working with basic tools to carryout network reconnaissance (called footprinting). A short report will be prepared describing the results of exercise and what the student learned from the lab.
 
-# Task 1: nslookup
+### Task 1: nslookup
 
 ```nslookup``` is a network administration command-line tool available for many computer operating systems for querying the Domain Name System to obtain domain name or IP address mapping or for any other specific DNS record.
 
@@ -22,7 +22,7 @@ This lab exercise will provide the students hands on experience working with bas
     c. ```www.facebook.com```</br>
 6. How useful is this tool?
 
-# Task 2: ping
+### Task 2: ping
 
 ```ping``` is a computer network administration software utility used to test the reachability of a host on an Internet Protocol network. 
 
@@ -40,7 +40,7 @@ times.
     c. www.facebook.com</br>
 6. How useful is this tool?
 
-# Task 3: tracert
+### Task 3: tracert
 
 ```traceroute``` is a computer network diagnostic tool for displaying the route and measuring transit delays of packets across an Internet Protocol network.
 
@@ -50,7 +50,7 @@ times.
 4. Record your findings and take a screenshot for your report.
 5. How useful is this tool?
 
-# Task 4: whois
+### Task 4: whois
 
 ```whois``` performs the registration record for the domain name or IP address that you specify. Microsoft makes a WHOIS tool available as part of the Windows Sysinternals toolkit, a suite of tools for server and network administrators. You can find ```whois``` [here](https://docs.microsoft.com/en-us/sysinternals/downloads/whois).
 
@@ -61,14 +61,14 @@ times.
 5. How useful is this tool?
 6. Open your favorite browser and go to [https://whois.icann.org/en](https://whois.icann.org/en). Enter the domain you entered earlier. Did you get any additional information? 
 
-# Questions
+### Questions
 - What was the most interesting task you did?
 - What was the least interesting task?
 - How useful can these tasks be to an attacker?
 - What did you learn from this lab?
 
 
-# Grading
+### Grading
 
 Post your report in Moodle by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
 - 70% - Answering the questions
