@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS497
-title: "Lab 2"
+title: "Lab 2 - Password"
 ---
 
 # Lab 2 - Password Cracking 
