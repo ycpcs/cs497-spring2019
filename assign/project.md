@@ -36,6 +36,10 @@ You should discuss your project idea with me no later than **Wednesday, April 19
 - Reproducing previously published research to find interesting new directions developing a new security mechanism/system *
   - [Journal of Cybersecurity](https://academic.oup.com/cybersecurity) 
   - [IEEE Cybersecurity](https://cybersecurity.ieee.org/)
+  - [CERT](https://www.sei.cmu.edu/about/divisions/cert/index.cfm)
+  - [SANS](https://www.sans.org/)
+  - [Bruce Schneier's Security Page](https://www.schneier.com/)
+  - [Ron Rivest's Cryptography and Security Page](http://people.csail.mit.edu/rivest/crypto-security.html)
 
 ```* Talk to the instructor if multiple people/groups would like to work on the same problem.```
 
