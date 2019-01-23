@@ -188,7 +188,7 @@ If you had an IEP or 504 plan in high school or if you have a disability or heal
 
 - Ask the questions you have.
 
-- Participate actively in discussions! 
+- Participate actively in discussions! Don’t use slides to answer questions during class.
 
 ### Disclaimer
 
