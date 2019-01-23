@@ -6,10 +6,10 @@ title: "Assignment 1: Ethics"
 
 **Due: Monday, Jan 28h by 7:15 PM**
 
-# Assignment 1
+# Ethics Guide
 
 Read and sign the [ethics](../ethics.html) portion of the syllabus. 
 
 # Submit #
 
-Hard copy!
+Hard copy wth your name and signature!
