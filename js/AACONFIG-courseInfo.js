@@ -21,7 +21,8 @@ var courseInfo = {
 	// This file defines the class periods and final exam days.
 	classPeriods: [{
 		topic: new Topic("Course Overview & Philosophy", ""),
-		lab: new Lab("Lab Module 1 - Overview", "lab01.html")
+		lab: new Lab("Lab Module 1 - Overview", "lab01.html"),
+		assign: new Assignment("Ethics Guide", "assign/assign01.html", 3)
 	},{
 		topic: new Topic("Computer Security Introduction", "lectures/lecture01.html"),
 		reading: new Reading("Chapter 1")
