@@ -47,7 +47,7 @@ The report should contain the following sections:
 
 > -   **Introduction**: Present a precise description of the threat model\security issues.
 > -   **Background**: Provide any relevant historical context/precedents related to the topic.
-> -   **Discussion**: Discuss new directions developing the new security mechanism or analyze the security of a system.
+> -   **Discussion**: Discuss directions developing the new security mechanism or analyze the security of a system.
 > -   **Conclusion**: Provide your analysis. Any future work, results and/or evaluation section. 
 > -   **References**: Citations of source material.
 
