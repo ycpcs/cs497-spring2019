@@ -37,9 +37,9 @@ CS 330 with a grade of 2.0 or higher
 Required Textbook
 -----------------
 
-Michael T. Goodrich and Roberto Tamassia. [Introduction to Computer Security](https://www.pearson.com/us/higher-education/program/Goodrich-Introduction-to-Computer-Security/PGM218035.html) Pearson, 2011
+Michael T. Goodrich and Roberto Tamassia. [Introduction to Computer Security](https://www.pearson.com/us/higher-education/program/Goodrich-Introduction-to-Computer-Security/PGM218035.html) Addison Wesley, 2011. ISBN-13: 9780321512949
 
-Companion [Website](https://sites.google.com/site/securitybook1/home) for Introduction to Computer Security
+[Book Website](https://sites.google.com/site/securitybook1/home) 
 
 Supplemental Resources
 ----------------------
