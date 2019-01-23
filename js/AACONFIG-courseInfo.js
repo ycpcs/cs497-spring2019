@@ -22,7 +22,7 @@ var courseInfo = {
 	classPeriods: [{
 		topic: new Topic("Course Overview & Philosophy", ""),
 		lab: new Lab("Lab Module 1 - Overview", "lab01.html"),
-		assign: new Assignment("Ethics Guide", "assign/assign01.html")
+		assign: new Assignment("Ethics Guide", "assign/assign01.html", 4)
 	},{
 		topic: new Topic("Computer Security Introduction", "lectures/lecture01.html"),
 		reading: new Reading("Chapter 1")
