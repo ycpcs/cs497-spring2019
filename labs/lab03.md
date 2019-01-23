@@ -21,8 +21,8 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 ### Grading
 
 Post your report in Moodle by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
-- *40%* - Answering the questions
-- *60%* - Presenting the results and screenshots it took to discover passwords by type used
+- 40% - Answering the questions
+- 60% - Presenting the results and screenshots it took to discover passwords by type used
 - *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
 
 ### Tips
