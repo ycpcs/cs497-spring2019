@@ -20,11 +20,11 @@ Week of Mar 4  |  **NO LAB - Winter Break**                                     
 Week of Mar 11 |  Local DNS Attack Lab*|
 Week of Mar 18 |  Cross-Site Request Forgery Attack Lab*|
 Week of Mar 25 |  Cross-site scripting*| 
-Week of Apr 1  |  Nmap Lab*|
+Week of Apr 1  |  Nmap & Steganography Labs*|
 Week of Apr 8  |  Spoofing and Man-in-the-Middle Attack Lab*|
 Week of Apr 15 |  **NO LAB - Spring Vacation**                                          |
 Week of Apr 22 |  Android Repackaging Attack Lab*|
-Week of Apr 29 |  Steganography Lab*|
+Week of Apr 29 |  SQL Injection Attack Lab*|
 Week of May 6  |  **NO LAB - Last Week of Classes**                                     |
 
 * tentative schedule
