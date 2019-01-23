@@ -34,6 +34,8 @@ You should discuss your project idea with me no later than **Wednesday, April 19
 - SDN Security
 - QR Codes Security
 - Reproducing previously published research to find interesting new directions developing a new security mechanism/system *
+  - [Journal of Cybersecurity](https://academic.oup.com/cybersecurity) 
+  - [IEEE Cybersecurity](https://cybersecurity.ieee.org/)
 
 ```* Talk to the instructor if multiple people/groups would like to work on the same problem.```
 
