@@ -18,6 +18,8 @@ This page contains links to useful resources.
 
 - [Nmap](https://nmap.org/) is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
 
+- [VisualCodeGrepper](https://github.com/nccgroup/VCG) is an automated code security review tool that handles C/C++, Java, C#, VB and PL/SQL.
+
 SEED Labs
 ----------------------------------
 Hands-on [Labs](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/) for Security Education 
