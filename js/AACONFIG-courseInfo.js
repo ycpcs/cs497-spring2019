@@ -20,9 +20,11 @@ var courseInfo = {
 
 	// This file defines the class periods and final exam days.
 	classPeriods: [{
-		topic: new Topic("Course Overview", "lectures/lecture01.html"),
-		reading: new Reading("Chapter 1"),
+		topic: new Topic("Course Overview", ""),
 		lab: new Lab("Lab Module 1 - Overview", "lab01.html")
+	},{
+		topic: new Topic("Computer Security Introduction", "lectures/lecture01.html"),
+		reading: new Reading("Chapter 1")
 	}, {
 		topic: new Topic("Physical Security", "lectures/lecture02.html"),
 		reading: new Reading("Chapter 2"),
@@ -111,8 +113,6 @@ var courseInfo = {
 		topic: new Topic("TBD", "lectures/lecture11.html")
 	}, {
 		topic: new Topic("TBD", "lectures/lecture11.html")
-	}, {
-		topic: new Topic("TBD", "lectures/lecture12.html")
 	}, {
 		topic: new Topic("TBD", "lectures/lecture12.html")
 	}, {
