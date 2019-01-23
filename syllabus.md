@@ -17,12 +17,10 @@ Staff:
 
 Meeting times:
 
-> Section | Location | Times
-> ------- | -------- | -----
-> 801 | KEC 119 | M/W 6:00-7:15
+> Section | Location | Times | Website
+> ------- | -------- | ----- | -------
+> 801 | KEC 119 | M/W 6:00-7:15 | <https://ycpcs.github.io/cs497-spring2019/>
 
-Webpage: 
-> [https://ycpcs.github.io/cs497-spring2019/](<https://ycpcs.github.io/cs497-spring2019/>)
 
 Course Description
 ------------------
