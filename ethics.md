@@ -19,7 +19,7 @@ The existence of a security hole is no excuse. These issues concern not only pro
 
 Acting lawfully and ethically is your responsibility. Carefully read the Computer Fraud and Abuse Act [CFAA]( http://uscode.house.gov/view.xhtml?req=(title:18%20section:1030%20edition:prelim)), a federal statute that broadly criminalizes computer intrusion. This is one of several US laws that govern “hacking.” Understand what the law prohibits — you don’t want to end up like [this guy]( https://www.wired.com/2010/11/palin-hacker-sentenced/). 
 
-Please review the college’s policy on [Acceptable Use]( https://catalog.ycp.edu/content.php?catoid=25&navoid=974#Acceptable_Use) for guidelines concerning proper use of information technology.
+Please review the college’s policy on [Acceptable Use](https://itkb.ycp.edu/article.php?id=1068) for guidelines concerning proper use of information technology.
 
 As a member of the College, you are required to abide by these policies.
 
