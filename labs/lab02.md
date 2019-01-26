@@ -56,6 +56,6 @@ Explain why in both cases.
 ### Grading
 
 Post your report in Moodle by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
-- 70% - Answering the questions
-- 30% - Presenting the results and screenshots it took to discover passwords by type used
+- 50% - Answering the questions
+- 50% - Presenting the results and screenshots it took to discover passwords by type used
 
