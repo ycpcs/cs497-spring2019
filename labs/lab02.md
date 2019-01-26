@@ -10,7 +10,7 @@ In this lab you will be using a password cracking tool called  [Hash Suite](http
 
 ### Task 1 - Create hash file 
 
-1. Go to [md5hashgenerator](https://www.md5hashgenerator.com/) and create eight (8) different hashes to break.
+1. Go to [md5hashgenerator](https://www.md5hashgenerator.com/) and create five (5) different hashes to break.
 2. Create one for each of the following:
     - just numbers
     - lower case name
@@ -31,9 +31,6 @@ character
 > user3:49838126dd6edf2153ff9d9b56b43d25 <br/>
 > user4:827ccb0eea8a706c4c34a16891f84e7b <br/>
 > user5:32250170a0dca92d53ec9624f336ca24 <br/>
-> user6:dc647eb65e6711e155375218212b3964 <br/>
-> user7:52c9fe74da4f0eab42dd1b75216c9843 <br/>
-> user8:0ff032e2957c88f72f5e5031c50fa52b <br/>
 
 ### Task 2 - Cracking the passwords
 1. Open up Hash Suite program
@@ -61,3 +58,4 @@ Explain why in both cases.
 Post your report in Moodle by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
 - 70% - Answering the questions
 - 30% - Presenting the results and screenshots it took to discover passwords by type used
+
