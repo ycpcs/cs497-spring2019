@@ -17,4 +17,4 @@ title: "Lecture 4: Malware "
 # Reading 
 
 - Introduction to Computer Security: Chapter 4
-- Ken Thompson, [Reflections on Trusting Trust](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
+- Ken Thompson, Reflections on Trusting Trust [pdf](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
