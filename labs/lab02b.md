@@ -52,7 +52,7 @@ times.
 
 ### Task 4: whois
 
-```whois``` performs the registration record for the domain name or IP address that you specify. Microsoft makes a WHOIS tool available as part of the Windows Sysinternals toolkit, a suite of tools for server and network administrators. You can find ```whois``` [here](https://docs.microsoft.com/en-us/sysinternals/downloads/whois).
+```whois``` performs the registration record for the domain name or IP address that you specify. Microsoft makes a WHOIS tool available as part of the Windows Sysinternals toolkit, a suite of tools for server and network administrators. You can find ```whois``` [here](https://docs.microsoft.com/en-us/sysinternals/downloads/whois). Linux and Mac users have ```whois``` included with their OS.
 
 1. In Windows, go to the command prompt.
 2. Type ```whois``` and ```www.ycp.edu``` then press Enter.
