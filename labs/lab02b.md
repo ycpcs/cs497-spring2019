@@ -27,7 +27,7 @@ This lab exercise will provide the students hands on experience working with bas
 ```ping``` is a computer network administration software utility used to test the reachability of a host on an Internet Protocol network. 
 
 1. In Windows, open a command prompt.
-2. Type ```ping www.github.com``` and then press Enter..
+2. Type ```ping www.github.com``` and then press Enter.
 3. Note the responses back. Make sure the IP address or URL is reachable by getting a
 response. Note the response provides information on the number of packets generated
 and received, along with the time expired between the transmission and reception of
