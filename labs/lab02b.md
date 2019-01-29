@@ -16,10 +16,10 @@ This lab exercise will provide the students hands on experience working with bas
 2. Type ```nslookup www.github.com``` and then press Enter.
 3. What information is displayed? Take a screenshot for your report.
 4. Now type in the IP address and see what is displayed. Record your findings.
-5. Repeat steps 1-3 for the following URLs: </br>
-    a. www.google.com</br>
-    b. www.yahoo.com</br>
-    c. www.facebook.com</br>
+5. Repeat steps 1-3 for the following URLs:
+    a. www.google.com
+    b. www.yahoo.com
+    c. www.facebook.com
 6. How useful is this tool?
 
 ### Task 2: ping
