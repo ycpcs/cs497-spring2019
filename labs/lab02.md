@@ -6,11 +6,12 @@ title: "Lab 2 - Password"
 
 # Lab 2 - Password Cracking 
 
-In this lab you will be using a password cracking tool called  [Hash Suite](https://hashsuite.openwall.net/).
+In this lab you will be using a password cracking tool called  [Hash Suite](https://hashsuite.openwall.net/).<br>
+    - ***Free version limitations:*** Formats other than LM have a maximum key length of ***6***, so keep your passowrds short.
 
 ### Task 1 - Create hash file 
 
-1. Go to [md5hashgenerator](https://www.md5hashgenerator.com/) and create five (5) different hashes to break.
+1. Go to [md5hashgenerator](https://www.md5hashgenerator.com/) and create five (5) different hashes to break.    
 2. Create one for each of the following:
     - just numbers
     - lower case name
@@ -19,7 +20,7 @@ In this lab you will be using a password cracking tool called  [Hash Suite](http
     - lower case word with numbers and first letter capitalized
     - lower case word and numbers with first letter capitalized and one letter a special
 character
-3. Examples: 12345, password, pass123, Password, Pass23, P@ss23
+3. Examples: 12345, paswrd, pas123, Paswod, Pass23, P@ss23
 4. Open a text editor and save the hashes generated. Identify them as user1, user2, etc.
     - Save file to the desktop.
 5. Take a screen shot of the user names and passwords for your report.
@@ -34,7 +35,7 @@ character
 
 ### Task 2 - Cracking the passwords
 1. Open up Hash Suite program
-2. Sample tutorial can be found [here](https://hashsuite.openwall.net/tutorial).
+2. Sample tutorial can be found [here](https://hashsuite.openwall.net/tutorial) or you can use the included help file. 
 3. Click on the Hash_Suite icon then File -&gt; Import -&gt; import a file. Locate and use the has
 file you created earlier. This will brute force to find the password.
 4. Measure the time it takes to fine all the passwords. Wait at least 15-20 minutes.
