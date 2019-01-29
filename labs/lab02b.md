@@ -13,7 +13,7 @@ This lab exercise will provide the students hands on experience working with bas
 ```nslookup``` is a network administration command-line tool available for many computer operating systems for querying the Domain Name System to obtain domain name or IP address mapping or for any other specific DNS record.
 
 1. In Windows, open a command prompt.
-2. Type ```nslookup www.ycp.edu``` and then press Enter.
+2. Type ```nslookup www.github.com``` and then press Enter.
 3. What information is displayed? Take a screenshot for your report.
 4. Now type in the IP address and see what is displayed. Record your findings.
 5. Repeat steps 1-3 for the following URLs: </br>
