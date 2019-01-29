@@ -30,4 +30,4 @@ All information related to the course will be posted here.
 
 * **Jan 23** &mdash; Welcome back!
 * **Jan 28** &mdash; [Assignment 1](assign/assign01.html) Due
-* **Feb 3**  &mdash; [Network Foot-Printing Lab](labs/lab02b.html) Due
+* **Feb 03** &mdash; [Network Foot-Printing Lab](labs/lab02b.html) Due
