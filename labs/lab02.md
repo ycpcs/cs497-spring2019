@@ -7,7 +7,8 @@ title: "Lab 2 - Password"
 # Lab 2 - Password Cracking 
 
 In this lab you will be using a password cracking tool called  [Hash Suite](https://hashsuite.openwall.net/).<br>
-    - ***Free version limitations:*** Formats other than LM have a maximum key length of ***6***, so keep your passowrds short.
+    - ***Free version limitations:*** Formats other than LM have a maximum key length of ***6***, so keep your passowrds short.<br>
+    - For Linux and MacOS users, you can use [John the Ripper](https://www.openwall.com/john/) password cracker.<br>        
 
 ### Task 1 - Create hash file 
 
