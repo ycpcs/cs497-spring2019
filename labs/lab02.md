@@ -34,7 +34,7 @@ character
 > user4:827ccb0eea8a706c4c34a16891f84e7b <br/>
 > user5:32250170a0dca92d53ec9624f336ca24 <br/>
 
-### Task 2 - Cracking the passwords
+### Task 2 - Cracking the passwords using Hash Suite
 1. Open up Hash Suite program
 2. Sample tutorial can be found [here](https://hashsuite.openwall.net/tutorial) or you can use the included help file. 
 3. Click on the Hash_Suite icon then File -&gt; Import -&gt; import a file. Locate and use the has
