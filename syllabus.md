@@ -13,7 +13,7 @@ Staff:
 
 > Instructor | Email | Office hours (KEC 119)
 > ---------- | ----- | ----------------------
-> Galin Zhelezov | gzhelezo at ycp dot edu | by appointment
+> Galin Zhelezov | gzhelezo at ycp dot edu | M 7:15-8:15 or by appointment
 
 Meeting times:
 
