@@ -61,3 +61,6 @@ Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due
 - 60% - Answering the questions
 - 40% - Presenting the results and screenshots it took to discover passwords by type used
 
+### Extra Credit 
+Crack your hashes using both password crackers (Hash Suite & John the Ripper). 
+
