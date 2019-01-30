@@ -25,7 +25,12 @@ var courseInfo = {
 		assign: new Assignment("Ethics Guide", "assign/assign01.html", 4)
 	},{
 		topic: new Topic("Computer Security Introduction", "lectures/lecture01.html"),
-		reading: new Reading("Chapter 1")
+		reading: new Reading("Chapter 1"),
+		assign: new Assignment("Network Foot-Printing Lab", "labs/lab02b.html", 5)
+	},{
+		topic: new Topic("Cryptographic Concepts", "lectures/lecture01.html"),
+		reading: new Reading("Chapter 1"),
+		assign: new Assignment("Password Cracking", "labs/lab02.html", 6)
 	}, {
 		topic: new Topic("Physical Security", "lectures/lecture02.html"),
 		reading: new Reading("Chapter 2"),
