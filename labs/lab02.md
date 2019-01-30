@@ -6,9 +6,9 @@ title: "Lab 2 - Password"
 
 # Lab 2 - Password Cracking 
 
-In this lab you will be using a password cracking tool called  [Hash Suite](https://hashsuite.openwall.net/).<br>
-    - ***Free version limitations:*** Formats other than LM have a maximum key length of ***6***, so keep your passowrds short.<br>
-    - For Linux and MacOS users, you can use [John the Ripper](https://www.openwall.com/john/) password cracker.<br>        
+In this lab you will be using a password cracking tool called [Hash Suite](https://hashsuite.openwall.net/) and/or [John the Ripper](https://www.openwall.com/john/).<br>
+    - ***Hash Suite free version limitations:*** Formats other than LM have a maximum key length of ***6***, so keep your passowrds short.<br>
+    - John the Ripper is a fast password cracker, currently available for many flavors of Unix, Windows, DOS, and OpenVMS.<br>        
 
 ### Task 1 - Create hash file 
 
@@ -57,7 +57,7 @@ find the password. Example: ```john.exe --format=raw-md5 hashes.txt```
 6. Take a screen shot of your results for the report. Be sure to include the time it took to
 break the password hashes and the order they were broken in.
 7. Once done create your report.
-8. Note: John the Ripper does not have limitation on the password length. 😊
+8. ***Note:*** John the Ripper does not have limitation on the password length.
 
 ### Task 3 - Report
 
