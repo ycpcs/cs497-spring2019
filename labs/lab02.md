@@ -70,7 +70,7 @@ Explain why in both cases.
 - What are two things you learned from this lab?
 
 ### Extra Credit 
-Crack your hashes using both password crackers (Hash Suite & John the Ripper). 
+Crack your hashes using both tools (Hash Suite & John the Ripper). 
 
 ### Grading
 
