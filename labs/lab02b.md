@@ -70,7 +70,7 @@ times.
 
 ### Grading
 
-Post your report in Marmoset by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
+Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
 - 70% - Answering the questions
 - 30% - Presenting the results and screenshots it took to discover passwords by type used
 
