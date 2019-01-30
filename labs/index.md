@@ -11,7 +11,7 @@ Additional content will be added as it becomes available throughout the semester
 **Week**       | **Lab**                                                                |  **Due**                                                                                                                   
 :--------------|:-----------------------------------------------------------------------|:--------------------------    
 Week of Jan 21 |  [Labs Setup](lab01.html)                                              | N/A
-Week of Jan 28 |  [Footprint](lab02b.html) & [Password](lab02.html) Labs                | Feb 3
+Week of Jan 28 |  [Footprint](lab02b.html) & [Password](lab02.html) Labs                | Feb 3/Feb 5
 Week of Feb 4  |  [Set-UID Lab](lab03.html)                                             |                     
 Week of Feb 11 |  Buffer Overflow Vulnerability*|
 Week of Feb 18 |  Attacks on TCP/IP*|
