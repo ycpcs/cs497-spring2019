@@ -26,7 +26,7 @@ var courseInfo = {
 	},{
 		topic: new Topic("Computer Security Introduction", "lectures/lecture01.html"),
 		reading: new Reading("Chapter 1"),
-		assign: new Assignment("Network Foot-Printing Lab", "labs/lab02b.html", 6)
+		assign: new Assignment("Network Foot-Printing", "labs/lab02b.html", 6)
 	},{
 		topic: new Topic("Cryptographic Concepts", "lectures/lecture01.html"),
 		reading: new Reading("Chapter 1"),
