@@ -12,7 +12,7 @@ In this lab you will be using a password cracking tool called  [Hash Suite](http
 
 ### Task 1 - Create hash file 
 
-1. Go to [md5hashgenerator](https://www.md5hashgenerator.com/) and create five (5) different hashes to break.    
+1. Go to [md5hashgenerator](https://www.md5hashgenerator.com/) and create six (6) different hashes to break. Keep your passwords to a maximum key length of ***6***.
 2. Create one for each of the following:
     - just numbers
     - lower case name
@@ -28,17 +28,30 @@ character
 
 - Example of the password file
 
-> user1:5f4dcc3b5aa765d61d8327deb882cf99 <br/>
-> user2:90f2c9c53f66540e67349e0ab83d8cd0 <br/>
-> user3:49838126dd6edf2153ff9d9b56b43d25 <br/>
-> user4:827ccb0eea8a706c4c34a16891f84e7b <br/>
-> user5:32250170a0dca92d53ec9624f336ca24 <br/>
+> user1:5f4dcc3b5aa765d61d8327deb882cf99 <br>
+> user2:90f2c9c53f66540e67349e0ab83d8cd0 <br>
+> user3:49838126dd6edf2153ff9d9b56b43d25 <br>
+> user4:827ccb0eea8a706c4c34a16891f84e7b <br>
+> user5:32250170a0dca92d53ec9624f336ca24 <br>
+> user6:67f742c4fda87efdbb38a61f337a56d9 <br>
 
-### Task 2 - Cracking the passwords using Hash Suite
+### Task 2 - Cracking the passwords using ***Hash Suite***
 1. Open up Hash Suite program
 2. Sample tutorial can be found [here](https://hashsuite.openwall.net/tutorial) or you can use the included help file. 
 3. Click on the Hash_Suite icon then File -&gt; Import -&gt; import a file. Locate and use the has
 file you created earlier. This will brute force to find the password.
+4. Measure the time it takes to fine all the passwords. Wait at least 15-20 minutes.
+5. Identify if not all passwords are found immediately.
+6. Take a screen shot of your results for the report. Be sure to include the time it took to
+break the password hashes and the order they were broken in.
+7. Once done create your report.
+
+### ***Alternate*** Task 2 - Cracking the passwords using ***John the Ripper***
+1. Download the latest community-enhanced version. [Windows binaries](https://www.openwall.com/john/j/john180j1w.zip).<br>
+        a.  Install instructions for Linux and MacOS are under the ```doc``` folder.
+2. Extract the zip to a new directory, open a command prompt and navigate to that directory.
+3. Type john –format=raw-md5 then the location of the hash file. This will brute force to
+find the password. Example: ```john.exe --format=raw-md5 hashes.txt```
 4. Measure the time it takes to fine all the passwords. Wait at least 15-20 minutes.
 5. Identify if not all passwords are found immediately.
 6. Take a screen shot of your results for the report. Be sure to include the time it took to
