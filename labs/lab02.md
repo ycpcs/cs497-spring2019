@@ -57,6 +57,7 @@ find the password. Example: ```john.exe --format=raw-md5 hashes.txt```
 6. Take a screen shot of your results for the report. Be sure to include the time it took to
 break the password hashes and the order they were broken in.
 7. Once done create your report.
+8. Note: John the Ripper does not have limitation on the password length. 😊
 
 ### Task 3 - Report
 
