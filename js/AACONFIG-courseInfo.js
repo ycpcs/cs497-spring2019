@@ -120,8 +120,6 @@ var courseInfo = {
 	}, {
 		topic: new Topic("TBD", "lectures/lecture11.html")
 	}, {
-		topic: new Topic("TBD", "lectures/lecture12.html")
-	}, {
 		topic: new Topic("Course wrap up", "lectures/lecture13.html")
 	}]
 };
