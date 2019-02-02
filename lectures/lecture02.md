@@ -18,4 +18,5 @@ title: "Lecture 2: Physical Security"
 - iPhone 5s Touch ID hack [video](https://www.heise.de/video/artikel/iPhone-5s-Touch-ID-hack-in-detail-1966044.html)
 - Cryptology and Physical Security: Rights Ampliﬁcation in Master-Keyed Mechanical Locks [pdf](RightsAmplificationMasterKeyedSystems.pdf)
 
-### Slides
+# Slides
+- [Locks](Ch02-Locks.pdf)
