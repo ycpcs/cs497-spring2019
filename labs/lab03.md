@@ -43,4 +43,4 @@ Post your report in Moodle by the scheduled due date in the syllabus. Your grade
   - At the New password: prompt enter a password for the new user and press enter.
   - At the Retype new password: prompt, enter the same password to confirm your selection.
 
-- To displays the username of the current user: ```whoami```. 
+- To display the username of the current user: ```whoami```. 
