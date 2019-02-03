@@ -43,6 +43,8 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
   - At the New password: prompt enter a password for the new user and press enter.
   - At the Retype new password: prompt, enter the same password to confirm your selection.
 
+- The variable ```environ``` points to an array of pointers to strings called the *environment*. The last pointer in this array has the value NULL. 
+
 - To display the username of the current user: ```whoami```. 
 - ```printenv``` command – Print all or part of environment.
 ```cpp
