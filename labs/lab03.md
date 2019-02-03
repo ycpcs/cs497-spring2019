@@ -35,6 +35,8 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
   - Type your lines of text, pressing Enter after each line.
   - When you are done, press Ctrl+D to exit.
   
+- To display the username of the current user: ```whoami```. 
+  
 - To create a user account from a terminal:
   - Open a terminal window.
   - If you are not logged in as root, type the command ```su -``` and enter the root password.
@@ -45,10 +47,11 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 
 - The variable ```environ``` points to an array of pointers to strings called the *environment*. The last pointer in this array has the value NULL. 
 
-- To display the username of the current user: ```whoami```. 
 - ```printenv``` command – Print all or part of environment.
 ```cpp
 > export foo='cs497'
 > printenv foo
 > cs497
 ```
+
+- How to add a directory to the PATH: ```export PATH="/path/to/dir:$PATH"```
