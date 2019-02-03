@@ -48,6 +48,8 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - The variable ```environ``` points to an array of pointers to strings called the *environment*. The last pointer in this array has the value NULL. 
 
 - ```printenv``` command – Print all or part of environment.
+
+- How to add environment variables to the current shell and all processes started from current shell:
 ```cpp
 > export foo='cs497'
 > printenv foo
