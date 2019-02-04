@@ -21,3 +21,4 @@ title: "Lecture 2: Physical Security"
 ### Slides
 - [Locks](Ch02-Locks.pdf)
 - [Authentication](Ch02-Authentication.pdf)
+- Direct Attacks
