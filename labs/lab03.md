@@ -57,3 +57,4 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 ```
 
 - How to add a directory to the PATH: ```export PATH="/path/to/dir:$PATH"```
+- ```pwd``` - print name of current/working directory
