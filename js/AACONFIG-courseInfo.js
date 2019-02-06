@@ -34,11 +34,11 @@ var courseInfo = {
 	}, {
 		topic: new Topic("Physical Security", "lectures/lecture02.html"),
 		reading: new Reading("Chapter 2"),
-		assign: new Assignment("Set-UID Vulnerability", "labs/lab03.html", 5)
+		assign: new Assignment("Set-UID Vulnerability", "labs/lab03.html", 7)
 	}, {
 		topic: new Topic("Locks, smart cards, computer forensics", "lectures/lecture02.html"),
 		reading: new Reading("Chapter 2"),
-		lab: new Lab("Lab Module 2", "lab02.html")
+		assign: new Assignment("Set-UID Vulnerability", "labs/lab03.html", 5)
 	}, {
 		topic: new Topic("Operating Systems Security", "lectures/lecture03.html"),
 		reading: new Reading("Chapter 3"),
