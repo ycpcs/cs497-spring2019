@@ -33,8 +33,7 @@ var courseInfo = {
 		assign: new Assignment("Password Cracking", "labs/lab02.html", 6)
 	}, {
 		topic: new Topic("Physical Security", "lectures/lecture02.html"),
-		reading: new Reading("Chapter 2"),
-		assign: new Assignment("Set-UID Vulnerability", "labs/lab03.html", 7)
+		reading: new Reading("Chapter 2")
 	}, {
 		topic: new Topic("Locks, smart cards, computer forensics", "lectures/lecture02.html"),
 		reading: new Reading("Chapter 2"),
