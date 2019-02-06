@@ -25,6 +25,16 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - 60% - Presenting the results and screenshots it took to discover passwords by type used
 - *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
 
+### Source Files
+- [task 2](setuid/penv.c)
+- [task 3](setuid/execenv.c)
+- [task 4](setuid/sysenv.c)
+- [task 5](setuid/setuidenv.c)
+- [task 6a](setuid/myls.c) and [task 6b](setuid/ls.c)
+- [task 7a](setuid/mylib.c) and [task 7b](setuid/myprog.c)
+- [task 8](setuid/sysexecve.c)
+- [task 9](setuid/capleak.c)
+
 ### Tips
 
 - How to Switch Users in a terminal: 
