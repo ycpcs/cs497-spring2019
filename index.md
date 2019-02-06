@@ -28,6 +28,7 @@ All information related to the course will be posted here.
 
 ## News
 
+* **Feb 12** &mdash; [Set-UID Guided Lab](labs/lab03.html) Due 
 * **Feb 05** &mdash; [Password Cracking Lab](labs/lab02.html) Due
 * **Feb 03** &mdash; [Network Foot-Printing Lab](labs/lab02b.html) Due
 * **Jan 28** &mdash; [Assignment 1](assign/assign01.html) Due
