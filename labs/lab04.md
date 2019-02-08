@@ -21,8 +21,9 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 ### Grading
 
 Post your report in Marmoset by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
-- 40% - Answering the questions
-- 60% - Presenting the results and screenshots it took to discover passwords by type used
+- 30% - Design
+- 30% - Observations
+- 40% - Explanation
 - *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
 
 ### Tips
