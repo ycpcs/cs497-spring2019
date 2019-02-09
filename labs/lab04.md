@@ -28,4 +28,7 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - 40% - Explanation
 - *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
 
-### Tips
+
+- ### Tips
+
+- ```touch badfile``` will create an empty ```badfile```
