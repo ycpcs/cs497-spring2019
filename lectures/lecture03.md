@@ -25,3 +25,7 @@ title: "Lecture 3: Operating Systems Security"
 - [Operating Systems Concepts](Ch03-OS.pdf)
 - [Operating Systems Security](Ch03-OSSec.pdf)
 - [Buffer Overflow](Ch03-BufferOverflow.pdf)
+
+- ### Tips
+
+- ```touch badfile``` will create an empty ```badfile```
