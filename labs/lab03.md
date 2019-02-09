@@ -64,7 +64,7 @@ Post your report in  [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled du
 - ```printenv``` command – Print all or part of environment.
 
 - How to add environment variables to the current shell and all processes started from current shell:
-```cpp
+```sh
 > export foo='cs497'
 > printenv foo
 > cs497
