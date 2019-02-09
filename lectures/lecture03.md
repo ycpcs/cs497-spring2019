@@ -18,3 +18,7 @@ title: "Lecture 3: Operating Systems Security"
 - Buffer Overflows: Attacks and Defenses for the Vulnerability of the Decade [pdf](cowan.pdf)
 
 ### Slides
+
+- [Operating Systems Concepts](Ch03-OS.pdf)
+- [Operating Systems Security](Ch03-OSSec.pdf)
+- [Buffer Overflow](Ch03-BufferOverflow.pdf)
