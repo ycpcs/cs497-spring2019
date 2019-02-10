@@ -19,6 +19,9 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 
 ### Source Files
 
+- [call_shellcode.c](buffer/call_shellcode.c)
+- [exploit.c](buffer/exploit.c)
+- [stack.c](buffer/stack.c)
 
 ### Grading
 
