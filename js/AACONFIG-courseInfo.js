@@ -37,7 +37,7 @@ var courseInfo = {
 	}, {
 		topic: new Topic("Locks, smart cards, computer forensics", "lectures/lecture02.html"),
 		reading: new Reading("Chapter 2"),
-		assign: new Assignment("Set-UID Vulnerability", "labs/lab03.html", 7)
+		assign: new Assignment("Set-UID Vulnerability", "labs/lab03.html", 13)
 	}, {
 		topic: new Topic("Operating Systems Security", "lectures/lecture03.html"),
 		reading: new Reading("Chapter 3"),
