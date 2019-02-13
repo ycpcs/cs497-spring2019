@@ -38,6 +38,8 @@ var courseInfo = {
 		topic: new Topic("Locks, smart cards, computer forensics", "lectures/lecture02.html"),
 		reading: new Reading("Chapter 2")
 	}, {
+		topic: new Topic("Snow Day", "")
+	},{
 		topic: new Topic("Operating Systems Security", "lectures/lecture03.html"),
 		reading: new Reading("Chapter 3"),
 		assign: new Assignment("Set-UID Vulnerability", "labs/lab03.html", 7)
@@ -113,8 +115,6 @@ var courseInfo = {
 		topic: new Topic("Privacy and Anonymity on the Internet", "lectures/lecture11.html"),
 		reading: new Reading("In class discussion"),
 		lab: new Lab("Lab Module 11", "lab11.html")
-	}, {
-		topic: new Topic("TBD", "lectures/lecture11.html")
 	}, {
 		topic: new Topic("TBD", "lectures/lecture11.html")
 	}, {
