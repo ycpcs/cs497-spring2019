@@ -42,7 +42,7 @@ var courseInfo = {
 	},{
 		topic: new Topic("Operating Systems Security", "lectures/lecture03.html"),
 		reading: new Reading("Chapter 3"),
-		assign: new Assignment("Set-UID Vulnerability", "labs/lab03.html", 7)
+		assign: new Assignment("Set-UID Vulnerability", "labs/lab03.html", 5)
 	}, {
 		topic: new Topic("Monitoring, filesystem security, buffer-overflow attacks", "lectures/lecture03.html"),
 		reading: new Reading("Chapter 3"),
