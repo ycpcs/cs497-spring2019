@@ -36,12 +36,11 @@ var courseInfo = {
 		reading: new Reading("Chapter 2")
 	}, {
 		topic: new Topic("Locks, smart cards, computer forensics", "lectures/lecture02.html"),
-		reading: new Reading("Chapter 2"),
-		assign: new Assignment("Set-UID Vulnerability", "labs/lab03.html", 13)
+		reading: new Reading("Chapter 2")
 	}, {
 		topic: new Topic("Operating Systems Security", "lectures/lecture03.html"),
 		reading: new Reading("Chapter 3"),
-		lab: new Lab("Lab Module 3", "lab03.html")
+		assign: new Assignment("Set-UID Vulnerability", "labs/lab03.html", 13)
 	}, {
 		topic: new Topic("Monitoring, filesystem security, buffer-overflow attacks", "lectures/lecture03.html"),
 		reading: new Reading("Chapter 3"),
