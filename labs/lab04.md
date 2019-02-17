@@ -46,6 +46,6 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
     - To get address of buffer: ``` p &buffer``` 
     - Address of the frame pointer: ```p $ebp```
     - To find the offset: use ```p``` to substract the two, ex: ```p (0xbfffeb08 - 0xbfffeae8)```
-    
+    - You can exit gdb debugging session by typing ```quit```
     
 - ```touch badfile``` will create an empty ```badfile```
