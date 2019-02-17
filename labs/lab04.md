@@ -37,5 +37,5 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - ### Tips
 
 - To check the current ALSR state: ```$ sudo sysctl kernel.randomize_va_space```
-- If you forget to mark the stack as executable by using ``` -z execstack``` you will get a *Segmentation fault*
+- If you forget to turn off the non-executable stack protection ``` -z execstack``` you will get a *Segmentation fault*
 - ```touch badfile``` will create an empty ```badfile```
