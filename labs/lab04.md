@@ -40,4 +40,12 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - If you forget to turn off the non-executable stack protection ``` -z execstack``` you will get a *Segmentation fault*
 - To compile the ```stack.c``` program using debig flags: ```gcc stack.c -o gbd-stack -g -z execstack -fno-stack-protector```. 
   - Now you can debug ```gdb-stack``` to find the address of ```buffer[]``` and frame pointer ```($ebp)``` 
+    - Start debugging by ```gdb gdb-stack```
+    - To place a breakpoint at bof: ```b bof``` 
+    - To run the program type: ```r```
+    - To get address of buffer: ``` p &buffer``` 
+    - Address of the frame pointer: ```p $ebp```
+    - To find the offset: use ```p``` to substract the two, ex: ```p (0xbfffeb08 - 0xbfffeae8)```
+    
+    
 - ```touch badfile``` will create an empty ```badfile```
