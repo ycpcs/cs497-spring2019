@@ -36,4 +36,5 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 
 - ### Tips
 
+- To check the current ALSR state: ```$ sudo sysctl kernel.randomize_va_space```
 - ```touch badfile``` will create an empty ```badfile```
