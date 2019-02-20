@@ -49,7 +49,7 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
     - You can exit gdb debugging session by typing ```quit```
     
 - ```touch badfile``` will create an empty ```badfile```
-- >![image](buffer/task4.JPG) 
+- >![image](buffer/task4.jpg) 
 
 ### If you get stuck
 - Task 2 - you need to find 1: *offset to the return address*, and 2: *new return address*
