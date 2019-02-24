@@ -48,13 +48,7 @@ var courseInfo = {
 		reading: new Reading("Chapter 3"),
 		assign: new Assignment("Buffer Overflow", "labs/lab04.html", 11)
 	}, {
-		topic: new Topic("Malware. Logic bombs", "lectures/lecture04.html"),
-		reading: new Reading("Chapter 4"),
-		lab: new Lab("Lab Module 4", "lab04.html")
-	}, {
-		topic: new Topic("Trojan horses, viruses, worms, rootkits, adware, spyware", "lectures/lecture04.html"),
-		reading: new Reading("Chapter 4"),
-		lab: new Lab("Lab Module 4", "lab04.html")
+		topic: new Topic("Snow Day", ""),
 	}, {
 		topic: new Topic("Network Security I", "lectures/lecture05.html"),
 		reading: new Reading("Chapter 5"),
@@ -115,6 +109,8 @@ var courseInfo = {
 		topic: new Topic("Privacy and Anonymity on the Internet", "lectures/lecture11.html"),
 		reading: new Reading("In class discussion"),
 		lab: new Lab("Lab Module 11", "lab11.html")
+	}, {
+		topic: new Topic("TBD", "lectures/lecture11.html")
 	}, {
 		topic: new Topic("TBD", "lectures/lecture11.html")
 	}, {
