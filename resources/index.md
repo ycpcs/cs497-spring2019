@@ -14,6 +14,8 @@ This page contains links to useful resources.
 
 - [Wireshark](https://www.wireshark.org/#download) is the world’s foremost and widely-used network protocol analyzer.
 
+- [Ettercap](http://www.ettercap-project.org/ettercap/) is a comprehensive suite for man in the middle attacks.
+
 - [MD5 Hash Generator](https://www.md5hashgenerator.com/)
 
 - [Hash Suite](https://hashsuite.openwall.net/) is a Windows program to test security of password hashes. 
