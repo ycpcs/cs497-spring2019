@@ -55,5 +55,10 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
   - ```*((long *) (buffer + /*offset to the return address*/)) = /*new return address*/;```
   - ```memcpy(buffer + sizeof(buffer) - sizeof(shellcode) /*offset to shellcode  */, shellcode, sizeof(shellcode));```
   
+# Example Output 
+
+### Turning Off Countermeasures (task 1) & Exploiting the Vulnerability (task 2)
+>![image](buffer/task1_2.jpg) 
+
 ### Defeating Address Randomization (task 4) 
 >![image](buffer/task4.jpg) 
