@@ -19,4 +19,4 @@ title: "Lecture 5: Computer Networking"
 
 ### Slides
 
-- [Computer Network](ModelCh05-NetworkModelsARP.pdf)
+- [Computer Networking](ModelCh05-NetworkModelsARP.pdf)
