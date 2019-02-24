@@ -13,10 +13,10 @@ title: "Lecture 5: Computer Networking"
 - Spoofing, sniffing, session hijacking
 - Denial-of-service botnets
 
-# Reading 
+### Reading 
 
-Introduction to Computer Security: Chapter 5
+- Introduction to Computer Security: Chapter 5
 
-# Slides
+### Slides
 
 - [Computer Network](ModelCh05-NetworkModelsARP.pdf)
