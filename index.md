@@ -27,7 +27,7 @@ All information related to the course will be posted here.
 * [Ethics](ethics.html)
 
 ## News
-* [Buffer Overflow Vulnerability](labs/lab04.html) Lab is out  
+* **Mar 01** &mdash; [Buffer Overflow Vulnerability](labs/lab04.html) Lab is out  
 * **Feb 18** &mdash; [Set-UID Guided Lab](labs/lab03.html) Due 
 * **Feb 05** &mdash; [Password Cracking Lab](labs/lab02.html) Due
 * **Feb 03** &mdash; [Network Foot-Printing Lab](labs/lab02b.html) Due
