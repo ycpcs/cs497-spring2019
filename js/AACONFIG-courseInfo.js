@@ -46,7 +46,7 @@ var courseInfo = {
 	}, {
 		topic: new Topic("Monitoring, filesystem security, buffer-overflow attacks", "lectures/lecture03.html"),
 		reading: new Reading("Chapter 3"),
-		assign: new Lab("Buffer Overflow", "labs/lab04.html", 9)
+		assign: new Assignment("Buffer Overflow", "labs/lab04.html", 12)
 	}, {
 		topic: new Topic("Malware. Logic bombs", "lectures/lecture04.html"),
 		reading: new Reading("Chapter 4"),
