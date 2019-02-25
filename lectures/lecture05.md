@@ -20,3 +20,14 @@ title: "Lecture 5: Computer Networking"
 ### Slides
 
 - [Computer Networking](Ch05-NetworkModelsARP.pdf)
+
+### In Class Exercise 
+- Startup VirtualBox and create three (3) virtual machines. 
+- One is used to host applications (server) and other virtual machines are for the victim and the attacker.
+- Once the network setup is done, run ```ifconfig``` on all VMs and record the IP address for each VM.
+- **Normal Scenario:**
+  - Create a folder in *Server* at ```~/testserver```.
+  - Create a file named ```test.html``` in ```~/testterver``` with some text content.
+  - Open terminal and change directory to ```~/testserver``` and start a python SimpleHTTPServer with command ```python -m SimpleHTTPServer```
+- In ```Victim’s``` browser enter URL http://<server_ip_address>:8000/test.html and observe that we get the expected response. 
+  
