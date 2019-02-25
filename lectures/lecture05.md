@@ -43,3 +43,13 @@ title: "Lecture 5: Computer Networking"
   - Create a file named ```test.html``` in ```~/testterver``` with some text content.
   - Open a terminal window and change directory to ```~/testserver```, start a python SimpleHTTPServer with the following command ```python -m SimpleHTTPServer```
   - In ```Victim’s``` VM refresh the browser and observe that we get the expected response. 
+- **Attacker to Server Link Scenario:**
+  - Execute the following commands in ```Attacker's``` VM
+  ```
+  sudo sysctl -w net.ipv4.ip_forward=1
+  sudo iptables -t nat -A PREROUTING -p tcp --dport 80 -j DNAT --to-destination server_ip_address
+  sudo iptables -t nat -A PREROUTING -p tcp --dport 443 -j DNAT --to-destination server_ip_address
+  sudo iptables -t nat -A PREROUTING -p tcp --dport 8000 -j DNAT --to-destination server_ip_address
+  sudo iptables -t nat -A POSTROUTING -j MASQUERADE
+  ```
+  - Once above rules are in place, refresh the ```Victim’s``` browser and observe that we are getting the original response from the ```Server```. 
