@@ -31,4 +31,13 @@ title: "Lecture 5: Computer Networking"
   - Open terminal and change directory to ```~/testserver``` and start a python SimpleHTTPServer with command ```python -m SimpleHTTPServer```
   - In ```Victim’s``` browser enter URL http://<server_ip_address>:8000/test.html and observe that we get the expected response. 
 - **Victim to Attacker Link Scenario:**
-  - 
+  - Execute the following commands in ```Victim's``` VM
+  ```
+  sudo iptables -t nat -A OUTPUT -p tcp --dport 80 -j DNAT --to-destination attacker_ip_address
+  sudo iptables -t nat -A OUTPUT -p tcp --dport 443 -j DNAT --to-destination attacker_ip_address
+  sudo iptables -t nat -A OUTPUT -p tcp --dport 8000 -j DNAT --to-destination attacker_ip_address
+  ```
+  - Create a folder in *Attacker* at ```~/testserver```.
+  - Create a file named ```test.html``` in ```~/testterver``` with some text content.
+  - Open terminal and change directory to ```~/testserver``` and start a python SimpleHTTPServer with command ```python -m SimpleHTTPServer```
+  - In ```Victim’s``` refresh the browser and observe that we get the expected response. 
