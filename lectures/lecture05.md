@@ -29,5 +29,6 @@ title: "Lecture 5: Computer Networking"
   - Create a folder in *Server* at ```~/testserver```.
   - Create a file named ```test.html``` in ```~/testterver``` with some text content.
   - Open terminal and change directory to ```~/testserver``` and start a python SimpleHTTPServer with command ```python -m SimpleHTTPServer```
-- In ```Victim’s``` browser enter URL http://<server_ip_address>:8000/test.html and observe that we get the expected response. 
-  
+  - In ```Victim’s``` browser enter URL http://<server_ip_address>:8000/test.html and observe that we get the expected response. 
+- **Victim to Attacker Link Scenario:**
+  - 
