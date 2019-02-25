@@ -52,4 +52,6 @@ title: "Lecture 5: Computer Networking"
   sudo iptables -t nat -A PREROUTING -p tcp --dport 8000 -j DNAT --to-destination server_ip_address
   sudo iptables -t nat -A POSTROUTING -j MASQUERADE
   ```
-  - Once above rules are in place, refresh the ```Victim’s``` browser and observe that we are getting the original response from the ```Server```. 
+  - Once above rules are in place, refresh the ```Victim’s``` browser and observe that we are getting the original response from the ```Server```. However, now all the traffic is routed through the ```Attacker’s``` network interface. 
+  - Open up Wireshark in ```Attacker’s``` virtual machine (you might need to run Wireshark with sudo in order to get the interface list, if group permissions are not properly set). 
+  - Select *enp0s3* as the interface and capture communication. *Interface name may vary.*
