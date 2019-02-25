@@ -28,8 +28,10 @@ title: "Lecture 5: Computer Networking"
 - **Normal Scenario:**
   - Create a folder in *Server* at ```~/testserver```.
   - Create a file named ```test.html``` in ```~/testterver``` with some text content.
-  - Open terminal and change directory to ```~/testserver``` and start a python SimpleHTTPServer with command ```python -m SimpleHTTPServer```
-  - In ```Victim’s``` browser enter URL http://<server_ip_address>:8000/test.html and observe that we get the expected response. 
+  - Open a terminal window and change directory to ```~/testserver```, start a python SimpleHTTPServer with the following command 
+  ```python -m SimpleHTTPServer```
+  - Open a browser session in ```Victim’s``` VM and enter ```http://<server_ip_address>:8000/test.html``` in the URL bar.
+  - Observe that we get the expected response. 
 - **Victim to Attacker Link Scenario:**
   - Execute the following commands in ```Victim's``` VM
   ```
@@ -39,5 +41,5 @@ title: "Lecture 5: Computer Networking"
   ```
   - Create a folder in *Attacker* at ```~/testserver```.
   - Create a file named ```test.html``` in ```~/testterver``` with some text content.
-  - Open terminal and change directory to ```~/testserver``` and start a python SimpleHTTPServer with command ```python -m SimpleHTTPServer```
-  - In ```Victim’s``` refresh the browser and observe that we get the expected response. 
+  - Open a terminal window and change directory to ```~/testserver```, start a python SimpleHTTPServer with the following command ```python -m SimpleHTTPServer```
+  - In ```Victim’s``` VM refresh the browser and observe that we get the expected response. 
