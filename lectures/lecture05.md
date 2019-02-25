@@ -56,3 +56,4 @@ title: "Lecture 5: Computer Networking"
   - Open up Wireshark in ```Attacker’s``` virtual machine (you might need to run Wireshark with sudo in order to get the interface list, if group permissions are not properly set). 
   - Select *enp0s3* as the interface and capture communication. *Interface name may vary.*
 - To reset the iptables: ```sudo iptables -F```
+- [iptables man pages](https://linux.die.net/man/8/iptables)
