@@ -38,7 +38,7 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 
 - To check the current ALSR state: ```$ sudo sysctl kernel.randomize_va_space```
 - If you forget to turn off the non-executable stack protection ``` -z execstack``` you will get a *Segmentation fault*
-- To compile the ```stack.c``` program using debig flags: ```gcc stack.c -o gbd-stack -g -z execstack -fno-stack-protector```. 
+- To compile the ```stack.c``` program using debig flags: ```gcc stack.c -o gdb-stack -g -z execstack -fno-stack-protector```. 
   - Now you can debug ```gdb-stack``` to find the address of ```buffer[]``` and frame pointer ```($ebp)``` 
     - Start debugging by ```gdb gdb-stack```
     - To place a breakpoint at bof: ```b bof``` 
