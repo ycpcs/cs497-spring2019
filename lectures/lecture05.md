@@ -27,7 +27,7 @@ title: "Lecture 5: Computer Networking"
 - Once the network setup is done, run ```ifconfig``` on all VMs and record the IP address for each VM. Take a screenshot.
 - **Normal Scenario:**
   - Create a folder in *Server* at ```~/testserver```.
-  - Create a file named ```test.html``` in ```~/testterver``` with some text content. Take a screenshot.
+  - Create a file named ```test.html``` in ```~/testserver``` with some text content. Take a screenshot.
   - Open a terminal window and change directory to ```~/testserver```, start a python SimpleHTTPServer with the following command 
   ```python -m SimpleHTTPServer```
   - Open a browser session in ```Victim’s``` VM and enter ```http://<server_ip_address>:8000/test.html``` in the URL bar. 
