@@ -21,7 +21,7 @@ title: "Lecture 5: Computer Networking"
 
 - [Computer Networking](Ch05-NetworkModelsARP.pdf)
 
-### In Class Exercise (part 1 - manual)
+### In Class Exercise (part 1)
 - Startup VirtualBox and create three (3) virtual machines. 
 - One is used to host applications (server) and other virtual machines are for the victim and the attacker.
 - Once the network setup is done, run ```ifconfig``` on all VMs and record the IP address for each VM. Take a screenshot.
