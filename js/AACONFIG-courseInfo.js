@@ -46,13 +46,13 @@ var courseInfo = {
 	}, {
 		topic: new Topic("Monitoring, filesystem security, buffer-overflow attacks", "lectures/lecture03.html"),
 		reading: new Reading("Chapter 3"),
-		assign: new Assignment("Buffer Overflow", "labs/lab04.html", 11)
+		assign: new Assignment("Buffer Overflow", "labs/lab04.html", 18)
 	}, {
 		topic: new Topic("Snow Day", ""),
 	}, {
 		topic: new Topic("Network Security I", "lectures/lecture05.html"),
 		reading: new Reading("Chapter 5"),
-		lab: new Lab("Lab Module 5", "lab05.html")
+		assign: new Assignment("ARP spoofing", "lectures/lecture05.html", 11)
 	}, {
 		topic: new Topic("Network Security I", "lectures/lecture05.html"),
 		reading: new Reading("Chapter 5"),
