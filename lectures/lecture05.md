@@ -21,7 +21,7 @@ title: "Lecture 5: Computer Networking"
 
 - [Computer Networking](Ch05-NetworkModelsARP.pdf)
 
-### In Class Exercise (part 1)
+### In Class Exercise (part 1 - manual)
 - Startup VirtualBox and create three (3) virtual machines. 
 - One is used to host applications (server) and other virtual machines are for the victim and the attacker.
 - Once the network setup is done, run ```ifconfig``` on all VMs and record the IP address for each VM. Take a screenshot.
@@ -64,7 +64,7 @@ title: "Lecture 5: Computer Networking"
 - You can install ettercap on your VM bu using -```sudo apt-get install ettercap-text-only```
 - The goal of the second part of the lab is to sniff unsecured user authentication and to become familiar with ```tcpdump``` and ```ettercap```. ```tcpdump``` is a command lline network analyzer alternative to Wireshark. In this lab, we will only need the attacker and the victim (client) VM's to be running.
 - ```ip r | grep default``` will provide you with indormation about the default gateway. 
-- Extensive information aregarding ```tcpdump``` can be found [here](https://www.tcpdump.org/manpages/tcpdump.1.html)
+- Extensive information aregarding ```tcpdump``` can be found [here](https://www.tcpdump.org/manpages/tcpdump.1.html) or by using the terminal ```man tcpdump```.
 
 - **Steps**
 1. From the attacker's VM, open a terminal window and start monitoring any ARP request and replies. Use the following command: ```sudo tcpdump -n -i <interface_name> arp```. Depending on the network traffic, you might begin see a few ARP requests for other machines.
