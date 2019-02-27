@@ -73,7 +73,7 @@ title: "Lecture 5: Computer Networking"
 4. On the Victim's VM open up firefox and navigate to [http://aavtrain.com/](http://aavtrain.com/).
 5. Login to [http://aavtrain.com/](http://aavtrain.com/) with **fake** username and password. Record what you have used. 
 6. Review the output from the second terminal on the attacker's VM. Can you find the sniffed HTTP username and password used to login into the website? If you cannot find the username and the password in the payload, feel free to use wireshark to point you to the right packet. Take a screenshots of the compromised data. 
-7. Back to the victims VM's, using the browser navigate to [http://www.facebook.com](www.facebook.com) and try to sniff the user login information. Explain what happens and provide a brief explanation. 
+7. Back to the victims VM's, using the browser navigate to [http://www.facebook.com](http://www.facebook.com) and try to sniff the user login information. Explain what happens and provide a brief explanation. 
 8. Shutdown ettercap by pressing 'q'.
 
 ### Report 
