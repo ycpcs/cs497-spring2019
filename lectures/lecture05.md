@@ -58,3 +58,26 @@ title: "Lecture 5: Computer Networking"
   - Observe network traffic as you refresh the ```Victim's``` browser. Take a screenshot.
 - To reset the iptables: ```sudo iptables -F```
 - [iptables man pages](https://linux.die.net/man/8/iptables)
+
+### In Class Exercise (part 2)
+- In this exercise we will be using ettercap to perform ARP poisoning. Ettercap is a comprehensive suite for man in the middle attacks.
+- You can install ettercap on your VM bu using -```sudo apt-get install ettercap-text-only```
+- The goal of the second part of the lab is to sniff unsecured user authentication and to become familiar with ```tcpdump``` and ```ettercap```. ```tcpdump``` is a command lline network analyzer alternative to Wireshark. In this lab, we will only need the attacker and the victim (client) VM's to be running.
+- ```ip r | grep default``` will provide you with indormation about the default gateway. 
+- Extensive information aregarding ```tcpdump``` can be found [here](https://www.tcpdump.org/manpages/tcpdump.1.html)
+
+- **Steps**
+1. From the attacker's VM, open a terminal window and start monitoring any ARP request and replies. Use the following command: ```sudo tcpdump -n -i <interface_name> arp```. Depending on the network traffic, you might begin see a few ARP requests for other machines.
+2. Still from the attacker's VM, open a second terminal and start monitoring traffic between our victim and the rest of the Internet. Use the command: ```sudo tcpdump -n -i <interface_name> tcp and port 80 and host <victim_ip_address> -s0 -A -c 1000```. 
+3. In a third terminal window enter the following command ```sudo ettercap -T -M ARP /<victim_ip_address>// /<router_ip_address>//```. This will ask ettercap to redirect packets from victim to server through your router first. It will then replay those packets on to the correct MAC address so that neither host notices that ettercap is stealing these packets.
+4. On the Victim's VM open up firefox and navigate to [http://aavtrain.com/](http://aavtrain.com/).
+5. Login to [http://aavtrain.com/](http://aavtrain.com/) with **fake** username and password. Record what you have used. 
+6. Review the output from the second terminal on the attacker's VM. Can you find the sniffed HTTP username and password used to login into the website? If you cannot find the username and the password in the payload, feel free to use wireshark to point you to the right packet. Take a screenshots of the compromised data. 
+7. Back to the victims VM's, using the browser navigate to [www.facebook.com](www.facebook.com) and try to sniff the user login information. Explain what happens and provide a brief explanation. 
+8. Shutdown ettercap by pressing 'q'.
+
+### Report 
+- Screenshots from both parts of the lab along with any information you would like to share. 
+- Awnser the following:
+1. What were two things you learned from this lab?
+2. Research and submit a link to a tool that we can install on our Linux machine to detect ARP poisoning.
