@@ -14,7 +14,7 @@ Week of Jan 21 |  [Labs Setup](lab01.html)                                      
 Week of Jan 28 |  [Footprint](lab02b.html) & [Password](lab02.html) Labs                | Feb 03 / Feb 05
 Week of Feb 4  |  [Set-UID Lab](lab03.html)                                             | Feb 18                    
 Week of Feb 18 |  [Buffer Overflow Vulnerability](lab04.html)                           | Mar 08
-Week of Feb 25 |  [ARP spoofing](lectures/lecture05.html)                               | Mar 08
+Week of Feb 25 |  [ARP spoofing](../lectures/lecture05.html)                            | Mar 08
 Week of Mar 4  |  **NO LAB - Winter Break**                                             |
 Week of Mar 11 |  Attacks on TCP/IP*                                                    | 
 Week of Mar 18 |  Local DNS Attack Lab*|
