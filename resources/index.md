@@ -10,7 +10,7 @@ This page contains links to useful resources.
 
 - [GCC](https://gcc.gnu.org/), the GNU Compiler Collection.
   
-- [GDB](https://www.gnu.org/software/gdb/), The GNU Project Debugger.
+- [GDB](https://www.gnu.org/software/gdb/), the GNU Project Debugger.
   
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 
