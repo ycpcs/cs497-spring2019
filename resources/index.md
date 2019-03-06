@@ -26,6 +26,8 @@ This page contains links to useful resources.
 
 - [SublimeAStyleFormatter](https://packagecontrol.io/packages/SublimeAStyleFormatter) is a simple code formatter plugin for Sublime Text. It provides ability to format C, C++, Cuda-C++, OpenCL, Arduino, C#, and Java files.
 
+- [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
+
 SEED Labs
 ----------------------------------
 Hands-on [Labs](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/) for Security Education 
