@@ -28,7 +28,7 @@ All information related to the course will be posted here.
 
 ## News
 * **Mar 08** &mdash; [APR Spoofing Exercises](lectures/lecture05.html) Due
-* **Mar 08** &mdash; [Buffer Overflow Vulnerability](labs/lab04.html) Due
+* **Mar 08** &mdash; [Buffer Overflow Vulnerability Lab](labs/lab04.html) Due
 * **Feb 18** &mdash; [Set-UID Guided Lab](labs/lab03.html) Due 
 * **Feb 05** &mdash; [Password Cracking Lab](labs/lab02.html) Due
 * **Feb 03** &mdash; [Network Foot-Printing Lab](labs/lab02b.html) Due
