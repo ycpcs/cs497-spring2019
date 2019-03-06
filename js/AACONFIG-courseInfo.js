@@ -60,7 +60,7 @@ var courseInfo = {
 	}, {
 		topic: new Topic("TCP/IP", "lectures/lecture05.html"),
 		reading: new Reading("Chapter 5"),
-		lab: new Lab("Lab Module 5", "lab05.html")
+		assign: new Assignment("TCP/IP Attack Lab", "lectures/lecture05.html", 9)
 	}, {
 		topic: new Topic("Network Security II", "lectures/lecture06.html"),
 		reading: new Reading("Chapter 6"),
