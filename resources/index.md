@@ -24,8 +24,6 @@ This page contains links to useful resources.
 
 - [VisualCodeGrepper](https://github.com/nccgroup/VCG) is an automated code security review tool that handles C/C++, Java, C#, VB and PL/SQL.
 
-- [SublimeAStyleFormatter](https://packagecontrol.io/packages/SublimeAStyleFormatter) is a simple code formatter plugin for Sublime Text. It provides ability to format C, C++, Cuda-C++, OpenCL, Arduino, C#, and Java files.
-
 - [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
 
 SEED Labs
@@ -39,3 +37,5 @@ Hands-on [Labs](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/) for Security Educ
 - [User Manual](http://www.cis.syr.edu/~wedu/seed/Documentation/Ubuntu16_04_VM/Ubuntu16_04_VM_Manual.pdf): includes the account and password information, list of software and servers installed, and configuration.
 
 - Follow [Run SEED VM on VirtualBox](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf) to load the image into VirtualBox.
+
+- [SublimeAStyleFormatter](https://packagecontrol.io/packages/SublimeAStyleFormatter) is a simple code formatter plugin for Sublime Text. It provides ability to format C, C++, Cuda-C++, OpenCL, Arduino, C#, and Java files.
