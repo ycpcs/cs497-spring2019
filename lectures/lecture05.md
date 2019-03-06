@@ -24,6 +24,8 @@ title: "Lecture 5: Computer Networking"
 
 ### In Class Exercise *ARP spoofing* (part 1)
 - Startup VirtualBox and create three (3) virtual machines. 
+- Ensuring that MAC addresses of all virtual-machines are unique
+   - Base on the VirtualBox version you are using: the options are either `Reinitialize the MAC address of all network cards` or `Generate new MAC addresses for all network adapters`
 - One is used to host applications (server) and other virtual machines are for the victim and the attacker.
 - Once the network setup is done, run ```ifconfig``` on all VMs and record the IP address for each VM. Take a screenshot.
 - **Normal Scenario:**
