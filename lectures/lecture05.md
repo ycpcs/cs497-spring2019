@@ -20,6 +20,7 @@ title: "Lecture 5: Computer Networking"
 ### Slides
 
 - [Computer Networking](Ch05-NetworkModelsARP.pdf)
+- [TCP/IP](Ch05-NetworksTCP-IP.pdf)
 
 ### In Class Exercise (part 1)
 - Startup VirtualBox and create three (3) virtual machines. 
