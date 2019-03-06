@@ -56,7 +56,7 @@ var courseInfo = {
 	}, {
 		topic: new Topic("ARP spoofing exercise", "lectures/lecture05.html"),
 		reading: new Reading("Chapter 5"),
-		assign: new Assignment("ARP spoofing", "lectures/lecture05.html", 11)
+		assign: new Assignment("ARP spoofing", "lectures/lecture05.html", 9)
 	}, {
 		topic: new Topic("TCP/IP", "lectures/lecture05.html"),
 		reading: new Reading("Chapter 5"),
