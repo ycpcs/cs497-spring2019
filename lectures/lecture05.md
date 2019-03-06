@@ -22,7 +22,7 @@ title: "Lecture 5: Computer Networking"
 - [Computer Networking](Ch05-NetworkModelsARP.pdf)
 - [TCP/IP](Ch05-NetworksTCP-IP.pdf)
 
-### In Class Exercise (part 1)
+### In Class Exercise *ARP spoofing* (part 1)
 - Startup VirtualBox and create three (3) virtual machines. 
 - One is used to host applications (server) and other virtual machines are for the victim and the attacker.
 - Once the network setup is done, run ```ifconfig``` on all VMs and record the IP address for each VM. Take a screenshot.
@@ -60,7 +60,7 @@ title: "Lecture 5: Computer Networking"
 - To reset the iptables: ```sudo iptables -F```
 - [iptables man pages](https://linux.die.net/man/8/iptables)
 
-### In Class Exercise (part 2)
+### In Class Exercise *ARP spoofing* (part 2)
 - In this exercise we will be using ettercap to perform ARP poisoning. Ettercap is a comprehensive suite for man in the middle attacks.
 - You can install ettercap on your VM bu using -```sudo apt-get install ettercap-text-only```
 - The goal of the second part of the lab is to sniff unsecured user authentication and to become familiar with ```tcpdump``` and ```ettercap```. ```tcpdump``` is a command lline network analyzer alternative to Wireshark. In this lab, we will only need the attacker and the victim (client) VM's to be running.
