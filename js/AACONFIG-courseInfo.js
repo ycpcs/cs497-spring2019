@@ -54,7 +54,11 @@ var courseInfo = {
 		reading: new Reading("Chapter 5"),
 		assign: new Assignment("ARP spoofing", "lectures/lecture05.html", 11)
 	}, {
-		topic: new Topic("Network Security I", "lectures/lecture05.html"),
+		topic: new Topic("ARP spoofing exercise", "lectures/lecture05.html"),
+		reading: new Reading("Chapter 5"),
+		assign: new Assignment("ARP spoofing", "lectures/lecture05.html", 11)
+	}, {
+		topic: new Topic("TCP/IP", "lectures/lecture05.html"),
 		reading: new Reading("Chapter 5"),
 		lab: new Lab("Lab Module 5", "lab05.html")
 	}, {
@@ -109,8 +113,6 @@ var courseInfo = {
 		topic: new Topic("Privacy and Anonymity on the Internet", "lectures/lecture11.html"),
 		reading: new Reading("In class discussion"),
 		lab: new Lab("Lab Module 11", "lab11.html")
-	}, {
-		topic: new Topic("TBD", "lectures/lecture11.html")
 	}, {
 		topic: new Topic("TBD", "lectures/lecture11.html")
 	}, {
