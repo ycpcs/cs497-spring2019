@@ -52,11 +52,11 @@ var courseInfo = {
 	}, {
 		topic: new Topic("Network Security I", "lectures/lecture05.html"),
 		reading: new Reading("Chapter 5"),
-		assign: new Assignment("ARP spoofing", "lectures/lecture05.html", 11)
+		assign: new Assignment("ARP spoofing (part 1)", "lectures/lecture05.html", 11)
 	}, {
 		topic: new Topic("ARP spoofing exercise", "lectures/lecture05.html"),
 		reading: new Reading("Chapter 5"),
-		assign: new Assignment("ARP spoofing", "lectures/lecture05.html", 9)
+		assign: new Assignment("ARP spoofing (part 2)", "lectures/lecture05.html", 9)
 	}, {
 		topic: new Topic("TCP/IP", "lectures/lecture05.html"),
 		reading: new Reading("Chapter 5"),
