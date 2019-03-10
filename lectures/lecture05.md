@@ -82,6 +82,7 @@ title: "Lecture 5: Computer Networking"
 8. Shutdown ettercap by pressing 'q'.
 
 ### Report 
+- Submit your work on marmoset.
 - Screenshots from both parts of the lab along with any information you would like to share. 
 - Awnser the following:
 1. What were two things you learned from this lab?
