@@ -82,7 +82,7 @@ title: "Lecture 5: Computer Networking"
 8. Shutdown ettercap by pressing 'q'.
 
 ### Report 
-- Submit your work on marmoset.
+Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. Your report should consist of the following:
 - Screenshots from both parts of the lab along with any information you would like to share. 
 - Awnser the following:
 1. What were two things you learned from this lab?
