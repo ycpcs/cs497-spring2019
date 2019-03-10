@@ -16,6 +16,7 @@ title: "Lecture 5: Computer Networking"
 ### Reading 
 
 - Introduction to Computer Security: Chapter 5
+- [Probabilistic Packet Marking for Large-Scale IP Traceback.pdf](ProbabilisticPacketMarking.pdf)
 
 ### Slides
 
