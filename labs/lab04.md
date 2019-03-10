@@ -17,6 +17,7 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 
 - [Buffer Overflow](../lectures/Ch03-BufferOverflow.pdf)
 - [Buffer Overflow Attack](../lectures/Buffer_Overflow.pdf)
+- [Lab Step by Step](../lectures/BufferOverflowLabStepByStep.pdf)
 
 ### Source Files
 
