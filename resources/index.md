@@ -18,6 +18,10 @@ This page contains links to useful resources.
 
 - [Wireshark](https://www.wireshark.org/#download) is the world’s foremost and widely-used network protocol analyzer.
 
+- [Kismet](https://www.kismetwireless.net/) is a wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework.
+
+- [Fiddler](https://www.telerik.com/fiddler) is free web debugging proxy for any browser, system or platform.
+
 - [Ettercap](http://www.ettercap-project.org/ettercap/) is a comprehensive suite for man in the middle attacks.
 
 - [MD5 Hash Generator](https://www.md5hashgenerator.com/)
