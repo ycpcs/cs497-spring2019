@@ -29,4 +29,4 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
 
 - ### Tips
- - Use ```netstat -na | grep tcp``` to check teh usage of the queue before and after each attack. 
+ - Use ```netstat -na | grep tcp``` to check teh usage of the *TCP* queue before and after each attack. 
