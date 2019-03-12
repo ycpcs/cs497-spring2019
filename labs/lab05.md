@@ -30,3 +30,4 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 
 - ### Tips
  - Use ```netstat -na | grep tcp``` to check teh usage of the *TCP* queue before and after each attack. 
+ - *Telnet* runs on port 23
