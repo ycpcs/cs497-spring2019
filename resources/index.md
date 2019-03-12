@@ -26,6 +26,8 @@ This page contains links to useful resources.
 
 - [MD5 Hash Generator](https://www.md5hashgenerator.com/)
 
+- [netwox](http://www.cis.syr.edu/~wedu/Teaching/cis758/netw522/netwox-doc_html/) is a **netw**ork toolb**ox** for network administrators and network hackers.
+
 - [Hash Suite](https://hashsuite.openwall.net/) is a Windows program to test security of password hashes. 
 
 - [Nmap](https://nmap.org/) is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
