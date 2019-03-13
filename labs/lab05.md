@@ -35,5 +35,5 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
   - To view the ```Next Sequence Number``` - find a TCP packet that doesn't have a zero length payload (```tcp.len > 0``` filter)
   - To filter only telnet packets, use ```tcp.port=23``` 
 - **Task #2** - use ```netwox 40``` instead of ```netwox 78```
-- **Task #2** - use ```netwox 78``` 
+- **Task #3** - use ```netwox 78``` 
 - To make your script executable: ``` $ chmod +x your_script.py```
