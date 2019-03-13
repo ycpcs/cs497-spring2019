@@ -18,6 +18,7 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 
 ### Source Files
 - [Task 2 skeleton code](tcp/rst_attack.py)
+- [Task 4 skeleton code](tcp/session_hijack.py)
 
 ### Grading
 
