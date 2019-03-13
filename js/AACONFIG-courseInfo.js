@@ -62,6 +62,8 @@ var courseInfo = {
 		reading: new Reading("Chapter 5"),
 		assign: new Assignment("TCP/IP Attack Lab", "lectures/lecture05.html", 9)
 	}, {
+		topic: new Topic("TCP/IP Attack Lab", ""),
+	},{
 		topic: new Topic("Network Security II", "lectures/lecture06.html"),
 		reading: new Reading("Chapter 6"),
 		assign: new Assignment("Local DNS Attack Lab", "", 7)
@@ -113,8 +115,6 @@ var courseInfo = {
 		topic: new Topic("Privacy and Anonymity on the Internet", "lectures/lecture11.html"),
 		reading: new Reading("In class discussion"),
 		lab: new Lab("Lab Module 11", "lab11.html")
-	}, {
-		topic: new Topic("TBD", "lectures/lecture11.html")
 	}, {
 		topic: new Topic("Course wrap up", "lectures/lecture13.html")
 	}]
