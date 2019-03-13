@@ -34,4 +34,4 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
   - To enable auto scroll: Go -> Auto Scroll in Live Capture 
   - To view the ```Next Sequence Number``` - find a TCP packet that doesn't have a zero length payload (```tcp.len > 0``` filter)
   - To filter only telnet packets, use ```tcp.port=23``` 
-- 
+- **Task #2** - use ```netwox 78``` instead of ```netwox 40```
