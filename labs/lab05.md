@@ -27,10 +27,11 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - 40% - Explanation
 - *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
 
-- ### Tips
- - Use ```netstat -na | grep tcp``` to check teh usage of the *TCP* queue before and after each attack. 
- - Wireshark
-   - To enable auto scroll: Go -> Auto Scroll in Live Capture 
-   - To view the ```Next Sequence Number``` - find a TCP packet that doesn't have a zero length payload (```tcp.len > 0``` filter)
-   - To filter only telnet packets, use ```tcp.port=23``` 
- - 
+### Tips
+- Install scrapy by ```sudo apt install python-scrapy```  
+- Use ```netstat -na | grep tcp``` to check teh usage of the *TCP* queue before and after each attack. 
+- Wireshark
+  - To enable auto scroll: Go -> Auto Scroll in Live Capture 
+  - To view the ```Next Sequence Number``` - find a TCP packet that doesn't have a zero length payload (```tcp.len > 0``` filter)
+  - To filter only telnet packets, use ```tcp.port=23``` 
+- 
