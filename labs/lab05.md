@@ -17,8 +17,7 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 - [Networks: IP and TCP](../lectures/Ch05-NetworksTCP-IP.pdf)
 
 ### Source Files
-
-
+- [Task 2 python file](tcp/rst_attack.py)
 
 ### Grading
 
