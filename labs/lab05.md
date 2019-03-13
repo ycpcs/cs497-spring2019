@@ -15,6 +15,7 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 ### Reference Slides
 
 - [Networks: IP and TCP](../lectures/Ch05-NetworksTCP-IP.pdf)
+- [CS 330 Transport Layer](tcp/lecture6_transport_layer.pdf) - slide 48 may help
 
 ### Source Files
 - [Task 2 skeleton code](tcp/rst_attack.py)
