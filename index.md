@@ -27,6 +27,7 @@ All information related to the course will be posted here.
 * [Ethics](ethics.html)
 
 ## News
+* **Mar 20** &mdash; [TCP Attack Lab](labs/lab05.html) Due
 * **Mar 08** &mdash; [APR Spoofing Exercises](lectures/lecture05.html) Due
 * **Mar 08** &mdash; [Buffer Overflow Vulnerability Lab](labs/lab04.html) Due
 * **Feb 18** &mdash; [Set-UID Guided Lab](labs/lab03.html) Due 
