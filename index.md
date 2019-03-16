@@ -27,6 +27,9 @@ All information related to the course will be posted here.
 * [Ethics](ethics.html)
 
 ## News
+* **May 13** &mdash; Project Demo
+* **May 08** &mdash; Project Code/Report
+* **Apr 24** &mdash; Project Proposal
 * **Mar 20** &mdash; [TCP Attack Lab](labs/lab05.html) Due
 * **Mar 08** &mdash; [APR Spoofing Exercises](lectures/lecture05.html) Due
 * **Mar 08** &mdash; [Buffer Overflow Vulnerability Lab](labs/lab04.html) Due
