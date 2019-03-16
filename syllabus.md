@@ -136,7 +136,7 @@ Assignments will be submitted using the server <https://cs.ycp.edu/marmoset>. Yo
 
 York College’s mission statement stipulates that strict adherence to principles of academic honesty is expected of all students. Therefore, academic dishonesty will not be tolerated at York College. Academic dishonesty refers to actions such as, but not limited to, cheating, plagiarism, fabricating research, falsifying academic documents, etc., and includes all situations where students make use of the work of others and claim such work as their own.
 
-The following policy pertains to homework and graded (individual) programming assignments:
+The following policy pertains to homework and graded (individual) Lab assignments:
 
 > All graded (individual) programming assignments are to be completed individually. I encourage you to discuss high level concepts with other students, but any work you submit **must be yours alone**.
 >
@@ -144,7 +144,7 @@ The following policy pertains to homework and graded (individual) programming as
 >
 > Any sources (books, websites, articles, fellow students, etc.), except for the course textbook and lecture notes, that you consult in completing an assignment **must be properly acknowledged**. In general, I strongly discourage you from using any resource not explicitly listed in the course syllabus or on the course web page. When you work on a programming assignment, it must be **your** program, not your adaptation of someone else's program.
 
-Lab assignments are not graded---therefore, you may work with other students on them. However, I do expect you to complete them. You are encouraged to utilize the class time to work on the labs and ask any questions about them.
+There may be some non-graded lab assignments (I will precisely stress that) - therefore, you may work with other students on them. However, I do expect you to complete them. You are encouraged to utilize the class time to work on the labs and ask any questions about them.
 
 When a faculty member believes a student has committed an act of academic dishonesty, the faculty member must inform the student in writing and then has ten business days from that written notification to the student to report the incident to the Dean of Academic Affairs and the Department Chair. Documentation related to instances of academic dishonesty will be kept on file in the student’s permanent record. If the academic dishonesty is the student’s first offense, the faculty member will have the discretion to decide on a suitable sanction up to a grade of 0 for the course. Students are not permitted to withdraw from a course in which they have been accused of academic dishonesty.
 
