@@ -27,9 +27,10 @@ All information related to the course will be posted here.
 * [Ethics](ethics.html)
 
 ## News
-* **May 13** &mdash; Project Demo
-* **May 08** &mdash; Project Code/Report
-* **Apr 24** &mdash; Project Proposal
+* **May 13** &mdash; [Project Demo](assign/project.html)
+* **May 08** &mdash; [Project Code/Report](assign/project.html)
+* **Apr 24** &mdash; [Project Proposal](assign/project.html)
+*
 * **Mar 20** &mdash; [TCP Attack Lab](labs/lab05.html) Due
 * **Mar 08** &mdash; [APR Spoofing Exercises](lectures/lecture05.html) Due
 * **Mar 08** &mdash; [Buffer Overflow Vulnerability Lab](labs/lab04.html) Due
@@ -38,5 +39,4 @@ All information related to the course will be posted here.
 * **Feb 03** &mdash; [Network Foot-Printing Lab](labs/lab02b.html) Due
 * **Jan 28** &mdash; [Assignment 1](assign/assign01.html) Due
 * **Jan 23** &mdash; Welcome back!
-
 
