@@ -8,6 +8,8 @@ title: "Lab 6 - Local DNS Attack Lab"
 
 ### Lab Description and Tasks
 
+The objective of this lab is for students to gain the first-hand experience on various attacks on DNS (Domain Name System). 
+
 [Local DNS Lab](dns/DNS_Local.pdf)
 
 Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Networking/DNS_Local/). 
