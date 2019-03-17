@@ -30,7 +30,7 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
 
 ### Tips
-- Install scrapy by ```sudo apt install python-scrapy```  
+- Install scapy by ```sudo apt install python-scapy```  
 - Use ```netstat -na | grep tcp``` to check teh usage of the *TCP* queue before and after each attack. 
 - Wireshark
   - To enable auto scroll: Go -> Auto Scroll in Live Capture 
@@ -43,8 +43,14 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - To make your script executable: ``` $ chmod +x your_script.py```
 
 ### Expected Behavior 
-- Task 1
-  - <a href="./tcp\syn_flooding_attack.png" target="_blank">SYS Flooding Attack</a> - you can see many half open connections from random IP addresses. 
-  - <a href="./tcp\syn_flooding_attack_netstat.png" target="_blank">SYS Flooding Attack - netstat</a> - same here, just using ```netstat -na | grep tcp```
-  
-  
+- Task 1 - SYN Flooding
+  - <a href="./tcp/syn_flooding_attack.png" target="_blank">SYS Flooding Attack</a> - you can see many half open connections from random IP addresses. 
+  - <a href="./tcp/syn_flooding_attack_netstat.png" target="_blank">SYS Flooding Attack - netstat</a> - same here, just using ```netstat -na | grep tcp```
+- Task 2 - running the attack kills the TCP connection
+  - <a href="./tcp/tcp_rst_attack_telnet.png" target="_blank">TCP RST Attack on telnet</a> 
+  - <a href="./tcp/tcp_rst_attack_ssh.png" target="_blank">TCP RST Attack on ssh</a> 
+- Task 4 
+  - <a href="./tcp/tcp_session_hijack.png" target="_blank">TCP Session Hijack</a> 
+- Task 5 - Reverse Shell 
+  - <a href="./tcp/reverse_shell.png" target="_blank">Creating Reverse Shell using TCP Session Hajacking</a> via scapy and the <a href="./tcp/reverse_shell_scrapy_file.png" target="_blank">file</a> I used 
+  - <a href="./tcp/reverse_shell_netwox.png" target="_blank">Creating Reverse Shell using TCP Session Hajacking</a> via netwox 
