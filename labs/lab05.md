@@ -44,6 +44,7 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 
 ### Expected Behavior 
 - Task 1
-  - <a href="./tcp\syn_flooding_attack.png" target="_blank">SYS Flooding Attack</a>
-  - <a href="./tcp\syn_flooding_attack_netstat.png">SYS Flooding Attack - netstat</a>
+  - <a href="./tcp\syn_flooding_attack.png" target="_blank">SYS Flooding Attack</a> - you can see many half open connections from random IP addresses. 
+  - <a href="./tcp\syn_flooding_attack_netstat.png" target="_blank">SYS Flooding Attack - netstat</a> - same here, just using ```netstat -na | grep tcp```
+  
   
