@@ -41,3 +41,5 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - **Task #3** - use ```netwox 78``` 
 - **Task #4** - create a directory on the server with a single file in it. Try to delete the file by injecting malicious contents into the client server telnet session. Use ```\r rm *\n\r```.
 - To make your script executable: ``` $ chmod +x your_script.py```
+
+### Expected Behavior 
