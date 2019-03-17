@@ -21,3 +21,6 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 - Zone file for domain ```example.com```: [/var/cache/bind/example.com.db](dns/example.com.db)
 - Zone file for DNS reverse lookup: [/var/cache/bind/192.168.0](dns/192.168.0)
   - Note: If you choose different IP addresses or domain names, you need to modify the above configuration and zone files accordingly.
+
+### Tips
+- For this lab you have to use ```NAT Network```
