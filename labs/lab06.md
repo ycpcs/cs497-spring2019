@@ -21,7 +21,11 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 - Zone file for domain ```example.com```: [/var/cache/bind/example.com.db](dns/example.com.db)
 - Zone file for DNS reverse lookup: [/var/cache/bind/192.168.0](dns/192.168.0)
   - Note: If you choose different IP addresses or domain names, you need to modify the above configuration and zone files accordingly.
+- [scapy script](dns/spoof_dns.py) - used in last 3 tasks.
 
 ### Tips
 - For this lab you have to use ```NAT Network```
 - Task 5 - you may need to clean the cache of the DNS server as it may already contain the domain information of www.example.net
+
+### Expected Output
+
