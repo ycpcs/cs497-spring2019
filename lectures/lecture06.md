@@ -15,3 +15,4 @@ title: "Lecture 6: Network Security"
 Introduction to Computer Security: Chapter 6
 
 ### Slides
+- [DNS Attack](DNS_Attacks.pdf)
