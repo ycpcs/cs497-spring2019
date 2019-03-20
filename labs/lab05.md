@@ -36,7 +36,7 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
   - To enable auto scroll: Go -> Auto Scroll in Live Capture 
   - To view the ```Next Sequence Number``` - find a TCP packet that doesn't have a zero length payload (```tcp.len > 0``` filter)
   - To filter only telnet packets, use ```tcp.port=23``` 
-- **Task #1** - you can use ```raw``` for the ```-s``` option, for example: ```netwox 192.168.1.73 -p 23 -s raw```
+- **Task #1** - you can use ```raw``` for the ```-s``` option, for example: ```netwox 76 -i 192.168.1.73 -p 23 -s raw```
 - **Task #2** - use ```netwox 40``` instead of ```netwox 78```
 - **Task #3** - use ```netwox 78``` 
 - **Task #4** - create a directory on the server with a single file in it. Try to delete the file by injecting malicious contents into the client server telnet session. Use ```\r rm *\n\r```.
