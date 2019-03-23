@@ -28,4 +28,5 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 - Task 5 - you may need to clean the cache of the DNS server as it may already contain the domain information of www.example.net
 
 ### Expected Output
-
+- Task 2 - [Set up a Local DNS Server](dns/set_local_dns_server.png). When we ping google.com using dig, from the Victim's machine, we can see that it sends DNS query to DNS server 10.0.2.5 
+- 
