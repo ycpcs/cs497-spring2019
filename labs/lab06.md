@@ -29,4 +29,4 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 
 ### Expected Output
 - Task 2 - [Set up a Local DNS Server](dns/set_local_dns_server.png). When we ping google.com using dig, from the Victim's machine, we can see that it sends DNS query to DNS server 10.0.2.5 
-- 
+- Task 3 - [Modiffying the host file](dns/host_file.png). When we modify the ```/etc/hosts``` file with the IP address of www.bank32.com we get response back from the attacker's machine 10.0.2.4.
