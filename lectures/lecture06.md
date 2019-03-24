@@ -13,6 +13,7 @@ title: "Lecture 6: Network Security"
 ### Reading 
 
 - Introduction to Computer Security: Chapter 6
+- [DNS Security](https://tnc2000.terena.org/proceedings/3A/3a3.pdf)
 - [RFC 1035](https://tools.ietf.org/html/rfc1035) Domain Names - Implementation and Specification.
 - DNS Attack Guide
     - [Part One](http://www.technicalinfo.net/papers/Pharming.html)
