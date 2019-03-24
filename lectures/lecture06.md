@@ -21,4 +21,5 @@ title: "Lecture 6: Network Security"
 - An Illustrated Guide to the [Kaminsky DNS Vulnerability](http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html)
 
 ### Slides
+- [Domain Name System](Ch06-NetworksDNS.pdf)
 - [DNS Attack](DNS_Attacks.pdf)
