@@ -14,7 +14,12 @@ The objective of this lab is for students to gain the first-hand experience on v
 
 Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Networking/DNS_Local/). 
 
-### Reference Slides
+### Reference
+- [RFC 1035](https://tools.ietf.org/html/rfc1035) Domain Names - Implementation and Specification.
+- DNS Attack Guide
+    - [Part One](http://www.technicalinfo.net/papers/Pharming.html)
+    - [Part Two](http://www.technicalinfo.net/papers/Pharming2.html)
+- Netwox Tools: Here are the manuals of [Netwox](http://www.cis.syr.edu/~wedu/seed/Labs/Lab_Setup/netw522/netwox-doc_html/). Netwox is already installed in our pre-built Ubuntu VM images.
 
 ### Source Files
 - Zone Files for DNS Setup
