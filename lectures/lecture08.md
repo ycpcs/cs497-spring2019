@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS497
-title: "Lecture 8: WCross-Site Request Forgery (CSRF) Attack"
+title: "Lecture 8: Cross-Site Request Forgery (CSRF) Attack"
 ---
 
 # Lecture 8
@@ -9,7 +9,7 @@ title: "Lecture 8: WCross-Site Request Forgery (CSRF) Attack"
 - Cross-Site Request Forgery (CSRF) Attack
 
 ## Slides
-- [Web_CSRF.pdf](Web_CSRF.pdf)
+- [CSRF.pdf](Web_CSRF.pdf)
 
 ### Reading 
 - Introduction to Computer Security: Chapter 7
