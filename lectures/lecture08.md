@@ -8,6 +8,9 @@ title: "Lecture 8: WCross-Site Request Forgery (CSRF) Attack"
 
 - Cross-Site Request Forgery (CSRF) Attack
 
+## Slides
+- [Web_CSRF.pdf](Web_CSRF.pdf)
+
 ### Reading 
 - Introduction to Computer Security: Chapter 7
 - [Same-Origin Policy](https://code.google.com/archive/p/browsersec/wikis/Part2.wiki#Same-origin_policy)
