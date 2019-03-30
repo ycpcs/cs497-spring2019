@@ -21,6 +21,7 @@ title: "Lecture 7: Web Browser Security"
 - [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference) Reference
 - [High Performance Browser Networking](https://hpbn.co/)
 - [Postman](https://www.getpostman.com/]) API development environment
+- [A RESTful Tutorial](https://www.restapitutorial.com/)
 
 # Notes
 The world wide web has completely changed the way people use computers. We use it for banking, shopping, education, communication, news, entertainment. 
