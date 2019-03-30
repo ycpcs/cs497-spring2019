@@ -31,3 +31,13 @@ For example, ```https://ycpcs.github.io/cs497-spring2019/schedule.html```,
 ```https://ycpcs.github.io``` is the domain name of the web server holding the web site of interest, and the file ```schedule.html``` is the file describing the text and images for a page on this web site using a format called HTML- Hypertext Markup Language. 
 
 Frequently, the name of the file is left out of a URL, in which case a default file is requested, such as ```index.html``` or ```home.html```.
+
+HTML Describes the content and formatting of Web Pages and it is rendered within the browser window.
+```c
+<html>
+  <body>
+    <h1>My First Heading</h1>
+    <p>Test from CS 497</p>
+  </body>
+</html>
+```
