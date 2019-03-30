@@ -41,3 +41,18 @@ HTML Describes the content and formatting of Web Pages and it is rendered within
   </body>
 </html>
 ```
+Some of the HTML features:
+ - Static document description language 
+ - Supports linking to other pages and embedding images 
+ - User input sent to server via forms
+
+```c
+<form>
+  First Name: <input type="text" name="fname"><br/>
+  Last Name: <input type="text" name="lname"><br/>
+  <button type="button">Click Me!</button>
+</form>
+```
+
+HTML supports plugins – usually for additional media content (PDF, video, music) 
+ - Embedding programs in supported languages (JavaScript) provides dynamic content that interacts with the user, modifies the browser User Interface and can access computer environment. 
