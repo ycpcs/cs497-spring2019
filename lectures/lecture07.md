@@ -33,7 +33,7 @@ For example, ```https://ycpcs.github.io/cs497-spring2019/schedule.html```,
 Frequently, the name of the file is left out of a URL, in which case a default file is requested, such as ```index.html``` or ```home.html```.
 
 HTML Describes the content and formatting of Web Pages and it is rendered within the browser window.
-```c
+```html
 <html>
   <body>
     <h1>My First Heading</h1>
@@ -46,7 +46,7 @@ Some of the HTML features:
  - Supports linking to other pages and embedding images 
  - User input sent to server via forms
 
-```c
+```html
 <form>
   First Name: <input type="text" name="fname"><br/>
   Last Name: <input type="text" name="lname"><br/>
