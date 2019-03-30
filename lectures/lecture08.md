@@ -8,20 +8,20 @@ title: "Lecture 8: WCross-Site Request Forgery (CSRF) Attack"
 
 - Cross-Site Request Forgery (CSRF) Attack
 
-# Reading 
+### Reading 
 - Introduction to Computer Security: Chapter 7
 - [Same-Origin Policy](https://code.google.com/archive/p/browsersec/wikis/Part2.wiki#Same-origin_policy)
 - Cross-Origin Resource Sharing [COR](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [SEED Book](https://www.handsonsecurity.net/): Wenliang Du. Computer Security: A Hands-on Approach (Chapter 9).
 
-# References 
+### References 
 - [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital. 
 - [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference) Reference
 - [High Performance Browser Networking](https://hpbn.co/)
 - [Postman](https://www.getpostman.com/]) API development environment
 - [A RESTful Tutorial](https://www.restapitutorial.com/)
 
-# Notes
+### Notes
 CSRF Attack – Web application tasks are usually linked to speciﬁc urls. For example ```http://site/buy_ stocks?buy=200&stock=yorw``` allowing speciﬁc actions to be performed when requested. 
 
 If a user is logged into the site and an attacker tricks their browser into making a request to one of these task urls, then the task is performed and logged as the logged in user. 
