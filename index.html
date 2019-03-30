@@ -1,0 +1,54 @@
+<html>
+<head>
+My First page
+</head>
+	<body>
+		<h1>My First Heading</h1>
+		<p>
+			Test from CS 497 
+		</p>
+		<form>
+			<div>
+			First Name: <input type="text" id="fname"><br/>
+			</div>
+			<div>
+			Last Name: <input type="text" id="lname"><br/>
+			<button type="button" onClick="greet()">Click Me!</button>
+			</div>
+		</form>
+	<img src="picture.gif" onMouseOver="javascript:hello()">
+	<br/>
+	<a href="http://www.ycp.edu">ycp.edu</a>
+	<br/>
+	<a onMouseUp="window.open('http://evelsite.com')" href="http://www.ycp.edu", '_blank'>trust me</a>
+	<br/>
+	<br/>
+	<div style="background:url('javascript:alert(1)')">
+	<button type="button" onClick="alert('gotch ya')" hidden disabled>Hidden Button!</button>
+</body>
+<script type="text/javascript"> 
+	document.write("Hello World!"); 
+	
+	function reqListener () {
+		console.log(this.responseText);
+	}
+
+	var oReq = new XMLHttpRequest();
+	oReq.addEventListener("load", reqListener);
+	oReq.open("GET", "https://swapi.co/api/people/1");
+	oReq.send();
+
+	function greet(){
+		var fname = document.getElementById('fname').value;
+		var lname = document.getElementById('lname').value;
+		alert ("Hi " + fname + " " + lname + ".");
+		document.cookie = "name=John Doe";
+	}
+
+	function hello() { 
+		alert("Hello world!"); 
+		window.open("http://www.ycp.edu")
+	}
+</script>
+
+</html>
