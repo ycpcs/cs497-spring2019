@@ -16,6 +16,12 @@ title: "Lecture 7: Web Browser Security"
 - Technical explanation of [MySpace Worm](https://samy.pl/myspace/tech.html) 
 - [Same-Origin Policy](https://code.google.com/archive/p/browsersec/wikis/Part2.wiki#Same-origin_policy)
 
+# References 
+- [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital. 
+- [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference) Reference
+- [High Performance Browser Networking](https://hpbn.co/)
+- [Postman](https://www.getpostman.com/]) API development environment
+
 # Notes
 The world wide web has completely changed the way people use computers. We use it for banking, shopping, education, communication, news, entertainment. 
 
