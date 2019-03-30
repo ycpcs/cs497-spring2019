@@ -149,3 +149,6 @@ GET requests:
 A POST request is used for modifying data on the server.
 - Every time your request is associated with the processing of a form has side effects (for example, modification of a database or subscription to a service), the method should be POST.
 
+**Access Control**: what is the basis of access control? Difference between *Web* Access Control and *OS* Access Control
+- OS is **stateful**, meaning after a user is authenticated, it is remembered until the user logs out. The OS keeps the state: the authenticated user gets a process with his/her privileges; this process keeps the fact that the user is authenticated. Other users cannot hijack this process.
+- Web server is **stateless** meaning when a user is authenticated, he/she may send several other requests. The entire duration is called a session. Since web server is stateless, it does not remember anything about this session. Namely, when the user sends a request, the server does not know whether they are from the same session (hence, from the same user). To put in another perspective, because of the lack of session concept at web server, *each web request* has to be authenticated; otherwise, attackers can hijack user's session.
