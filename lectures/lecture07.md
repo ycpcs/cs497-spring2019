@@ -32,7 +32,7 @@ For example, ```https://ycpcs.github.io/cs497-spring2019/schedule.html```,
 
 Frequently, the name of the file is left out of a URL, in which case a default file is requested, such as ```index.html``` or ```home.html```.
 
-HTML Describes the content and formatting of Web Pages and it is rendered within the browser window.
+**HTML** Describes the content and formatting of Web Pages and it is rendered within the browser window.
 ```html
 <html>
   <body>
@@ -56,3 +56,95 @@ Some of the HTML features:
 
 HTML supports plugins – usually for additional media content (PDF, video, music) 
  - Embedding programs in supported languages (JavaScript) provides dynamic content that interacts with the user, modifies the browser User Interface and can access computer environment. 
+ 
+We mentioned **JavaScript**. What is JavaScript? Java Script is 
+- Extremely versatile and flexible language
+- Variable declarations not necessary and Variables are automatically typed
+- Scripting language interpreted by the browser – it gives developers a programming tool. 
+- Code enclosed within ```<script> … </script>``` tags
+- Can add static content to the page:
+```JavaScript
+<script type="text/javascript"> document.write("Hello World!");</script>
+```
+- Can add dynamic text to an HTML page. JavaScript can read and write HTML elements: A JavaScript can read and change the content of an HTML element.
+```JavaScript
+document.write("<h1>" + name + "</h1>")
+```
+- Defining functions
+```JavaScript
+<script type="text/javascript">
+	function hello() { alert("Hello world!"); }
+</script>
+```
+- JavaScript can react to events: A JavaScript can be set to execute when something happens, like when a page has finished loading or when a user clicks on or hovers over an HTML element.
+```JavaScript
+<img src="picture.gif" onMouseOver="javascript:hello()">
+```
+- Built-in functions can change content of window
+```JavaScript
+function hello() { 
+  alert("Hello world!"); 
+	window.open("http://www.ycp.edu")
+}
+```
+- Add hyperlinks: 
+```JavaScript
+<a href="http://www.ycp.edu">trust me</a>
+```
+- You can do nasty jokes - Click-jacking attack 
+```JavaScript
+onMouseUp="window.open('http://evelsite.com')" href="http://www.ycp.edu", '_blank'>Trust Me</a>
+```
+- JavaScript can be used to validate data: A JavaScript can be used to validate form data before it is submitted to a server. This saves the server from extra processing. **It doesn’t replace server validation.** 
+- A JavaScript can be used to detect the visitor’s browser, and - depending on the browser - load another page specifically designed for that browser.
+
+**Cookies**
+- Cookies are a small bit of information stored on a computer associated with a specific server
+  - When you access a specific website, it might store information as a cookie
+  - Every time you revisit that server, the cookie is re-sent to the server
+  - Effectively used to hold state information over sessions
+- Cookies can hold any type of information 
+  - This includes passwords, credit card information, social security number, etc.
+  - Almost every large website uses cookies
+- Cookies are stored on your computer and can be controlled 
+  - Many sites require that you enable cookies in order to use the site
+- Cookies expire
+  - The expiration is set by the sites' session by default, which is chosen by the server
+  - This means that cookies will probably stick around for a while
+- ```amazon.com``` example – add item to card, close the browser tab and open it again, item still in card. 
+- ```github.com``` example – login and close the page, open page back in and user is still logged in.
+- JavaScript can access cookies: A JavaScript can be used to store and retrieve information on the visitor’s computer
+```JavaScript 
+var cookie = document.cookie
+```
+
+JavaScript can interact with the server (e.g. using Ajax). **Ajax** stands for Asynchronous JavaScript + XML. With Ajax, web applications can retrieve data from the server asynchronously in the background without interfering with the display and behavior of the existing page. 
+```JavaScript
+function reqListener () {
+  console.log(this.responseText);
+}
+
+var oReq = new XMLHttpRequest();
+oReq.addEventListener("load", reqListener);
+oReq.open("GET", "https://swapi.co/api/people/1");
+oReq.send();
+```
+1. Create a ```XMLHttpRequest``` object
+2. Assign object’s load method to a function (think function pointer in C/C++ or an event handler in C#)
+3. Call ```open()``` with the appropriate method and target. The method is the type of the request – GET or POST 
+4. Call ```send()``` – sends the request to the server
+5. The ```responseText``` is the response data as a string
+
+For security reasons, modern browsers do not allow access across domains. This means that both the web page and the XML file it tries to load, must be located on the same server.
+
+Request methods - typically GET or POST
+GET requests: 
+- Is used to get data from the server
+- Can be cached
+- Can remain in the browser history
+- Can be bookmarked
+- Can be distributed & shared
+- Can be hacked
+A POST request is used for modifying data on the server.
+- Every time your request is associated with the processing of a form has side effects (for example, modification of a database or subscription to a service), the method should be POST.
+
