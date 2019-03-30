@@ -154,7 +154,9 @@ A POST request is used for modifying data on the server.
 - OS is **stateful**, meaning after a user is authenticated, it is remembered until the user logs out. The OS keeps the state: the authenticated user gets a process with his/her privileges; this process keeps the fact that the user is authenticated. Other users cannot hijack this process.
 - Web server is **stateless** meaning when a user is authenticated, he/she may send several other requests. The entire duration is called a session. Since web server is stateless, it does not remember anything about this session. Namely, when the user sends a request, the server does not know whether they are from the same session (hence, from the same user). To put in another perspective, because of the lack of session concept at web server, *each web request* has to be authenticated; otherwise, attackers can hijack user's session.
 
-**Cross-Site Scripting (XSS) Attack**. Attacker injects malicious JavaScript code to the target web site X
+**Cross-Site Scripting (XSS) Attack**
+
+Attacker injects malicious JavaScript code to the target web site X
 1. Website allows posting of comments in a guestbook
 2. Server incorporates comments into page returned
 3. Attacker can post comment that includes malicious JavaScript
@@ -169,6 +171,7 @@ Countermeasures
 - ```noscript``` region: Do not allow JavaScript to appear in certain region of a web page.
 
 **Cross-Site Request Forgery (CSRF) Attack**
+
 Web application tasks are usually linked to specific URLs allowing specific actions to be performed when requested: ```http://site/buy_ stocks?buy=200&stock=YORW```
 - If a user is logged into the site and an attacker tricks their browser into making a request to one of these task URLs, then the task is performed and logged as the logged in user. The tricks can be placed on a web page from the attacker; all the attacker needs to do is to trick the user to visit their attacking web page while being logged into the targeted site.
 - When the request is made by the user (whether the user is tricked or not), the cookie will be attached to the request automatically by browsers.
