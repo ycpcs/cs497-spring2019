@@ -118,6 +118,7 @@ onMouseUp="window.open('http://evelsite.com')" href="http://www.ycp.edu", '_blan
 ```JavaScript 
 var cookie = document.cookie
 ```
+- A cookie can be used for authenticating, session tracking (state maintenance), and remembering specific information about users, such as user preferences (metric, languages),or the contents of their shopping carts. The term ```cookie``` is derived from **magic cookie**, a well-known concept in the UNIX computing which inspired both the idea and the name. 
 
 JavaScript can interact with the server (e.g. using Ajax). **Ajax** stands for Asynchronous JavaScript + XML. With Ajax, web applications can retrieve data from the server asynchronously in the background without interfering with the display and behavior of the existing page. 
 ```JavaScript
@@ -152,3 +153,33 @@ A POST request is used for modifying data on the server.
 **Access Control**: what is the basis of access control? Difference between *Web* Access Control and *OS* Access Control
 - OS is **stateful**, meaning after a user is authenticated, it is remembered until the user logs out. The OS keeps the state: the authenticated user gets a process with his/her privileges; this process keeps the fact that the user is authenticated. Other users cannot hijack this process.
 - Web server is **stateless** meaning when a user is authenticated, he/she may send several other requests. The entire duration is called a session. Since web server is stateless, it does not remember anything about this session. Namely, when the user sends a request, the server does not know whether they are from the same session (hence, from the same user). To put in another perspective, because of the lack of session concept at web server, *each web request* has to be authenticated; otherwise, attackers can hijack user's session.
+
+**Cross-Site Scripting (XSS) Attack**. Attacker injects malicious JavaScript code to the target web site X
+1. Website allows posting of comments in a guestbook
+2. Server incorporates comments into page returned
+3. Attacker can post comment that includes malicious JavaScript
+ - When other users browse the infected pages from X, the browser believes that the JavaScript is from X.
+ - The Same Origin Policy allows the malicious JavaScript to access cookies of X, which can send legitimate HTTP requests to X on behalf of the users, without the users’ consent.
+- See narative from [MySpace Worm](https://samy.pl/myspace/tech.html) 
+Potential Damage of XSS
+- Sending unauthorized requests on behalf of the victims.
+- Web defacing: the malicious JavaScript code can access and modify the DOM objects within the page. For example, it can replace a picture in the web page with a different picture.
+Countermeasures
+- Do a better filtering (proven difficult).
+- ```noscript``` region: Do not allow JavaScript to appear in certain region of a web page.
+
+**Cross-Site Request Forgery (CSRF) Attack**
+Web application tasks are usually linked to specific URLs allowing specific actions to be performed when requested: ```http://site/buy_ stocks?buy=200&stock=YORW```
+- If a user is logged into the site and an attacker tricks their browser into making a request to one of these task URLs, then the task is performed and logged as the logged in user. The tricks can be placed on a web page from the attacker; all the attacker needs to do is to trick the user to visit their attacking web page while being logged into the targeted site.
+- When the request is made by the user (whether the user is tricked or not), the cookie will be attached to the request automatically by browsers.
+- For web applications using HTTP GET: attacker can use image tag ```<img>``` to cause the victim’s browser to send out a HTTP GET request (when the victim visits the attacker’s web page, the HTTP GET request will be initiated by the image tag:
+```<img src="http://site/buy_stocks?buy=200&stock=YORW">```
+
+Difference between CSRF and XSS
+- CSRF does not need to run JavaScript code (for GET requests only); XSS does.
+- Using JavaScript code:
+   - CSRF: the code runs directly from the attacker’s web page.
+   - XSS: the code has to be injected to the target web site’s page.
+- Server-side input validation:
+ - It does not prevent CSRF, because the attacking contents are not on the target web site.
+ - It can prevent XSS to a certain degree, if the malicious JavaScript code can be filtered out.
