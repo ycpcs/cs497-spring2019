@@ -8,7 +8,7 @@ title: "Lecture 7: Web Browser Security"
 
 - Web Browser Security
 - Phishing, cross-site scripting attacks, tracking cookies, privacy
-
+- [Code from class demo](source/index.html)
 
 # Reading 
 
