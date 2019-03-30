@@ -15,3 +15,13 @@ title: "Lecture 7: Web Browser Security"
 - Introduction to Computer Security: Chapter 7
 - Technical explanation of [MySpace Worm](https://samy.pl/myspace/tech.html) 
 - [Same-Origin Policy](https://code.google.com/archive/p/browsersec/wikis/Part2.wiki#Same-origin_policy)
+
+# Notes
+The world wide web has completely changed the way people use computers. We use it for banking, shopping, education, communication, news, entertainment. 
+
+A web browser identifies a web site with a uniform resource locator or URL. The naming scheme is invented by Tim Burns Lee.
+
+For example, ```https://ycpcs.github.io/cs497-spring2019/schedule.html```, 
+```https://ycpcs.github.io``` is the domain name of the web server holding the web site of interest, and the file ```schedule.html``` is the file describing the text and images for a page on this web site using a format called HTML- Hypertext Markup Language. 
+
+Frequently, the name of the file is left out of a URL, in which case a default file is requested, such as ```index.html``` or ```home.html```.
