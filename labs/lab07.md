@@ -23,6 +23,6 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 ### Source Files
 
 ### Tips
-- Before you do any of the tasks, get familiar with *HTTP Header Live* tool. Instructions on how to use this tool is given in the Guideline section (§ 4.1) in the lab description. 
+- Before you do any of the tasks, get familiar with Firefor Web Developer Tool and *HTTP Header Live* addon. Instructions on how to use this tool is given in the Guideline section (§ 4.1) in the lab description. 
 
 ### Expected Output
