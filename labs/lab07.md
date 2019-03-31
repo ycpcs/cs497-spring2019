@@ -25,7 +25,7 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 ### Tips
 - Before you do any of the tasks, get familiar with Firefor Web Developer Tool and *HTTP Header Live* addon. Instructions on how to use this tool is given in the Guideline section (§ 4.1) in the lab description. 
 - Make sure you are using the right protocol when accessing the web sites - http vs. https 
-- To open a link in another browser tab, use the target attribute. <a href="https://www.ycp.edu/" target="_blank">Visit YCP</a>
+- To open a link in another browser tab, use the **target** attribute. <a href="https://www.ycp.edu/" target="_blank">Visit YCP</a>
 ```HTML
 <a href="https://www.ycp.edu/" target="_blank">Visit YCP</a>)
 ```
