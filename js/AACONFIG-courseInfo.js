@@ -79,27 +79,19 @@ var courseInfo = {
 		lab: new Lab("Lab Module 7", "lab07.html")
 	}, {
 		topic: new Topic("Cross-Site Request Forgery (CSRF) Attack", "lectures/lecture08.html"),
-		reading: new Reading("Chapter 8"),
+		reading: new Reading("Chapter 7"),
 		assign: new Assignment("Cross-Site Request Forgery (CSRF) Attack Lab", "labs/lab07.html", 7)
 	}, {
 		topic: new Topic("Cross-Site Request Forgery (CSRF) Attack", "lectures/lecture08.html"),
-		reading: new Reading("Chapter 8")		
+		reading: new Reading("Chapter 7")		
 	}, {
-		topic: new Topic("Applications - Email", "lectures/lecture09.html"),
-		reading: new Reading("Chapter 10"),
-		lab: new Lab("Lab Module 9", "lab09.html")
+		topic: new Topic("Cross-Site Scripting Attack", ""),
 	}, {
-		topic: new Topic("Applications - Payment Systems", "lectures/lecture09.html"),
-		reading: new Reading("Chapter 10"),
-		lab: new Lab("Lab Module 9", "lab09.html")
+		topic: new Topic("Cross-Site Scripting Attack", ""),
 	}, {
-		topic: new Topic("Applications - Voting systems", "lectures/lecture10.html"),
-		reading: new Reading("Chapter 10"),
-		lab: new Lab("Lab Module 10", "lab10.html")
+		topic: new Topic("SQL Injection Attack", "")
 	}, {
-		topic: new Topic("Applications - Social Networking", "lectures/lecture10.html"),
-		reading: new Reading("Chapter 10"),
-		lab: new Lab("Lab Module 10", "lab10.html")
+		topic: new Topic("SQL Injection Attack", "")
 	}, {
 		topic: new Topic( "** Comprehensive Exam", "" )
 	}, {
