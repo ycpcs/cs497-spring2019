@@ -39,4 +39,4 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 - Task 2
    - Sample <a href="./csrf/task2_add_friend_http_request.PNG" target="_blank">HTTP Request</a> on **Add Friend** button click
    - Alice has a <a href="./csrf/task2_alice_has_message.png" target="_blank">new message</a> and Bob is <a href="./csrf/task2_alice_has_message_no_friend.png" target="_blank">not a friend</a> yet.
-   - Alice opens the <a href="./csrf/task2_alice_has_message2.png" target="_blank">message</a> and adds a <a href="./csrf/task2_alice_has_new_friend.png" target="_blank">new friend<a/> ... without her concent. 
+   - Alice opens the <a href="./csrf/task2_alice_has_message2.png" target="_blank">message</a> and adds a <a href="./csrf/task2_alice_has_new_friend.png" target="_blank">new friend<a/> ... without her concent. And the <a href="./csrf/task2_alice_has_new_friend_http_request.png" target="_blank">HTTP</a> request.
