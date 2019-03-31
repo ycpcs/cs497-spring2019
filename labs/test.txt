@@ -1,0 +1,5 @@
+Tips
+- Update hosts file to match attacker and victim IP 
+
+- make sure you are using the right protocol when accessing the web sites - http vs. https 
+
