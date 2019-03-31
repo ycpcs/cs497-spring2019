@@ -13,7 +13,7 @@ The objective of this lab is to help students understand the Cross-Site Request 
 
 Launching the cross-site request forgery attack on a vulnerable web application. Conducting experiments with several countermeasures.
 
-[CSRF Attack.pdf](Web_CSRF_Elgg.pdf)
+Tasks - [CSRF Attack.pdf](Web_CSRF_Elgg.pdf)
 
 Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Web/Web_CSRF_Elgg/). 
 
