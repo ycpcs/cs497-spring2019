@@ -17,13 +17,12 @@ Week of Feb 18 |  [Buffer Overflow Vulnerability](lab04.html)                   
 Week of Feb 25 |  [ARP Spoofing](../lectures/lecture05.html)                            | Mar 08
 Week of Mar 4  |  **NO LAB - Winter Break**                                             |
 Week of Mar 11 |  [Attacks on TCP/IP](lab05.html)                                       | Mar 20
-Week of Mar 18 |  [Local DNS Attack Lab](lab06.html)                                    | Mar 25*                                         
-Week of Mar 25 |  Cross-Site Request Forgery Attack Lab*|
-Week of Apr 1  |  Cross-site scripting*| 
-Week of Apr 8  |  Nmap & Steganography Labs*|
-Week of Apr 15 |  Spoofing and Man-in-the-Middle Attack Lab*|
+Week of Mar 18 |  [Local DNS Attack Lab](lab06.html)                                    | Mar 25                                         
+Week of Apr 1  |  [Cross-Site Request Forgery Attack Lab](labs/lab07.md)                | Apr 01
+Week of Apr 8  |  Cross-site scripting*| 
+Week of Apr 15 |  SQL Injection Attack Lab*|
 Week of Apr 22 |  **NO LAB - Spring Vacation**                                          |
-Week of Apr 29 |  SQL Injection Attack Lab*|
+Week of Apr 29 |  Nmap & Steganography Labs*
 Week of May 6  |  Android Lab*|
  
 * tentative schedule
