@@ -64,11 +64,11 @@ var courseInfo = {
 	}, {
 		topic: new Topic("TCP/IP Attack Lab", ""),
 	},{
-		topic: new Topic("Network Security II", "lectures/lecture06.html"),
+		topic: new Topic("Network Security II- DNS", "lectures/lecture06.html"),
 		reading: new Reading("Chapter 6"),
 		assign: new Assignment("Local DNS Attack Lab", "labs/lab06.html", 7)
 	}, {
-		topic: new Topic("Network Security II", "lectures/lecture06.html"),
+		topic: new Topic("DNS Atacks", "lectures/lecture06.html"),
 		reading: new Reading("Chapter 6")
 	}, {
 		topic: new Topic("DNS Security", "lectures/lecture06.html"),
@@ -79,10 +79,11 @@ var courseInfo = {
 		lab: new Lab("Lab Module 7", "lab07.html")
 	}, {
 		topic: new Topic("Cross-Site Request Forgery (CSRF) Attack", "lectures/lecture08.html"),
-		reading: new Reading("Chapter 8")
+		reading: new Reading("Chapter 8"),
+		assign: new Assignment("Cross-Site Request Forgery (CSRF) Attack Lab", "labs/lab07.html", 7)
 	}, {
 		topic: new Topic("Cross-Site Request Forgery (CSRF) Attack", "lectures/lecture08.html"),
-		reading: new Reading("Chapter 8")
+		reading: new Reading("Chapter 8")		
 	}, {
 		topic: new Topic("Applications - Email", "lectures/lecture09.html"),
 		reading: new Reading("Chapter 10"),
