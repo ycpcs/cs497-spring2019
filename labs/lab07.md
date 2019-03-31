@@ -32,4 +32,4 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
   - Using the <a href="./csrf/task1_post_live_http.png" target="_blank">Firefox Live HTTP addon</a> to view the **HTTP POST request**
   - Using the <a href="./csrf/task1_post_live_http_token.png" target="_blank">Firefox Live HTTP addon</a> to view **unsecured authentication** 
 - Task 2
-   - Sample <a href="./csrf/task2_add_friend_http_request.png" target="_blank">HTTP Request</a> on **Add Friend** button click
+   - Sample <a href="./csrf/task2_add_friend_http_request.PNG" target="_blank">HTTP Request</a> on **Add Friend** button click
