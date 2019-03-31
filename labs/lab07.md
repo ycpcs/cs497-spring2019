@@ -31,3 +31,5 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
   - Using the <a href="./csrf/task1_post_dev_tools_token.png" target="_blank">Firefox Developer Tools</a> to view **unsecured authentication**   
   - Using the <a href="./csrf/task1_post_live_http.png" target="_blank">Firefox Live HTTP addon</a> to view the **HTTP POST request**
   - Using the <a href="./csrf/task1_post_live_http_token.png" target="_blank">Firefox Live HTTP addon</a> to view **unsecured authentication** 
+- Task 2
+   - Sample [HTTP Request] on **Add Friend** button click
