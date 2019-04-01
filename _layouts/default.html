@@ -2,14 +2,16 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>{{ page.course_number }} - {{ page.title }}</title>
+		<!--<title>{{ page.course_number }} - {{ page.title }}</title>-->
+		<title>{{site.coursename}}: {{page.title}}</title>
 		<link rel="stylesheet" href="{{ site.url }}/css/site.css" />
 		<link rel="stylesheet" href="{{ site.url }}/css/syntax.css" />
 	</head>
 
 	<body>
 		<div class="pageheader">
-			<h1><a href="{{ site.url }}">{{ page.course_number }}</a>: {{ page.title }}</h1>
+			<!--<h1><a href="{{ site.url }}">{{ page.course_number }}</a>: {{ page.title }}</h1>-->
+			<div id="header"><a href="{{site.baseurl}}/">{{site.coursename}}</a>: {{page.title}}</div>
 		</div>
 		<div class="content">
 		{{ content }}
