@@ -1,8 +1,7 @@
-name: ""
-description: ""
+name: "CS497"
+description: "CS497 Cybersecurity"
 
 url: "//ycpcs.github.io/cs497-spring2019"
-
 
 kramdown:
     input: GFM
