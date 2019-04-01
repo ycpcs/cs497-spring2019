@@ -28,8 +28,8 @@ All information related to the course will be posted here.
 
 ## News
 <!-- * **May 13** &mdash; [Project Demo](assign/project.html)
-* **May 08** &mdash; [Project Code/Report](assign/project.html)
-* **Apr 24** &mdash; [Project Proposal](assign/project.html)-->
+* **May 08** &mdash; [Project Code/Report](assign/project.html)-->
+* **Apr 24** &mdash; [Project Proposal](assign/project.html)
 * **Apr 09** &mdash; [Cross-Site Request Forgery (CSRF) Attack Lab](labs/lab07.html) Due
 * **Mar 25** &mdash; [Local DNS Attack Lab](labs/lab06.html) Due
 * **Mar 20** &mdash; [TCP Attack Lab](labs/lab05.html) Due
