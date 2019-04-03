@@ -20,8 +20,12 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 ### Reference
 - Firefox Addon [HTTP Header Live](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/?src=search) - Show the HTTP header fields. You can edit and resubmit.
 
-
-### Source Files
+### Grading
+Post your report in Marmoset by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
+- 30% - Design
+- 30% - Observations
+- 40% - Explanation
+- *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
 
 ### Tips
 - Before you do any of the tasks, get familiar with Firefor Web Developer Tool and *HTTP Header Live* addon. Instructions on how to use this tool is given in the Guideline section (§ 4.1) in the lab description. 
