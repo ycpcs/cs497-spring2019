@@ -23,6 +23,8 @@ title: "Lecture 8: Cross-Site Request Forgery (CSRF) Attack"
 - [High Performance Browser Networking](https://hpbn.co/)
 - [Postman](https://www.getpostman.com/]) API development environment
 - [A RESTful Tutorial](https://www.restapitutorial.com/)
+- Preventing Cross-Site Request Forgery (CSRF) Attacks in [ASP.NET MVC Application](https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks)
+
 
 ### Notes
 CSRF Attack – Web application tasks are usually linked to speciﬁc urls. For example ```http://site/buy_ stocks?buy=200&stock=yorw``` allowing speciﬁc actions to be performed when requested. 
