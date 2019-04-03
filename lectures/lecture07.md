@@ -23,6 +23,7 @@ title: "Lecture 7: Web Browser Security"
 - [Postman](https://www.getpostman.com/) API development environment
 - [A RESTful Tutorial](https://www.restapitutorial.com/)
 - [HTTP Methods](https://www.iana.org/assignments/http-methods/http-methods.xhtml)
+- Preventing Cross-Site Request Forgery (CSRF) Attacks in [ASP.NET MVC Application](https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks)
 
 ### Notes
 The world wide web has completely changed the way people use computers. We use it for banking, shopping, education, communication, news, entertainment. 
