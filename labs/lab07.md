@@ -25,6 +25,7 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - 30% - Design
 - 30% - Observations
 - 40% - Explanation
+- **Make sure you awnser the questions under Task 3**
 - *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
 
 ### Tips
