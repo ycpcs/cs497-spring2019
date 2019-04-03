@@ -28,6 +28,13 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
   - Note: If you choose different IP addresses or domain names, you need to modify the above configuration and zone files accordingly.
 - [scapy script](dns/dns_cache_poison.py) - used in the last 3 tasks. 
 
+### Grading
+Post your report in Marmoset by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
+- 30% - Design
+- 30% - Observations
+- 40% - Explanation
+- *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
+
 ### Tips
 - For this lab you have to use ```NAT Network```
 - Make sure ```/etc/resolv.conf''' file has each nameservers in a single line.
