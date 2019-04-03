@@ -41,3 +41,8 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
    - Sample <a href="./csrf/task2_add_friend_http_request.PNG" target="_blank">HTTP Request</a> on **Add Friend** button click
    - Alice has a <a href="./csrf/task2_alice_has_message.png" target="_blank">new message</a> and Bob is <a href="./csrf/task2_alice_has_message_no_friend.png" target="_blank">not a friend</a> yet.
    - Alice opens the <a href="./csrf/task2_alice_has_message2.png" target="_blank">message</a> and adds a <a href="./csrf/task2_alice_has_new_friend.png" target="_blank">new friend<a/> ... without her concent. And the <a href="./csrf/task2_alice_has_new_friend_http_request.png" target="_blank">HTTP</a> request.
+- Task 3
+  - Sample <a href="./csrf/task3_observe_post_request_url.png" target="_blank">HTTP Request</a> on edit profile along with <a href="./csrf/task3_observe_post_request_params.png" target="_blank">parameters</a>.
+  - Boby crafting a <a href="./csrf/task3_boby_message_alice.png" target="_blank">message</a> to Alice.
+  - Alice mailbox <a href="./csrf/task3_alice_mailbox.png" target="_blank"> before<a> and <a href="./csrf/task3_alice_mailbox_after.png" target="_blank">after</a> the attack. 
+  - Alice <a href="./csrf/task3_alice_profile.png" target="_blank">profile</a> after the attack. 
