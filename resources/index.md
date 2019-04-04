@@ -20,6 +20,8 @@ This page contains links to useful resources.
 
 - [Kismet](https://www.kismetwireless.net/) is a wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework.
 
+- [Postman](https://www.getpostman.com/]) API development environment
+
 - [Fiddler](https://www.telerik.com/fiddler) is free web debugging proxy for any browser, system or platform.
 
 - [Ettercap](http://www.ettercap-project.org/ettercap/) is a comprehensive suite for man in the middle attacks.
@@ -35,6 +37,25 @@ This page contains links to useful resources.
 - [VisualCodeGrepper](https://github.com/nccgroup/VCG) is an automated code security review tool that handles C/C++, Java, C#, VB and PL/SQL.
 
 - [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
+
+- [jsop](https://jsoup.org/) Java HTML Parser
+
+Reading Material
+------------------------------------
+- [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference) Reference
+
+- [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital.
+
+- [OWASP Cheat Sheet Series V2](https://github.com/OWASP/CheatSheetSeries#cheat-sheets-index)
+
+- [High Performance Browser Networking](https://hpbn.co/)
+
+- [A RESTful Tutorial](https://www.restapitutorial.com/)
+
+- Preventing Cross-Site Request Forgery (**CSRF**) Attacks in [ASP.NET MVC Application](https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks)
+
+ - Prevent Cross-Site Scripting (**XSS**) in [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/cross-site-scripting?view=aspnetcore-2.2)
+
 
 SEED Labs
 ----------------------------------
