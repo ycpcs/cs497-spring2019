@@ -86,8 +86,10 @@ var courseInfo = {
 		reading: new Reading("Chapter 7")		
 	}, {
 		topic: new Topic("Cross-Site Scripting Attack", "lectures/lecture09.html"),
+		reading: new Reading("Chapter 7")
 	}, {
 		topic: new Topic("Cross-Site Scripting Attack", "lectures/lecture09.html"),
+		reading: new Reading("Chapter 7")
 	}, {
 		topic: new Topic("SQL Injection Attack", "")
 	}, {
