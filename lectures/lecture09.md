@@ -20,11 +20,9 @@ title: "Lecture 9: Cross-site scripting (XSS) Attack"
 - [jsop](https://jsoup.org/) Java HTML Parser
 - [OWASP Cheat Sheet Series V2](https://github.com/OWASP/CheatSheetSeries#cheat-sheets-index)
 - [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital. 
-- [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference) Reference
-- [High Performance Browser Networking](https://hpbn.co/)
 - [Postman](https://www.getpostman.com/]) API development environment
 - [A RESTful Tutorial](https://www.restapitutorial.com/)
-
+- Prevent Cross-Site Scripting (**XSS**) in [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/cross-site-scripting?view=aspnetcore-2.2)
 
 ### Notes
 
