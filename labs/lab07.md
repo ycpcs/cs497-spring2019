@@ -33,7 +33,7 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - Make sure you are using the right protocol when accessing the web sites - http vs. https 
 - To open a link in another browser tab, use the **target** attribute. <a href="https://www.ycp.edu/" target="_blank">Visit YCP</a>
 ```HTML
-<a href="https://www.ycp.edu/" target="_blank">Visit YCP</a>)
+<a href="https://www.ycp.edu/" target="_blank">Visit YCP</a>
 ```
 
 ### Expected Output
