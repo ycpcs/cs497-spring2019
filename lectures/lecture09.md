@@ -9,6 +9,7 @@ title: "Lecture 9: Cross-site scripting (XSS) Attack"
 - Cross-site scripting (XSS) Attack
 
 ## Slides
+- [Web_XSS.pdf](Web_XSS.pdf)
 
 ### Reading 
 - Introduction to Computer Security: Chapter 7
