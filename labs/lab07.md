@@ -18,6 +18,7 @@ Launching the cross-site request forgery attack on a vulnerable web application.
 Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Web/Web_CSRF_Elgg/). 
 
 ### Reference
+- [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 - Firefox Addon [HTTP Header Live](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/?src=search) - Show the HTTP header fields. You can edit and resubmit.
 
 ### Grading
