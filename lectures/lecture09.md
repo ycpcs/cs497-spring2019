@@ -15,7 +15,7 @@ title: "Lecture 9: Cross-site scripting (XSS) Attack"
 - Introduction to Computer Security: Chapter 7
 - [SEED Book](https://www.handsonsecurity.net/): Wenliang Du. Computer Security: A Hands-on Approach (Chapter 10).
 - [Same-Origin Policy](https://code.google.com/archive/p/browsersec/wikis/Part2.wiki#Same-origin_policy)
-- Cross-Origin Resource Sharing [COR](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- Cross-Origin Resource Sharing [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 ### References 
 - [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
