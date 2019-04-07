@@ -37,4 +37,9 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 
 ### Expected Output
 - Getting Familiar with the [HTTP Header Live](xss/post_http_headers.png/) and [Firefox Developer](xss/post_dev_tools.png) tools.
-- Task 1, after **Samy** updates [his profile](xss\task1_updating_profile.PNG) and after **Alice** [views it](xss/task1_alice_view_samy_profile.png). 
+- Task 1
+  - when viewing Samy's profile, the JavaScript code is executed and 'XSS XO XO XO' alert is displayed. 
+  - After **Samy** updates [his profile](xss\task1_updating_profile.PNG) and after **Alice** [views it](xss/task1_alice_view_samy_profile.png). 
+- Task 2
+  - When Alice visits Samy's profile, the injected JavaScript code is executed and displays the cookies in an alert. 
+  - After **Samy** updates [his profile](xss\task2_updating_profile.PNG) and after **Alice** [views it](xss/task2_alice_view_samy_profile.png).
