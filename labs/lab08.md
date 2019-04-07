@@ -37,4 +37,4 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 
 ### Expected Output
 - Getting Familiar with the [HTTP Header Live](xss/post_http_headers.png/) and [Firefox Developer](xss/post_dev_tools.png) tools.
-- Task 1, after Samy updates [his profile](xss\task1_updating_profile.PNG) and after Alice [views it](xss/task1_alice_view_samy_profile.png). 
+- Task 1, after **Samy** updates [his profile](xss\task1_updating_profile.PNG) and after **Alice** [views it](xss/task1_alice_view_samy_profile.png). 
