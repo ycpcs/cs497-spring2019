@@ -30,7 +30,7 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 ### Tips
 - Before you do any of the tasks, get familiar with Firefor Web Developer Tool and *HTTP Header Live* addon.
 - Make sure you are using the right protocol when accessing the web sites - http vs. https 
-- When you inject JavaScript, ensure it is [not visble](xss/samy_incorrect_code.png) on the profile page. The profile page should be [clear](xss/samy_correct_code.png).  
+- When you inject JavaScript, ensure it is [not visible](xss/samy_incorrect_code.png) on the profile page. The profile page should be [clear](xss/samy_correct_code.png).  
 - To open a link in another browser tab, use the **target** attribute. <a href="https://www.ycp.edu/" target="_blank">Visit YCP</a>
 ```HTML
 <a href="https://www.ycp.edu/" target="_blank">Visit YCP</a>
