@@ -36,3 +36,4 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 ```
 
 ### Expected Output
+- Getting Familiar with the [HTTP Header Live]() and [Firefox Developer]() tools
