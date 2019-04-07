@@ -30,7 +30,8 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 ### Tips
 - Before you do any of the tasks, get familiar with Firefor Web Developer Tool and *HTTP Header Live* addon.
 - Make sure you are using the right protocol when accessing the web sites - http vs. https 
-- When you inject JavaScript, ensure it is [not visible](xss/samy_incorrect_code.png) on the profile page. The profile page should be [clear](xss/samy_correct_code.png).  
+- When you inject JavaScript, ensure it is [not visible](xss/samy_incorrect_code.png) on the profile page. The profile page should be [clear](xss/samy_correct_code.png). 
+- Remember, the console/debugger under the developer tools is your friend. 
 - To open a link in another browser tab, use the **target** attribute. <a href="https://www.ycp.edu/" target="_blank">Visit YCP</a>
 ```HTML
 <a href="https://www.ycp.edu/" target="_blank">Visit YCP</a>
@@ -49,3 +50,7 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - Task 4
   - Investigation of add-friend service. Request [URL](xss/task4_add_a_friend.png) and [parameters](xss/task4_add_a_friend_parameters.png) 
   - Alice visits Samy's profile and makes a [new friend](xss/task4_alice_is_friends_with_samy.png). What actually went on the background when viewing the [profile](xss/task4_alice_is_friends_with_samy_http.png) and the actual [request](xss/task4_alice_is_friends_with_samy_request.png).
+- Task 5
+  - Investigation [HTTP](xss/task5_profile_edit_http.png) and [parameters](xss/task5_profile_edit_parameters.png)
+  - Alice views Samy's profile, but something else was happaning in the [background](xss/task5_alice_views_samy_profile_html.png)
+  - Samy can see [his attack](xss/task5_profile_edit_from_samy.png) worked
