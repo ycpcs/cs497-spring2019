@@ -85,10 +85,11 @@ var courseInfo = {
 		topic: new Topic("Cross-Site Request Forgery (CSRF) Attack", "lectures/lecture08.html"),
 		reading: new Reading("Chapter 7")		
 	}, {
-		topic: new Topic("Cross-Site Scripting Attack", "lectures/lecture09.html"),
-		reading: new Reading("Chapter 7")
+		topic: new Topic("Cross-Site Scripting (XSS) Attack", "lectures/lecture09.html"),
+		reading: new Reading("Chapter 7"),
+		assign: new Assignment("Cross-Site Scripting (XSS) Attack Lab", "labs/lab08.html", 9)
 	}, {
-		topic: new Topic("Cross-Site Scripting Attack", "lectures/lecture09.html"),
+		topic: new Topic("Cross-Site Scripting (XSS) Attack", "lectures/lecture09.html"),
 		reading: new Reading("Chapter 7")
 	}, {
 		topic: new Topic("SQL Injection Attack", "")
