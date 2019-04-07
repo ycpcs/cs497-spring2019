@@ -19,7 +19,7 @@ Week of Mar 4  |  **NO LAB - Winter Break**                                     
 Week of Mar 11 |  [Attacks on TCP/IP](lab05.html)                                       | Mar 20
 Week of Mar 18 |  [Local DNS Attack Lab](lab06.html)                                    | Mar 25                                         
 Week of Apr 1  |  [Cross-Site Request Forgery Attack Lab](lab07.html)                   | Apr 08
-Week of Apr 8  |  Cross-site scripting*| 
+Week of Apr 8  |  [Cross-Site Scripting Attack Lab](lab08.html)                         | Apr 17  
 Week of Apr 15 |  SQL Injection Attack Lab*|
 Week of Apr 22 |  **NO LAB - Spring Vacation**                                          |
 Week of Apr 29 |  Nmap & Steganography Labs*
