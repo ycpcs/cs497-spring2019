@@ -1,4 +1,3 @@
-
 ---
 layout: default
 course_number: CS497
