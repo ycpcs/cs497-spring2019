@@ -45,3 +45,6 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
   - After **Samy** updates [his profile](xss\task2_updating_profile.PNG) and after **Alice** [views it](xss/task2_alice_view_samy_profile.png).
 - Task 3
   - [Stealing Cookies](xss/task3_stealing_cookies.png). I'm using a separate VM to listens for a connection on the specified port. 
+- Task 4
+  - Investigation of add-friend service. Request [URL](xss/task4_add_a_friend.png) and [parameters](xss/task4_add_a_friend_parameters.png) 
+  - Alice visits Samy's profile and makes a [new friend](xss/task4_alice_is_friends_with_samy.png). What actually went on the background when viewing the [profile](xss/task4_alice_is_friends_with_samy_http.png) and the actual [request](xss/task4_alice_is_friends_with_samy_request.png).
