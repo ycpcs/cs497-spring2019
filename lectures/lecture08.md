@@ -14,7 +14,7 @@ title: "Lecture 8: Cross-Site Request Forgery (CSRF) Attack"
 ### Reading 
 - Introduction to Computer Security: Chapter 7
 - [Same-Origin Policy](https://code.google.com/archive/p/browsersec/wikis/Part2.wiki#Same-origin_policy)
-- Cross-Origin Resource Sharing [COR](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- Cross-Origin Resource Sharing [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [SEED Book](https://www.handsonsecurity.net/): Wenliang Du. Computer Security: A Hands-on Approach (Chapter 9).
 
 ### References 
