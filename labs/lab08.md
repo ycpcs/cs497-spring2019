@@ -51,6 +51,6 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
   - Investigation of add-friend service. Request [URL](xss/task4_add_a_friend.png) and [parameters](xss/task4_add_a_friend_parameters.png) 
   - Alice visits Samy's profile and makes a [new friend](xss/task4_alice_is_friends_with_samy.png). What actually went on the background when viewing the [profile](xss/task4_alice_is_friends_with_samy_http.png) and the actual [request](xss/task4_alice_is_friends_with_samy_request.png).
 - Task 5
-  - Investigation [HTTP](xss/task5_profile_edit_http.png) and [parameters](xss/task5_profile_edit_parameters.png)
+  - Investigation [HTTP](xss/task5_profile_edit_http.png) and [parameters](xss/task5_profile_edit_parameters_png.PNG)
   - Alice views Samy's profile, but something else was happaning in the [background](xss/task5_alice_views_samy_profile_html.png)
   - Samy can see [his attack](xss/task5_profile_edit_from_samy.png) worked
