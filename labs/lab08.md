@@ -43,3 +43,5 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 - Task 2
   - When Alice visits Samy's profile, the injected JavaScript code is executed and displays the cookies in an alert. 
   - After **Samy** updates [his profile](xss\task2_updating_profile.PNG) and after **Alice** [views it](xss/task2_alice_view_samy_profile.png).
+- Task 3
+  - [Stealing Cookies](xss/task3_stealing_cookies.png)
