@@ -16,6 +16,8 @@ This page contains links to useful resources.
 
 - [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/) is a suite of more than 70 freeware utilities used to monitor, manage and troubleshoot the Windows operating system.
 
+- [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+
 - [Wireshark](https://www.wireshark.org/#download) is the world’s foremost and widely-used network protocol analyzer.
 
 - [Kismet](https://www.kismetwireless.net/) is a wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework.
