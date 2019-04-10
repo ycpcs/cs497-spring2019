@@ -56,4 +56,4 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
   - Samy can see [his attack](xss/task5_profile_edit_from_samy.png) worked
 - Task 6
   - Samy's [clean profile](xss/task6_samy.png) and the [actual profile](xss/task6_samy_profile.png)
-  - [Alice](xss/task6_alice_after_samy.png) after it visiting Samy's profile, and [Boby](task6_boby_after_alice.png) after visiting Alice's profile.  
+  - [Alice](xss/task6_alice_after_samy.png) after it visiting Samy's profile, and [Boby](xss/task6_boby_after_alice.png) after visiting Alice's profile.  
