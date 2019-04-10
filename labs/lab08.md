@@ -54,3 +54,6 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
   - Investigation [HTTP](xss/task5_profile_edit_http.png) and [parameters](xss/task5_profile_edit_parameters_png.PNG)
   - Alice views Samy's profile, but something else was happaning in the [background](xss/task5_alice_views_samy_profile_html.png)
   - Samy can see [his attack](xss/task5_profile_edit_from_samy.png) worked
+- Task 6
+  - Samy's [clean profile](xss/task6_samy.png) and the [actual profile](xss/task6_samy_profile.png)
+  - [Alice](xss/task6_alice_after_samy.png) after it visiting Samy's profile, and [Boby](task6_boby_after_alice.png) after visiting Alice's profile.  
