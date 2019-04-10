@@ -36,6 +36,7 @@ Post your report in Marmoset by the scheduled due date in the syllabus. Your gra
 ```HTML
 <a href="https://www.ycp.edu/" target="_blank">Visit YCP</a>
 ```
+- [String.prototype.concat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
 
 ### Expected Output
 - Getting Familiar with the [HTTP Header Live](xss/post_http_headers.png/) and [Firefox Developer](xss/post_dev_tools.png) tools.
