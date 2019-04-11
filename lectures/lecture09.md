@@ -29,8 +29,8 @@ title: "Lecture 9: Cross-site scripting (XSS) Attack"
 ### Notes
 - Objective of Cross-site scripting (XSS) Attack
   - Attacker injects malicious JavaScript code to the target web site X .
-  – When other users browse the infected pages from X, the browser believes that the JavaScript is from X. 
-  – TheSame Origin Policy allows the malicious JavaScript to access cookies of X, which can send legitimate HTTP requests to X onbehalf of the users, without the users’ concent.
+  - When other users browse the infected pages from X, the browser believes that the JavaScript is from X. 
+  - TheSame Origin Policy allows the malicious JavaScript to access cookies of X, which can send legitimate HTTP requests to X onbehalf of the users, without the users’ concent.
 - Technical explanation of [The MySpace Worm](https://samy.pl/myspace/tech.html). 
   -  Myspace.com: Samy add JavaScript code in his proﬁle; whoever browses the proﬁle will get infected. 
   - The wormadded Samy to the victim’s friendlist, and then furtherpropogate the worms to those who view their proﬁles. 
