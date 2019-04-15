@@ -15,3 +15,12 @@ In this lab, we have created a web application that is vulnerable to the SQL inj
 [SQL_Injection](Web_SQL_Injection.pdf)
 
 Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Web/Web_SQL_Injection/). 
+
+
+### Grading
+Post your report in Marmoset by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
+- 30% - Design
+- 30% - Observations
+- 40% - Explanation
+- **Make sure you awnser the questions under Task 4**
+- *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
