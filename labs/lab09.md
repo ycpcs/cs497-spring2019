@@ -24,3 +24,6 @@ Post your report in [Marmoset](https://cs.ycp.edu/marmoset/login) by the schedul
 - 40% - Explanation
 - **You also need to provide explanation to the observations that are interesting or surprising.**
 - *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
+
+### Tips
+-Task 3.3 make sure you are using SHA1 hash function to generate the hash value of password.
