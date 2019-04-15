@@ -29,6 +29,7 @@ All information related to the course will be posted here.
 ## News
 <!-- * **May 13** &mdash; [Project Demo](assign/project.html)
 * **May 08** &mdash; [Project Code/Report](assign/project.html)-->
+* **Apr 26** &mdash; [SQL Injection Attack Lab](labs/lab09.html)    
 * **Apr 24** &mdash; [Project Proposal](assign/project.html)
 * **Apr 17** &mdash; [Cross-Site Scripting Attack Lab](labs/lab08.html) Due 
 * **Apr 08** &mdash; [Cross-Site Request Forgery (CSRF) Attack Lab](labs/lab07.html) Due
