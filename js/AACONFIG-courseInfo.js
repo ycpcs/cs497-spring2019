@@ -92,13 +92,13 @@ var courseInfo = {
 		topic: new Topic("Cross-Site Scripting (XSS) Attack", "lectures/lecture09.html"),
 		reading: new Reading("Chapter 7")
 	}, {
-		topic: new Topic("SQL Injection Attack", "")
+		topic: new Topic("SQL Injection Attack", "lectures/lecture10.html")
 	}, {
-		topic: new Topic("SQL Injection Attack", "")
+		topic: new Topic("SQL Injection Attack", "lectures/lecture10.html")
+	}, {
+		topic: new Topic("Review for Exam")	
 	}, {
 		topic: new Topic( "** Comprehensive Exam", "" )
-	}, {
-		topic: new Topic("Review of Exam")
 	}, {
 		topic: new Topic("Web Security", "lectures/lecture11.html"),
 		reading: new Reading("In class discussion"),
