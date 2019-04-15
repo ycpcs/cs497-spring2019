@@ -18,7 +18,7 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 
 
 ### Grading
-Post your report in Marmoset by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
+Post your report in [Marmoset](https://cs.ycp.edu/marmoset/login) by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
 - 30% - Design
 - 30% - Observations
 - 40% - Explanation
