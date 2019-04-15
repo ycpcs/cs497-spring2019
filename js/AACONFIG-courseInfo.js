@@ -93,7 +93,7 @@ var courseInfo = {
 		reading: new Reading("Chapter 7")
 	}, {
 		topic: new Topic("SQL Injection Attack", "lectures/lecture10.html"),
-		assign: new Assignment("SQL Injection Attack Lab", "labs/lab09.html", 9)
+		assign: new Assignment("SQL Injection Attack Lab", "labs/lab09.html", 11)
 	}, {
 		topic: new Topic("SQL Injection Attack", "lectures/lecture10.html")
 	}, {
