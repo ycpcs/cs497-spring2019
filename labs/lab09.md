@@ -23,7 +23,7 @@ Post your report in [Marmoset](https://cs.ycp.edu/marmoset/login) by the schedul
 - 30% - Observations
 - 40% - Explanation
 - **You must provide a screenshot of the network traffic with each attack.**
-- **You also need to provide explanation to the observations that are interesting or surprising.**
+- *You also need to provide explanation to the observations that are interesting or surprising.*
 - *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
 
 ### Tips
