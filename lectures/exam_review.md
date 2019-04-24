@@ -16,8 +16,8 @@ title: "Exam Review"
 - Operating Systems Security, filesystem security, buffer-overflow attacks
   - [Operating Systems Concepts](Ch03-OS.pdf)
   - [Operating Systems Security](Ch03-OSSec.pdf)
-  - [SetUID.pdf](setuid/SetUID.pdf)
-  - [Environment_Variables.pdf](setuid/Environment_Variables.pdf)
+  - [SetUID.pdf](../labs/setuid/SetUID.pdf)
+  - [Environment_Variables.pdf](../labs/setuid/Environment_Variables.pdf)
   - [Buffer Overflow](Ch03-BufferOverflow.pdf)
   - [Buffer Overflow Attack](Buffer_Overflow.pdf)
   - Buffer Overflow Lab [Step by Step](BufferOverflowLabStepByStep.pdf)
@@ -39,7 +39,7 @@ title: "Exam Review"
   - [notes](lecture08.html)
   - [CSRF.pdf](Web_CSRF.pdf)
   - Reading: Introduction to Computer Security: Chapter 7, Chapter 10.5
-  - XSS
+- XSS
   - [notes](lecture09.html)
   - [Web_XSS.pdf](Web_XSS.pdf)
   - Reading: Introduction to Computer Security: Chapter 7, Chapter 10.5
