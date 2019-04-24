@@ -32,6 +32,8 @@ title: "Exam Review"
   - [Computer Networking](Ch05-NetworkModelsARP.pdf)
   - [TCP/IP](Ch05-NetworksTCP-IP.pdf)
   - Reading: Introduction to Computer Security: Chapter 5
+    - IP Vulnerabilities
+    - TCP Data Transmission
     - IP Spoofing and ways of combating it
     - Smurf & DoD attacks  
 - Network Security II - DNS*
@@ -39,24 +41,29 @@ title: "Exam Review"
   - [DNS Attack](DNS_Attacks.pdf)
   - Reading: Introduction to Computer Security: Chapter 6
     - Intrusion detection events
+    - DNS Domain Hierarchy
     - DNS Attacks 
-    - DNSSEC & IPsec
+    - DNSSEC
 - Web Browser Security
   - [notes](lecture07.html)
   - Reading: Introduction to Computer Security: Chapter 7
     - IP header & what can I hide there
     - Cookies and their security concerns
+    - Basic [HTTP Methods](https://www.iana.org/assignments/http-methods/http-methods.xhtml)
+    - [Same-Origin Policy](https://code.google.com/archive/p/browsersec/wikis/Part2.wiki#Same-origin_policy)
 - CSRF
   - [notes](lecture08.html)
   - [CSRF.pdf](Web_CSRF.pdf)
   - Reading: Introduction to Computer Security: Chapter 7, Chapter 10.5
-    - Cross Side Scripting 
+    - Cross-Site Requests and Its Problems
+    - Cross-Site Request Forgery Attacks (GET and :POST) 
     - Defenses against client side attacks 
 - XSS
   - [notes](lecture09.html)
   - [Web_XSS.pdf](Web_XSS.pdf)
   - Reading: Introduction to Computer Security: Chapter 7, Chapter 10.5
     - XSS and countermeasures 
+    - Types of XSS Attacks
 - SQL Injection
   - [Web_SQL_Injection.pdf](Web_SQL_Injection.pdf)
   - Reading: Introduction to Computer Security: Chapter 7, Chapter 10.5
