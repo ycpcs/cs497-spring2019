@@ -8,13 +8,14 @@ title: "Exam Review"
 - Computer Security Introduction & Cryptographic Concepts
   - [Computer Security Introduction](Ch01-Introduction.pdf)
   - Reading: Introduction to Computer Security: Chapter 1
+    - Access Control Models 
     - Digital signatures
 - Physical Security, Locks, smart cards, computer forensics
   - [Locks](Ch02-Locks.pdf)
   - [Authentication](Ch02-Authentication.pdf)
   - [Direct Attacks](Ch02-Direct.pdf)
   - Reading: Introduction to Computer Security: Chapter 2
-    - File permission
+    - Is Physical Security An IT Concern?
 - Operating Systems Security, filesystem security, buffer-overflow attacks
   - [Operating Systems Concepts](Ch03-OS.pdf)
   - [Operating Systems Security](Ch03-OSSec.pdf)
@@ -25,8 +26,11 @@ title: "Exam Review"
   - Buffer Overflow Lab [Step by Step](BufferOverflowLabStepByStep.pdf)
   - [buffer_demo.cpp](buffer_demo.cpp)
   - Reading: Introduction to Computer Security: Chapter 3
+    - File permission
+    - Privileged Programs
+    - Principle of Least Privilege
     - Stack-based buffer overflow
-    - Race condition
+    - Password Security
 - Network Security I - ARP & TCP/IP
   - [lecture & lab](lecture05.html)
   - [Computer Networking](Ch05-NetworkModelsARP.pdf)
