@@ -6,6 +6,9 @@ title: Resources
 
 This page contains links to useful resources.
 
+Tools
+------------------------------------
+
 - [Visual Studio 2017](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=c1ca0b0c-0f62-e511-9410-b8ca3a5db7a1&vsro=8) is available through MSDNAA. Use the Desktop Development for C++ option.
 
 - [GCC](https://gcc.gnu.org/), the GNU Compiler Collection.
@@ -15,8 +18,6 @@ This page contains links to useful resources.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 
 - [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/) is a suite of more than 70 freeware utilities used to monitor, manage and troubleshoot the Windows operating system.
-
-- [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 - [Wireshark](https://www.wireshark.org/#download) is the world’s foremost and widely-used network protocol analyzer.
 
@@ -42,10 +43,12 @@ This page contains links to useful resources.
 
 - [jsop](https://jsoup.org/) Java HTML Parser
 
-- [CWE™](https://cwe.mitre.org/compatible/product.html) is a community-developed list of common software security weaknesses.
-
 Reading Material
 ------------------------------------
+- [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+
+- [CWE™](https://cwe.mitre.org/compatible/product.html) is a community-developed list of common software security weaknesses.
+
 - [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference) Reference
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital.
