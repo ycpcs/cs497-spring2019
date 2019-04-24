@@ -39,8 +39,6 @@ Tools
 
 - [VisualCodeGrepper](https://github.com/nccgroup/VCG) is an automated code security review tool that handles C/C++, Java, C#, VB and PL/SQL.
 
-- [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
-
 - [jsop](https://jsoup.org/) Java HTML Parser
 
 Reading Material
@@ -63,6 +61,11 @@ Reading Material
 
  - Prevent Cross-Site Scripting (**XSS**) in [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/cross-site-scripting?view=aspnetcore-2.2)
 
+
+$$$
+------------------------------------
+
+- [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
 
 SEED Labs
 ----------------------------------
