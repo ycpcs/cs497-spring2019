@@ -32,7 +32,7 @@ title: "Exam Review"
   - [Computer Networking](Ch05-NetworkModelsARP.pdf)
   - [TCP/IP](Ch05-NetworksTCP-IP.pdf)
   - Reading: Introduction to Computer Security: Chapter 5
-    - IP Spoofing
+    - IP Spoofing and ways of combating it
     - Smurf & DoD attacks  
 - Network Security II - DNS*
   - [Domain Name System](Ch06-NetworksDNS.pdf)
