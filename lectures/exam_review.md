@@ -9,6 +9,7 @@ title: "Exam Review"
   - [Computer Security Introduction](Ch01-Introduction.pdf)
   - Reading: Introduction to Computer Security: Chapter 1
     - Access Control Models 
+    - The Ten Security Principles
     - Digital signatures
 - Physical Security, Locks, smart cards, computer forensics
   - [Locks](Ch02-Locks.pdf)
