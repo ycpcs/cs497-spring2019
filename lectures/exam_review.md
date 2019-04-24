@@ -40,7 +40,7 @@ title: "Exam Review"
     - IP Vulnerabilities
     - TCP Data Transmission
     - IP Spoofing and ways of combating it
-    - Smurf & DoD attacks  
+    - Smurf & DoS attacks  
 - Network Security II - DNS*
   - [Domain Name System](Ch06-NetworksDNS.pdf)
   - [DNS Attack](DNS_Attacks.pdf)
@@ -61,7 +61,7 @@ title: "Exam Review"
   - [CSRF.pdf](Web_CSRF.pdf)
   - Reading: Introduction to Computer Security: Chapter 7, Chapter 10.5
     - Cross-Site Requests and Its Problems
-    - Cross-Site Request Forgery Attacks (GET and :POST) 
+    - Cross-Site Request Forgery Attacks (GET and POST) 
     - Defenses against client side attacks 
 - XSS
   - [notes](lecture09.html)
