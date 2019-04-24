@@ -42,6 +42,8 @@ This page contains links to useful resources.
 
 - [jsop](https://jsoup.org/) Java HTML Parser
 
+- [CWE™](https://cwe.mitre.org/compatible/product.html) is a community-developed list of common software security weaknesses.
+
 Reading Material
 ------------------------------------
 - [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference) Reference
