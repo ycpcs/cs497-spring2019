@@ -31,7 +31,7 @@ All information related to the course will be posted here.
 * **May 08** &mdash; [Project Code/Report](assign/project.html) Due
 * **Apr 29** &mdash; We have our Exam! [Exam review](lectures/exam_review.md)
 * **Apr 26** &mdash; [SQL Injection Attack Lab](labs/lab09.html) Due   
-* **Apr 24** &mdash; [Project Proposal](assign/project.html)
+* **Apr 24** &mdash; [Project Proposal](assign/project.html) Due
 * **Apr 17** &mdash; [Cross-Site Scripting Attack Lab](labs/lab08.html) Due 
 * **Apr 08** &mdash; [Cross-Site Request Forgery (CSRF) Attack Lab](labs/lab07.html) Due
 * **Mar 25** &mdash; [Local DNS Attack Lab](labs/lab06.html) Due
