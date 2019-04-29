@@ -22,7 +22,7 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 - Firefox Addon [HTTP Header Live](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/?src=search) - Show the HTTP header fields. You can edit and resubmit.
 
 ### Grading
-Post your report in Marmoset by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
+Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
 - 30% - Design
 - 30% - Observations
 - 40% - Explanation
