@@ -27,8 +27,8 @@ All information related to the course will be posted here.
 * [Ethics](ethics.html)
 
 ## News
-<!-- * **May 13** &mdash; [Project Demo](assign/project.html)
-* **May 08** &mdash; [Project Code/Report](assign/project.html)-->
+<!-- * **May 13** &mdash; [Project Demo](assign/project.html)-->
+* **May 08** &mdash; [Project Code/Report](assign/project.html)
 * **Apr 29** &mdash; We have our Exam! [Exam review](lectures/exam_review.md)
 * **Apr 26** &mdash; [SQL Injection Attack Lab](labs/lab09.html) Due   
 * **Apr 24** &mdash; [Project Proposal](assign/project.html)
