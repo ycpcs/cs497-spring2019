@@ -101,12 +101,10 @@ var courseInfo = {
 	}, {
 		topic: new Topic( "** Comprehensive Exam", "" )
 	}, {
-		topic: new Topic("Web Security", "lectures/lecture11.html"),
-		reading: new Reading("In class discussion"),
+		topic: new Topic("Exam Review, Labs Wrap-up, Project Work", ""),
 		lab: new Lab("Lab Module 11", "lab11.html")
 	}, {
-		topic: new Topic("Privacy and Anonymity on the Internet", "lectures/lecture11.html"),
-		reading: new Reading("In class discussion"),
+		topic: new Topic("Project work", ""),
 		lab: new Lab("Lab Module 11", "lab11.html")
 	}, {
 		topic: new Topic("Course wrap up", "lectures/lecture13.html")
