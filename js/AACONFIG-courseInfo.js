@@ -97,17 +97,17 @@ var courseInfo = {
 	}, {
 		topic: new Topic("SQL Injection Attack", "lectures/lecture10.html")
 	}, {
-		topic: new Topic("Review for Exam")	
+		topic: new Topic("Review for Exam"),
+		reading: new Reading("Chapter 1 - 7")
 	}, {
-		topic: new Topic( "** Comprehensive Exam", "" )
+		topic: new Topic( "** Comprehensive Exam", "" ),
+		reading: new Reading("Chapter 1 - 7")
 	}, {
-		topic: new Topic("Exam Review, Labs Wrap-up, Project Work", ""),
-		lab: new Lab("Lab Module 11", "lab11.html")
+		topic: new Topic("Exam Review, Labs Wrap-up, Project Work", "")
 	}, {
-		topic: new Topic("Project work", ""),
-		lab: new Lab("Lab Module 11", "lab11.html")
+		topic: new Topic("Project work", "")
 	}, {
-		topic: new Topic("Course wrap up", "lectures/lecture13.html")
+		topic: new Topic("Course wrap up", "")
 	}]
 };
 
