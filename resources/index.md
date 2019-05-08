@@ -25,8 +25,6 @@ Tools
 
 - [Fiddler](https://www.telerik.com/fiddler) is free web debugging proxy for any browser, system or platform.
 
-- [Ettercap](http://www.ettercap-project.org/ettercap/) is a comprehensive suite for man in the middle attacks.
-
 - [MD5 Hash Generator](https://www.md5hashgenerator.com/)
 
 - [Hash Suite](https://hashsuite.openwall.net/) is a Windows program to test security of password hashes. 
@@ -54,6 +52,12 @@ Penetration Testing
 - [The Metasploit Project](https://www.metasploit.com/) is the world’s most used penetration testing framework.
 
 - [Snort](https://www.snort.org/) - Network Intrusion Detection & Prevention System
+
+- [Ettercap](http://www.ettercap-project.org/ettercap/) is a comprehensive suite for man in the middle attacks.
+
+- [Burp or Burp Suite](https://portswigger.net/burp) is a graphical tool for testing Web application security. 
+
+- [w3af](http://w3af.org/) (<b>w</b>eb <b>a</b>pplication <b>a</b>ttack and <b>a</b>udit <b>f</b>ramework) is an open-source web application security scanner. 
 
 Reading Material
 ------------------------------------
