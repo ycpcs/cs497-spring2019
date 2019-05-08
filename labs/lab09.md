@@ -16,6 +16,8 @@ In this lab, we have created a web application that is vulnerable to the SQL inj
 
 Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Web/Web_SQL_Injection/). 
 
+[Bobby Tables](https://bobby-tables.com/): A guide to preventing SQL injection
+
 
 ### Grading
 Post your report in [Marmoset](https://cs.ycp.edu/marmoset/login) by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
