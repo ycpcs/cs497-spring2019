@@ -21,8 +21,6 @@ Tools
 
 - [Wireshark](https://www.wireshark.org/#download) is the world’s foremost and widely-used network protocol analyzer.
 
-- [Kismet](https://www.kismetwireless.net/) is a wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework.
-
 - [Postman](https://www.getpostman.com/]) API development environment
 
 - [Fiddler](https://www.telerik.com/fiddler) is free web debugging proxy for any browser, system or platform.
@@ -31,17 +29,31 @@ Tools
 
 - [MD5 Hash Generator](https://www.md5hashgenerator.com/)
 
-- [netwox](http://www.cis.syr.edu/~wedu/Teaching/cis758/netw522/netwox-doc_html/) is a **netw**ork toolb**ox** for network administrators and network hackers.
-
 - [Hash Suite](https://hashsuite.openwall.net/) is a Windows program to test security of password hashes. 
-
-- [Nmap](https://nmap.org/) is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
 
 - [VisualCodeGrepper](https://github.com/nccgroup/VCG) is an automated code security review tool that handles C/C++, Java, C#, VB and PL/SQL.
 
 - List of [Steganography Tools](http://www.jjtc.com/Steganography/tools.html) 
 
 - [jsop](https://jsoup.org/) Java HTML Parser
+
+Penetration Testing
+------------------------------------
+- Open Source Security Testing Methodology Manual [OSSTMM](http://www.isecom.org/osstmm.html)
+
+- [Nmap](https://nmap.org/) is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
+
+- [Kismet](https://www.kismetwireless.net/) is a wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework.
+
+- [netwox](http://www.cis.syr.edu/~wedu/Teaching/cis758/netw522/netwox-doc_html/) is a **netw**ork toolb**ox** for network administrators and network hackers.
+
+- [nessus](https://www.tenable.com/products/nessus/nessus-professional) is a proprietary vulnerability scanner developed by Tenable Network Security.
+
+- [OpenVAS](http://www.openvas.org/) is a software framework of several services and tools offering vulnerability scanning and vulnerability management.
+
+- [The Metasploit Project](https://www.metasploit.com/) is the world’s most used penetration testing framework.
+
+- [Snort](https://www.snort.org/) - Network Intrusion Detection & Prevention System
 
 Reading Material
 ------------------------------------
