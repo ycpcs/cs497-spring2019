@@ -107,7 +107,7 @@ var courseInfo = {
 	}, {
 		topic: new Topic("Project work", "")
 	}, {
-		topic: new Topic("Course wrap up, Review OWASP Top Ten Project", "https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project")
+		topic: new Topic("Course wrap up. OWASP Top Ten Project", "https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project")
 	}]
 };
 
