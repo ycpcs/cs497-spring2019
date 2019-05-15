@@ -47,7 +47,7 @@ Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due
   - After **Samy** updates [his profile](xss\task1_updating_profile.PNG) and after **Alice** [views it](xss/task1_alice_view_samy_profile.png). 
 - Task 2
   - When Alice visits Samy's profile, the injected JavaScript code is executed and displays the cookies in an alert. 
-  - After **Samy** updates [his profile](xss\task2_updating_profile.PNG) and after **Alice** [views it](xss/task2_alice_view_samy_profile.png).
+  - After **Samy** updates [his profile](xss\task2_updating_profile.png) and after **Alice** [views it](xss/task2_alice_view_samy_profile.png).
 - Task 3
   - [Stealing Cookies](xss/task3_stealing_cookies.png). I'm using a separate VM to listens for a connection on the specified port. 
 - Task 4
